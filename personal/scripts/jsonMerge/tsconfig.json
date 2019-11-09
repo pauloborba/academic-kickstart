@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "lib": ["es6"]
+  },
+}

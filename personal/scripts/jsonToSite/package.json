@@ -1,0 +1,19 @@
+{
+  "name": "jsonToSite",
+  "version": "0.0.1",
+  "main": "jsonToSite.js",
+  "dependencies": {
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Borba",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}

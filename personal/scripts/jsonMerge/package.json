@@ -1,0 +1,19 @@
+{
+  "name": "jsonMerge",
+  "version": "0.0.1",
+  "main": "jsonMerge.js",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "@types/node": "^10.12.18"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Borba",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}

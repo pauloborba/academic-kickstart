@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+
+# TODO
+#
+# add error handling (abort if files not available, especially curriculo.xml, do not rm files if others have not been created!)
+#
+
+# BEFORE CALLING THIS SCRIPT
+#
+# Download "curriculo.xml" file from Lattes (thorugh the search CV option, not 
+# the update CV option). Store it in the "files" directory.
+#
+
+#
+# generating JSON from Lattes XML
+#
+cd lattesXml2Json
+mv ../files/curriculo.xml vitaeCNPq.xml
+ruby lattes2Json.rb > ../files/novoCurriculoBaixadoDoLattes.json
+rm vitaeCNPq.xml
+
+#
+# merging new and old JSONs
+#
+cd ../jsonMerge
+node jsonMerge ../files/curriculoAtual.json ../files/novoCurriculoBaixadoDoLattes.json ../files/novoCurriculoIntegrado.json
+cd ../files
+rm novoCurriculoBaixadoDoLattes.json
+rm curriculoAnterior.json
+mv curriculoAtual.json curriculoAnterior.json
+mv novoCurriculoIntegrado.json curriculoAtual.json
+
+#
+# AFTER CALLING THIS SCRIPT
+#
+# Manually edit curriculoAtual.json removing conflicts, and adding 
+#   extra information (pdf files, etc.). 
+# PDF files should be added to scripts/jsonToSite/resources
+# If there are new author and journal name issues, assess if it's better 
+#   to solve them directly at Lattes GUI or adapting script in lattesXml2Json
+#
+# After that, clean the jsonToSite/output directory and call the jsonToSite script.
+#
+# cd jsonToSite/output
+# rm -R *
+# node ../jsonToSite
+#
+# cp ../../../../content/publication/_index.md .
+# rm -R ../../../../content/publication/*
+# mv * ../../../../content/publication
+#  
+# cd ../../ 
+# hugo server
+#
+# update_site
+# commit em que exatamente e push para onde... que repo primeiro? 
+# quando chamar update_academic e update_site? 
