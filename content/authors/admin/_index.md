@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Paulo Borba
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Software Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Federal University of Pernambuco
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#  - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +44,34 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:phmb@cin.ufpe.br"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/pauloborba
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.br/citations?user=PpRDLgcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/pauloborba  
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCGKdoVO462BCONX4T3R606g
+- icon: cv
+  icon_pack: ai
+  link: http://lattes.cnpq.br/9395715443254344
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/paulo-borba
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/paulohmborba
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-0381-2843"
+
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,11 +83,20 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
+
 ---
+I am Professor of Software Engineering at the [Informatics Center](http://www.cin.ufpe.br) of the Federal University of Pernambuco, where I lead the [Software Productivity Group](http://www.cin.ufpe.br/spg).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I investigate and develop tools and techniques for improving software development quality and productivity levels without compromising human life quality factors. In my research, I pursue a mix of academic excellence with practical relevance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My main research interests are in the following topics and their integration: advanced (semi-structured, structured, semantic) code merging tools, code integration conflicts, continuous integration and deployment, software modularity, software product lines, and refactoring.
+
+I am a member of the ACM and of the Brazilian Computer Society.
+
+I was co-founder of [Qualiti Software Processes](http://www.qualiti.com.br), a spin-off of the Informatics Center and [C.E.S.A.R.](http://www.cesar.org.br), specialized on software development tools and processes.
+
+I have a D.Phil. in Computing from Oxford University, and an M.Sc. and a B.Sc. in Computer Science from Federal University of Pernambuco.
+
