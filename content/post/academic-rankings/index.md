@@ -1,34 +1,33 @@
-+++
-title = "Academic rankings"
-date = 2019-11-08T20:14:56-03:00
-draft = false
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+title: "Academic rankings"
+subtitle: ""
+summary: ""
+authors: []
+tags: ["academic assessment"]
+categories: []
+date: 2019-11-09T17:02:46-03:00
+lastmod: 2019-11-09T17:02:46-03:00
+featured: false
+draft: false
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["academic assessment"]
-categories = []
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: "Smart"
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references
-#   `content/project/deep-learning/index.md`.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+projects: []
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-[image]
-  # Caption (optional)
-  caption = ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+---
 
 I do not like academic rankings. 
 
