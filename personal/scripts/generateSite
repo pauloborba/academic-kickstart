@@ -49,8 +49,24 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # rm -R ../../../../content/publication/*
 # mv * ../../../../content/publication
 #  
+# For testing the website
 # cd ../../ 
 # hugo server
+#
+# For putting the website in public
+# cd ../../ 
+# hugo
+#
+# For uploading the website to github.io
+# cd public
+# git add .
+# git commit -m "Build website"
+# git push origin master
+# cd ..
+#
+# git status
+# git commit
+# git push
 #
 # update_site
 # commit em que exatamente e push para onde... que repo primeiro? 
