@@ -35,39 +35,55 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 #
 # Manually edit curriculoAtual.json removing conflicts, and adding 
 #   extra information (pdf files, etc.). 
-# PDF files should be added to scripts/jsonToSite/resources
+# PDF files of new articles should be added to scripts/jsonToSite/resources
 # If there are new author and journal name issues, assess if it's better 
-#   to solve them directly at Lattes GUI or adapting script in lattesXml2Json
+#   to solve them directly at Lattes GUI or adapting the script in lattesXml2Json
 #
 # After that, clean the jsonToSite/output directory and call the jsonToSite script.
 #
-# cd jsonToSite/output
+# cd ../jsonToSite/output
 # rm -R *
 # node ../jsonToSite
+#
+# And then copy the newly generated publications to the content directory
+# (which is used as the basis to generate the site)
 #
 # cp ../../../../content/publication/_index.md .
 # rm -R ../../../../content/publication/*
 # mv * ../../../../content/publication
 #  
-# For testing the website
-# cd ../../ 
-# hugo server
+# Test the website
 #
-# For putting the website in public
-# cd ../../ 
+# cd ../../../../ 
+# hugo --i18n-warnings server
+#
+# If everything is OK, generate and put the website in public
+#  
 # hugo
 #
-# For uploading the website to github.io
+# And commit new website version and upload it to github.io
+#
 # cd public
 # git add .
-# git commit -m "Build website"
+# git commit -m "new version of the website"
 # git push origin master
 # cd ..
 #
-# git status
-# git commit
-# git push
+# Finally, commit new content version and upload it to my academic fork
 #
-# update_site
-# commit em que exatamente e push para onde... que repo primeiro? 
-# quando chamar update_academic e update_site? 
+# git status
+# git commit -m "new version of the website"
+# git push origin master
+#
+# Eventually update academic by calling the update_academic.sh script
+# or following the instructions in https://sourcethemes.com/academic/docs/update/
+#
+# To create a post
+#
+# hugo new --kind post post/my-article-name
+#
+# To create a project
+#
+# hugo new --kind project project/my-project-name
+#
+# Further instructions on https://sourcethemes.com/academic/docs/managing-content/

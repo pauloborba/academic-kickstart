@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "s3m"
+title: "Semistructure Merge Tools"
 summary: "We investigate and develop a semistructured merge tool that improves code integration accuracy without compromising performance."
 authors: []
 tags: []
@@ -40,11 +40,22 @@ url_video: ""
 slides: ""
 ---
 
-Developers often waste time manually resolving merge conflicts that could be automatically solved, like integrating independent import or method declarations that happened to be included in the same area of the code. 
+#### Problem
+
+Developers often waste time manually resolving merge conflicts that could be automatically solved, like when integrating independent import or method declarations that happened to be included in the same area of the code. 
+
 Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of the text. 
 
-To avoid such negative impact on development productivity and software quality, we develop s3m, a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance. 
+These problems compromise development productivity and software quality.
 
-In our OOPSLA 2017 paper we show that s3m considerably improves textual (unstructured) merge tools and previous semistructured merge tools for Java. 
-In an ASE 2019 paper, we show that semistructured merge benefits for Javascript can be much inferior than the results obtained for Java.
-In another ASE 2019 paper, we show that semistructured and structured merge do not significant;y differ, suggesting that semistructured merge might be a better option for most contexts.
+#### Solution
+
+To avoid them, we develop [s3m](https://github.com/guilhermejccavalcanti/jFSTMerge), a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance. 
+
+#### Results
+
+In our [OOPSLA 2017]({{< ref "/publication/2017evaluating_and_improving_semistructured_merge/index.md" >}}) paper we show that s3m considerably improves textual (unstructured) merge tools and previous semistructured merge tools for Java. 
+
+In one of our [ASE 2019]({{< ref "/publication/2019semistructured_merge_in_javascript_systems/index.md" >}}) paper, we show that semistructured merge benefits for Javascript can be much inferior than the results obtained for Java.
+
+In another [ASE 2019]({{< ref "/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/index.md" >}}) paper, we show that semistructured and structured merge do not significantly differ, suggesting that semistructured merge might be a better option for most contexts.

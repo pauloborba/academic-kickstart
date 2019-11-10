@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Semantic Merge"
+title: "Semantic Merge Tools"
 summary: "We investigate static and dynamic analysis techniques to develop semantic merge tools that detect conflicts missed by current tools."
 authors: []
 tags: []

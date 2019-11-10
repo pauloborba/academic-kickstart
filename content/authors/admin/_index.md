@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Software Engineering
+#role: Professor of Software Engineering
 
 # Organizations/Affiliations
-organizations:
-- name: Federal University of Pernambuco
-  url: ""
+#organizations:
+#- name: Federal University of Pernambuco
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:
