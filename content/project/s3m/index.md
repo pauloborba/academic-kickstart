@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/guilhermejccavalcanti/jFSTMerge/"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=hhrg9qRwZL8"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
