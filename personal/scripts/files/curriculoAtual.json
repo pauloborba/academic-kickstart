@@ -497,7 +497,8 @@
       "title": "Coevolution of variability models and related software artifacts",
       "journal": "Empirical Software Engineering",
       "pages": "1744-1793",
-      "year": "2016"
+      "year": "2016",
+      "pdf": "2016ESECoevolutionOfVariabilityModelsAndRelatedSoftwareArtifacts.pdf"
    },
    {
       "authors": [
@@ -511,21 +512,23 @@
       "title": "Assessing fine-grained feature dependencies",
       "journal": "Information and Software Technology",
       "pages": "27-52",
-      "year": "2016"
+      "year": "2016",
+      "pdf": "2016ISTAssessingFineGrainedFeatureDependencies.pdf"
    },
    {
       "authors": [
          "Rodrigo Andrade",
          "Márcio Ribeiro",
-         "Henrique RebÊlo",
+         "Henrique Rebêlo",
          "Paulo Borba",
          "Vaidas Gasiunas",
          "Lucas Satabin"
       ],
       "title": "Assessing Idioms for a Flexible Feature Binding Time",
       "journal": "Computer Journal",
-      "pages": "bxv054-32",
-      "year": "2016"
+      "pages": "054-32",
+      "year": "2016",
+      "pdf": "2016CJAssessingIdiomsForFlexibleFeatureBindingTime.pdf"
    },
    {
       "authors": [
@@ -562,7 +565,8 @@
       "title": "Evaluating and improving semistructured merge",
       "journal": "Proceedings of the ACM on Programming Languages",
       "pages": "1-27",
-      "year": "2017"
+      "year": "2017",
+      "pdf": "2017OOPSLASemiVsUnstructuredMerge.pdf"
    },
    {
       "authors": [
@@ -2643,7 +2647,8 @@
       "conference": "X Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2016)",
       "pages": "11-20",
       "country": "Brasil",
-      "year": "2016"
+      "year": "2016",
+      "pdf": "2016SBCARSFeatureExtractionScenariosForSafelyEvolvingSPLs.pdf"
    },
    {
       "authors": [
@@ -2655,7 +2660,8 @@
       "conference": "20th International Software Product Line Conference (SPLC 2016)",
       "pages": "124-133",
       "country": "China",
-      "year": "2016"
+      "year": "2016",
+      "year": "2016SPLCPartiallySafeEvolutionOfSPLs.pdf"
    },
    {
       "authors": [
@@ -2670,7 +2676,8 @@
       "conference": "30th Brazilian Symposium on Software Engineering (SBES 2016)",
       "pages": "153-156",
       "country": "Brasil",
-      "year": "2016"
+      "year": "2016",
+      "pdf": "E6794BEF-A674-4B40-B206-75576A3EE9D0.pdf"
    },
    {
       "authors": [
@@ -2682,7 +2689,8 @@
       "conference": "2017 IEEE/ACM 39th International Conference on Software Engineering Companion (ICSEC)",
       "pages": "325-327",
       "country": "Argentina",
-      "year": "2017"
+      "year": "2017",
+      "pdf": "2017ICSEShouldWeReplaceOurMergeTools.pdf"
    },
    {
       "authors": [
@@ -2697,7 +2705,8 @@
       "conference": "21st International Systems and Software Product Line Conference (SPLC 2017)",
       "pages": "84-93",
       "country": "Espanha",
-      "year": "2017"
+      "year": "2017",
+      "pdf": "2017SPLCWorstCaseEnergyConsumptionInSPLs.pdf"
    },
    {
       "authors": [
