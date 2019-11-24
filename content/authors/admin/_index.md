@@ -90,8 +90,8 @@ email: ""
 ---
 I am Professor of Software Engineering at the [Informatics Center](http://www.cin.ufpe.br) of the Federal University of Pernambuco, where I lead the [Software Productivity Group](http://www.cin.ufpe.br/spg).
 
-I investigate and develop tools and techniques for improving software development quality and productivity levels, especially by reducing unnecessary friction in software  developers work activities, and helping them to feel happier about the work they do. 
-In my research, I pursue a mix of academic excellence with practical relevance.
+I investigate and develop tools and techniques for improving software development quality and productivity levels, especially by reducing unnecessary effort and frustration in software developers work activities. 
+I pursue a mix of academic excellence with industrial relevance.
 
 My main research interests are in the following topics and their integration: advanced (semi-structured, structured, semantic) code merging tools, code integration conflicts, continuous integration and deployment, software modularity, software product lines, and refactoring.
 
