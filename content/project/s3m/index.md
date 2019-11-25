@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Semistructure Merge Tools"
-summary: "We investigate and develop a semistructured merge tool that improves code integration accuracy without compromising performance."
+title: "Semistructured Merge Tools"
+summary: "We investigate and develop semistructured merge tools that improve  code integration accuracy without compromising performance."
 authors: []
 tags: []
 categories: []

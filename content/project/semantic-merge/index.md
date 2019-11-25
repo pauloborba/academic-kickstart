@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Using static analyses and tests to detect interference among changes to be integrated"
   focal_point: ""
   preview_only: false
 
@@ -39,3 +39,18 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+#### Problem
+
+Current merge tools are oblivious to the semantic of the code changes that they integrate. As a consequence, they might integrate conflicting changes without warning developers, like when two people independently change the behavior of dependent parts of the code. 
+
+Such missed conflicts are hardly detected by project tests or code reviews, and end up escaping to system users, with potentially severe negative consequences. When users report such defects, developers might have a hard time to understand the underlying causes and fix the code.
+
+These problems compromise development productivity and software quality.
+
+#### Solution
+
+To detect such conflicts at integration time, we are studying two techniques for building semantic merge tools. First, we are developing static analyses to detect interference among the changes to be integrated. Second, we are using  test generation tools for generating tests that reveal such interference.
+
+
+
