@@ -3,11 +3,11 @@
 
 title: "Partially Safe Evolution of Software Product Lines"
 authors: ["Gabriela Sampaio","Paulo Borba","Leopoldo Teixeira"]
-date: 2016-01-01
+date: 2016SPLCPartiallySafeEvolutionOfSPLs.pdf-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2016-01-01
+publishDate: 2016SPLCPartiallySafeEvolutionOfSPLs.pdf-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

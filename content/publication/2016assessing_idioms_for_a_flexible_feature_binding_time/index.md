@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Assessing Idioms for a Flexible Feature Binding Time"
-authors: ["Rodrigo Andrade","Márcio Ribeiro","Henrique RebÊlo","Paulo Borba","Vaidas Gasiunas","Lucas Satabin"]
+authors: ["Rodrigo Andrade","Márcio Ribeiro","Henrique Rebêlo","Paulo Borba","Vaidas Gasiunas","Lucas Satabin"]
 date: 2016-01-01
 doi: ""
 
@@ -37,7 +37,7 @@ featured: false
 #    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2016assessing_idioms_for_a_flexible_feature_binding_time/2016CJAssessingIdiomsForFlexibleFeatureBindingTime.pdf"
 url_code:
 url_dataset:
 url_poster:

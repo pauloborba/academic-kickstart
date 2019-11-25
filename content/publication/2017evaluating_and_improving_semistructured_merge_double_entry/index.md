@@ -37,7 +37,7 @@ featured: false
 #    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2017evaluating_and_improving_semistructured_merge_double_entry/2017OOPSLASemiVsUnstructuredMerge.pdf"
 url_code:
 url_dataset:
 url_poster:

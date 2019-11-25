@@ -2,6 +2,7 @@
 
 # TODO
 #
+# check problem with articles with the same title, in different years, especially 2016 Partially Safe Evolution of Software Product Lines
 # copy essential info from old site and short CV
 # ask nadja to redirect my website
 # add more pdfs for articles (OK up to 2016)
@@ -9,6 +10,7 @@
 # add resources to .gitignore
 # fix Disqus issue, or remove it
 # progressively copy stuff from federated wiki and SPG internal links
+# improve and document scripts, including this one!
 #
 # add error handling (abort if files not available, especially curriculo.xml, do not rm files if others have not been created!)
 #

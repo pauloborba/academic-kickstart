@@ -37,7 +37,7 @@ featured: false
 #    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2017should_we_replace_our_merge_tools?/2017ICSEShouldWeReplaceOurMergeTools.pdf"
 url_code:
 url_dataset:
 url_poster:

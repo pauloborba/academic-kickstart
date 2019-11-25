@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Improving the prediction of files changed by programming tasks"
-authors: ["Joao Santos","Thaís Rocha","Paulo Borba"]
+authors: ["João Santos","Thaís Rocha","Paulo Borba"]
 date: 2019-01-01
 doi: ""
 
