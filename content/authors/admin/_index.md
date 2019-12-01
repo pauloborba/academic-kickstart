@@ -97,7 +97,7 @@ My main research interests are in the following topics and their integration: ad
 
 I am a member of the ACM and of the Brazilian Computer Society.
 
-I was co-founder of [Qualiti Software Processes](http://www.qualiti.com.br), a spin-off of the Informatics Center and [C.E.S.A.R.](http://www.cesar.org.br), specialized on software development tools and processes.
+I co-founded [Qualiti Software Processes](http://www.qualiti.com.br), a spin-off of the Informatics Center and [C.E.S.A.R.](http://www.cesar.org.br), specialized on software development tools and processes.
 
 I have a D.Phil. in Computing from Oxford University, and an M.Sc. and a B.Sc. in Computer Science from Federal University of Pernambuco.
 

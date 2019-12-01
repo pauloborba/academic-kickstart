@@ -2,8 +2,9 @@
 
 # TODO
 #
-# copy essential info from short CV
+# copy essential info from short CV (service, supervision/students)
 # ask nadja to redirect my website
+# check whether google is indexing site
 # add more pdfs for articles (OK up to 2016)
 # add featured publications section
 # add resources to .gitignore
@@ -71,6 +72,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # hugo
 #
 # And commit new website version and upload it to github.io
+# public is the generated website content mapped to pauloborba.github.io
 #
 # cd public
 # git add .
@@ -79,6 +81,9 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # cd ..
 #
 # Finally, commit new content version and upload it to my academic fork
+# homepage is my academic-kickstart fork with my website source code, 
+# scripts, pdf files, and all material that is used to generate the actual
+# website content.
 #
 # git status
 # git commit -m "new version of the website"
@@ -86,6 +91,8 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 #
 # Eventually update academic by calling the update_academic.sh script
 # or following the instructions in https://sourcethemes.com/academic/docs/update/
+# academic is mapped to the original academic repo and contains the generic 
+# infrastructure for generating sites
 #
 # To create a post
 #
