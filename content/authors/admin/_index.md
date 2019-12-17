@@ -88,7 +88,7 @@ email: ""
 #- Visitors
 
 ---
-I am Professor of Software Engineering at the [Informatics Center](http://www.cin.ufpe.br) of the Federal University of Pernambuco, where I lead the [Software Productivity Group](http://www.cin.ufpe.br/spg).
+I am Professor of Software Engineering at the [Informatics Center](http://www.cin.ufpe.br) (see [video](https://www.youtube.com/watch?feature=youtu.be&v=ioT7VK2MlxU)) of the Federal University of Pernambuco, where I lead the [Software Productivity Group](http://www.cin.ufpe.br/spg) (see [video](https://www.youtube.com/watch?v=xGJnfGNKPsc&t=24s)).
 
 I investigate and develop tools and techniques for improving software development quality and productivity levels, especially by reducing unnecessary effort and frustration in software developers work activities. 
 I pursue a mix of academic excellence with industrial relevance.
