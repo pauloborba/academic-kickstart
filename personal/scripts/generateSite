@@ -92,6 +92,8 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # git commit -m "new version of the website"
 # git push origin master
 #
+# Load new sitemap in https://search.google.com/search-console?resource_id=https%3A%2F%2Fpauloborba.github.io%2F
+#
 # Eventually update academic by calling the update_academic.sh script
 # or following the instructions in https://sourcethemes.com/academic/docs/update/
 # academic is mapped to the original academic repo and contains the generic 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semistructured Merge Tools"
-summary: "We investigate and develop semistructured merge tools that improve  code integration accuracy without compromising performance."
+summary: "We investigate and develop semistructured merge tools that improve code integration accuracy without compromising performance."
 authors: []
 tags: []
 categories: []
@@ -42,15 +42,15 @@ slides: ""
 
 #### Problem
 
-Developers often waste time by manually resolving merge conflicts that could be automatically solved, like when integrating independent import or method declarations that happened to be included by different developers in the same area of the code. 
+Developers often waste time by manually resolving merge conflicts that could be automatically resolved, like when integrating independent import or method declarations that happened to be included by different developers in the same area of the code. 
 
-Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of the program. 
+Worse, current merge tools might integrate conflicting changes without warning developers, like when two people independently declare methods with the same signature in different parts of a class. 
 
 These problems compromise development productivity and software quality.
 
 #### Solution
 
-To avoid them, we develop [s3m](https://github.com/guilhermejccavalcanti/jFSTMerge), a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance. 
+To avoid such problems, we develop [s3m](https://github.com/guilhermejccavalcanti/jFSTMerge), a semistructured merge tool that partially explores programming language syntactic structure to provide more accurate code integration without compromising execution performance. 
 
 #### Results
 
@@ -62,14 +62,14 @@ Driven by these findings, we implement s3m, an improved semistructured merge too
 We find evidence that s3m, when compared to unstructured merge in our sample, reduces the number of reported conflicts by half, has no additional false positives, has at least 8% fewer false negatives, and is not prohibitively slower.
 
 ##### s3m benefits do not generalize to JavaScript
-To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our [ASE 2019]({{< ref "/publication/2019semistructured_merge_in_javascript_systems/index.md" >}}) papers we implement two semistructured merge tools for JavaScript, and compare them to an unstructured tool. 
+To understand whether semistructured merge and the just mentioned benefits generalize to other kinds of languages, in one of our [ASE 2019]({{< ref "/publication/2019semistructured_merge_in_javascript_systems/index.md" >}}) papers we implement two semistructured merge tools for JavaScript, and compare them to a widely used unstructured tool. 
 We find that current semistructured merge algorithms and frameworks are not directly applicable for scripting languages like JavaScript. 
 By adapting the merge algorithms, we find evidence that our JavaScript tools report fewer false positives than unstructured merge, without compromising the correctness of the merging process. 
-The benefits, however, are much smaller than the ones observed for Java-like languages, suggesting that semistructured merge advantages might be limited for languages that allow both commutative and non-commutative declarations at the same syntactic level.
+The benefits, however, are much smaller than the ones observed for Java-like languages, suggesting that semistructured merge advantages might be limited for languages that allow both commutative elements (like function declarations) and non-commutative elements (like statements) at the same syntactic level.
 
-##### More structure does not improve merge accuracy 
-To better understand the impact of exploring more language syntactic structure in software merging, in another [ASE 2019]({{< ref "/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/index.md" >}}) paper we compare semistructured merge with structured merge. 
+##### More structure does not necessarily improve merge accuracy 
+To better understand the impact of exploring additional language syntactic structure in software merging, in another [ASE 2019]({{< ref "/publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/index.md" >}}) paper we compare semistructured merge with structured merge. 
 In particular, we compare s3m with an structured tool we implemented and that behaves as s3m for merging declarations, but invokes JDime (an structured merge tool for Java) for merging the bodies of declarations. 
 Our results show that semistructured and structured merge differ less often than we expected, in only 24% of the scenarios with conflicts. 
 Semistructured merge reports more false positives, whereas structured merge has more false negatives. 
-Finally, we found that adapting a semistructured merge tool to resolve a particular kind of conflict makes semistructured and structured merge even closer.
+Finally, we found that adapting a semistructured merge tool to resolve a particular kind of conflict (caused by changes to consecutive lines) makes semistructured and structured merge even closer.
