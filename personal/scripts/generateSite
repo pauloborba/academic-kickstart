@@ -10,6 +10,8 @@
 # add featured publications section
 # add resources to .gitignore
 # fix Disqus issue, or remove it
+# copy student info from Lattes, as done for publications
+# add students pictures and home pages, and former students too
 # progressively copy stuff from federated wiki and SPG internal links
 # improve and document scripts, including this one!
 #
