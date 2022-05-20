@@ -12,13 +12,12 @@ subtitle = ""
 
 +++
 
-Here are the students I currently supervise:
+Here are the students I currently supervise, with their expected graduation dates:
 
-* Klissiomara Dias (PhD 2020)
-* Thaís Burity (PhD 2020)
-* Léuson Silva (PhD 2021)
-* João Coutinho (Undergraduate 2019)
-* Rafael Alves (Undergraduate 2020)
-* João Pedro Mosaikis (Undergraduate 2020)
+* Galileu Santos de Jesus (PhD 2024)
+* Matheus Barbosa (PhD 2026)
+* Leonardo Lima (PhD 2026)
+* Marcela Bandeira Cunha (MSc 2022)
+* José Antônio Alves Maciel (BSc 2023)
 
-I often have opportunities for supervising good students interested in the topics I study. Please [contact](#contact) me for further detail. 
+I often have opportunities for supervising dedicated students and software developers  interested in the topics I study. Please [contact](#contact) me for further detail. 
