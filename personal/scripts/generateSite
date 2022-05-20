@@ -68,9 +68,10 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # Test the website
 #
 # cd ../../../../ 
+# back to homepage folder
 # hugo --i18n-warnings server
 #
-# If everything is OK, generate and put the website in public
+# If everything is OK (check http://localhost:1313/), generate and put the website in public
 #  
 # hugo
 #

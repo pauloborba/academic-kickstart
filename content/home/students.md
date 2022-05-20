@@ -19,5 +19,6 @@ Here are the students I currently supervise, with their expected graduation date
 * Leonardo Lima (PhD 2026)
 * Marcela Bandeira Cunha (MSc 2022)
 * José Antônio Alves Maciel (BSc 2023)
+* Joao Pedro Henrique Santos Duarte (BSc 2022)
 
 I often have opportunities for supervising dedicated students and software developers  interested in the topics I study. Please [contact](#contact) me for further detail. 
