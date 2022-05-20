@@ -89,7 +89,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # cd ..
 #
 # Finally, commit new content version and upload it to my academic fork.
-# The homepage folder is my academic-kickstart fork with my website source code, 
+# The homepage folder is my academic-kickstart fork, containing my website source code, 
 # scripts, pdf files, and all material that is used to generate the actual
 # website content.
 #
