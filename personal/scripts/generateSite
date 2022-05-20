@@ -69,6 +69,8 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # cp ../../../../content/publication/_index.md .
 # rm -R ../../../../content/publication/*
 # mv * ../../../../content/publication
+#
+# Also start from her if manually changing the website files in homepage/content
 #  
 # Test the website
 #
