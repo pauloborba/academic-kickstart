@@ -30,7 +30,7 @@ image:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=m-l5OMLg4fU"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
