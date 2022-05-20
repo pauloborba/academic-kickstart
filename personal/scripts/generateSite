@@ -52,8 +52,10 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 #   this script, or look for <<< old === new >>> in curriculoAtual.json), 
 #   and adding extra information (pdf files, etc.). 
 # PDF files of new articles should be added to scripts/jsonToSite/resources
-# If there are new author and journal name issues, assess if it's better 
-#   to solve them directly at Lattes GUI or adapting the script in lattesXml2Json
+# If there are new author and journal name issues (like due to accents ou uppercase), 
+#    assess if it's better 
+#    to solve them directly at Lattes GUI or adapting the script in lattesXml2Json 
+#    (in this case should download or rename the XML file and run this script again!)
 #
 # After that, clean the jsonToSite/output directory and call the jsonToSite script.
 #
@@ -70,8 +72,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 #  
 # Test the website
 #
-# cd ../../../../ 
-# back to homepage folder
+# cd ../../../../   # going back to homepage folder
 # hugo --i18n-warnings server
 #
 # If everything is OK (check http://localhost:1313/), generate and put the website in public

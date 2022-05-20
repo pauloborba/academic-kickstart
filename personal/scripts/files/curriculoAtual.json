@@ -5,10 +5,9 @@
          "Paulo Borba"
       ],
       "title": "Privacy and security constraints for code contributions",
-      "journal": "SOFTWARE-PRACTICE & EXPERIENCE",
+      "journal": "Software: Practice & Experience",
       "pages": "1905-1929",
-      "year": "2020",
-      "pdf": "2020-Andrade-Privacy and security constraints for code contributions_1.pdf"
+      "year": "2020"
    },
    {
       "authors": [
@@ -17,105 +16,9 @@
          "Marcos Barreto"
       ],
       "title": "Understanding predictive factors for merge conflicts",
-      "journal": "INFORMATION AND SOFTWARE TECHNOLOGY",
+      "journal": "Information and Software Technology",
       "pages": "",
-      "year": "2020",
-      "pdf": "2020ISTPredictiveFactorsForMergeConflicts.pdf"
-   },
-   {
-      "authors": [
-         "Georg Seibt",
-         "Florian Heck",
-         "Guilherme Cavalcanti",
-         "Paulo Borba",
-         "Sven Apel"
-      ],
-      "title": "Leveraging Structure in Software Merge: An Empirical Study",
-      "journal": "IEEE Transactions on Software Engineering",
-      "pages": "1-1",
-      "year": "2021",
-      "pdf": "2021-Seibt-Leveraging Structure in Software Merge- An Empirical Study"
-   },
-   {
-      "authors": [
-         "Léuson Silva",
-         "Paulo Borba",
-         "Arthur Pires"
-      ],
-      "title": "Build conflicts in the wild",
-      "journal": "Journal of Software-Evolution and Process",
-      "pages": "",
-      "year": "2022",
-      "pdf": "2022-Silva-Build conflicts in the wild.pdf"
-   },
-   {
-      "authors": [
-         "Léuson Silva",
-         "Paulo Borba",
-         "Wardah Mahmood",
-         "Thorsten Berger",
-         "João Moisakis"
-      ],
-      "title": "Detecting Semantic Conflicts via Automated Behavior Change Detection",
-      "conference": "36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020)",
-      "pages": "174-184",
-      "country": "Austrália",
-      "year": "2020",
-      "pdf": "2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf"
-   },
-   {
-      "authors": [
-         "Leopoldo Teixeira",
-         "Rohit Gheyi",
-         "Paulo Borba"
-      ],
-      "title": "Safe Evolution of Product Lines Using Configuration Knowledge Laws",
-      "conference": "23rd Brazilian Symposium on Formal Methods (SBMF 2020)",
-      "pages": "210-227",
-      "country": "Brasil",
-      "year": "2020",
-      "pdf": "2020-Teixeira-Safe Evolution of Product Lines Using Conﬁguration Knowledge Laws.pdf"
-   },
-   {
-      "authors": [
-         "Jônatas Clementino",
-         "Paulo Borba",
-         "Guilherme Cavalcanti"
-      ],
-      "title": "Textual merge based on language-specific syntactic separators",
-      "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
-      "pages": "",
-      "country": "Brasil",
-      "year": "2021",
-      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"
-   },
-   {
-      "authors": [
-         "Mukelabai Mukelabai",
-         "Thorsten Berger",
-         "Paulo Borba"
-      ],
-      "title": "Semi-Automated Test-Case Propagation in Fork Ecosystems",
-      "conference": "43rd International Conference on Software Engineering (ICSE 2021), New Ideas and Emerging Results track",
-      "pages": "46-50",
-      "country": "Espanha",
-      "year": "2021",
-      "pdf": "2021-Mukelabai-Semi-Automated Test-Case Propagation in Fork Ecosystems.pdf"
-   },
-   {
-      "authors": [
-         "Bruno Cartaxo",
-         "E. Guerra",
-         "V. Osorio",
-         "Sérgio Soares",
-         "Paulo Borba"
-      ],
-      "title": "Lazy Clone - A Pattern to Improve Performance and Maintainability of Object Cloning",
-      "conference": "28th Conference on Pattern Languages of Programs (PLoP'2021)",
-      "pages": "",
-      "country": "Estados Unidos",
-      "year": "2021",
-      "pdf": "2021-Cartaxo-Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning.pdf"
+      "year": "2020"
    },
    {
       "authors": [
@@ -253,6 +156,32 @@
       "pages": "17-42",
       "year": "2019",
       "pdf": "2019JSSPartiallySafeSPLEvolution.pdf"
+   },
+   {
+      "authors": [
+         "Georg Seibt",
+         "Florian Heck",
+         "Guilherme Cavalcanti",
+         "Paulo Borba",
+         "Sven Apel"
+      ],
+      "title": "Leveraging Structure in Software Merge: An Empirical Study",
+      "journal": "IEEE Transactions on Software Engineering",
+      "pages": "1-1",
+      "year": "2021",
+      "pdf": "2021-Seibt-Leveraging Structure in Software Merge- An Empirical Study.pdf"
+   },
+   {
+      "authors": [
+         "Léuson Silva",
+         "Paulo Borba",
+         "Arthur Pires"
+      ],
+      "title": "Build conflicts in the wild",
+      "journal": "Journal of Software-Evolution and Process",
+      "pages": "",
+      "year": "2022",
+      "pdf": "2022-Silva-Build conflicts in the wild.pdf"
    },
    {
       "authors": [
@@ -396,6 +325,75 @@
       "country": "Brasil",
       "year": "2019",
       "pdf": "2019SBCARSTestInterfacesWithDependencies.pdf"
+   },
+   {
+      "authors": [
+         "Léuson Silva",
+         "Paulo Borba",
+         "Wardah Mahmood",
+         "Thorsten Berger",
+         "João Moisakis"
+      ],
+      "title": "Detecting Semantic Conflicts via Automated Behavior Change Detection",
+      "conference": "36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020)",
+      "pages": "174-184",
+      "country": "Austrália",
+      "year": "2020",
+      "pdf": "2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf"
+   },
+   {
+      "authors": [
+         "Leopoldo Teixeira",
+         "Rohit Gheyi",
+         "Paulo Borba"
+      ],
+      "title": "Safe Evolution of Product Lines Using Configuration Knowledge Laws",
+      "conference": "23rd Brazilian Symposium on Formal Methods (SBMF 2020)",
+      "pages": "210-227",
+      "country": "Brasil",
+      "year": "2020",
+      "pdf": "2020-Teixeira-Safe Evolution of Product Lines Using Conﬁguration Knowledge Laws.pdf"
+   },
+   {
+      "authors": [
+         "Jônatas Clementino",
+         "Paulo Borba",
+         "Guilherme Cavalcanti"
+      ],
+      "title": "Textual merge based on language-specific syntactic separators",
+      "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2021",
+      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"
+   },
+   {
+      "authors": [
+         "Mukelabai Mukelabai",
+         "Thorsten Berger",
+         "Paulo Borba"
+      ],
+      "title": "Semi-Automated Test-Case Propagation in Fork Ecosystems",
+      "conference": "43rd International Conference on Software Engineering (ICSE 2021), New Ideas and Emerging Results track",
+      "pages": "46-50",
+      "country": "Espanha",
+      "year": "2021",
+      "pdf": "2021-Mukelabai-Semi-Automated Test-Case Propagation in Fork Ecosystems.pdf"
+   },
+   {
+      "authors": [
+         "Bruno Cartaxo",
+         "E. Guerra",
+         "V. Osorio",
+         "Sérgio Soares",
+         "Paulo Borba"
+      ],
+      "title": "Lazy Clone - A Pattern to Improve Performance and Maintainability of Object Cloning",
+      "conference": "28th Conference on Pattern Languages of Programs (PLoP'2021)",
+      "pages": "",
+      "country": "Estados Unidos",
+      "year": "2021",
+      "pdf": "2021-Cartaxo-Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning.pdf"
    },
    {
       "authors": [

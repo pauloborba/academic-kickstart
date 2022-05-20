@@ -16,7 +16,7 @@ publishDate: 2010-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Tools session, I Brazilian Conference on Software: Theory and Practice (CBSoft 2010)"
+publication: "Tools session, I Brazilian Conference on Software: Theory and Practice  (CBSoft 2010)"
 publication_short: ""
 
 abstract: ""

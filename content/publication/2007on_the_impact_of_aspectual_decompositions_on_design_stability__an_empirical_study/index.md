@@ -16,7 +16,7 @@ publishDate: 2007-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "21st European Conference on Object-Oriented Programming (ECOOP 2007)"
+publication: "21st  European Conference on Object-Oriented Programming (ECOOP 2007)"
 publication_short: ""
 
 abstract: ""

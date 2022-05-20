@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Evaluating and improving semistructured merge"
+title: "Evaluating and Improving Semistructured Merge"
 authors: ["Guilherme Cavalcanti","Paulo Borba","Paola Accioly"]
 date: 2017-01-01
 doi: ""
@@ -13,10 +13,10 @@ publishDate: 2017-01-01
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the ACM on Programming Languages"
+publication: "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'17)"
 publication_short: ""
 
 abstract: ""
@@ -44,7 +44,7 @@ url_poster:
 url_project:
 url_slides: ""
 url_source:
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=T6yethISBlM"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

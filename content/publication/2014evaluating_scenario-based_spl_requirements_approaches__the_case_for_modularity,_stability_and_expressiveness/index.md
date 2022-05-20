@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Evaluating scenario-based SPL requirements approaches: the case for modularity, stability and expressiveness"
-authors: ["Mauricio AlfÉrez","Rodrigo Bonifácio","Leopoldo Teixeira","Paola Accioly","Uirá Kulesza","Ana Moreira","JoÃo Araújo","Paulo Borba"]
+authors: ["Mauricio Alférez","Rodrigo Bonifácio","Leopoldo Teixeira","Paola Accioly","Uirá Kulesza","Ana Moreira","João Araújo","Paulo Borba"]
 date: 2014-01-01
 doi: ""
 

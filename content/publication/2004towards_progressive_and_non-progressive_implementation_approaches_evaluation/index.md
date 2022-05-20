@@ -16,7 +16,7 @@ publishDate: 2004-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "1st Experimental Software Engineering Latin American Workshop (ESELAW 2004), 18th Brazilian Symposium on Software Engineering (SBES 2004)"
+publication: "1st Experimental Software Engineering Latin American Workshop (ESELAW 2004),  18th Brazilian Symposium on Software Engineering (SBES 2004)"
 publication_short: ""
 
 abstract: ""

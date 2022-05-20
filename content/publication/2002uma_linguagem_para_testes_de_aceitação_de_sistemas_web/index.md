@@ -16,7 +16,7 @@ publishDate: 2002-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "VI Brazilian Symposium on Programming Languages (SBLP 2002)"
+publication: "VI Brazilian Symposium on Programming Languages  (SBLP 2002)"
 publication_short: ""
 
 abstract: ""

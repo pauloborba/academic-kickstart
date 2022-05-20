@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Flexible Feature Binding with AspectJ-based Idioms"
-authors: ["Rodrigo Andrade","Henrique RebÊlo","Márcio Ribeiro","Paulo Borba"]
+authors: ["Rodrigo Andrade","Henrique Rebêlo","Márcio Ribeiro","Paulo Borba"]
 date: 2014-01-01
 doi: ""
 
