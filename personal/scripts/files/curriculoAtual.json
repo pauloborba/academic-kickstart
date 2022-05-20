@@ -7,7 +7,8 @@
       "title": "Privacy and security constraints for code contributions",
       "journal": "SOFTWARE-PRACTICE & EXPERIENCE",
       "pages": "1905-1929",
-      "year": "2020"
+      "year": "2020",
+      "pdf": "2020-Andrade-Privacy and security constraints for code contributions_1.pdf"
    },
    {
       "authors": [
@@ -18,7 +19,8 @@
       "title": "Understanding predictive factors for merge conflicts",
       "journal": "INFORMATION AND SOFTWARE TECHNOLOGY",
       "pages": "",
-      "year": "2020"
+      "year": "2020",
+      "pdf": "2020ISTPredictiveFactorsForMergeConflicts.pdf"
    },
    {
       "authors": [
@@ -31,7 +33,8 @@
       "title": "Leveraging Structure in Software Merge: An Empirical Study",
       "journal": "IEEE Transactions on Software Engineering",
       "pages": "1-1",
-      "year": "2021"
+      "year": "2021",
+      "pdf": "2021-Seibt-Leveraging Structure in Software Merge- An Empirical Study"
    },
    {
       "authors": [
@@ -42,7 +45,8 @@
       "title": "Build conflicts in the wild",
       "journal": "Journal of Software-Evolution and Process",
       "pages": "",
-      "year": "2022"
+      "year": "2022",
+      "pdf": "2022-Silva-Build conflicts in the wild.pdf"
    },
    {
       "authors": [
@@ -56,7 +60,8 @@
       "conference": "36th IEEE International Conference on Software Maintenance and Evolution (ICSME 2020)",
       "pages": "174-184",
       "country": "Austrália",
-      "year": "2020"
+      "year": "2020",
+      "pdf": "2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf"
    },
    {
       "authors": [
@@ -68,7 +73,8 @@
       "conference": "23rd Brazilian Symposium on Formal Methods (SBMF 2020)",
       "pages": "210-227",
       "country": "Brasil",
-      "year": "2020"
+      "year": "2020",
+      "pdf": "2020-Teixeira-Safe Evolution of Product Lines Using Conﬁguration Knowledge Laws.pdf"
    },
    {
       "authors": [
@@ -80,7 +86,8 @@
       "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
       "pages": "",
       "country": "Brasil",
-      "year": "2021"
+      "year": "2021",
+      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"
    },
    {
       "authors": [
@@ -92,7 +99,8 @@
       "conference": "43rd International Conference on Software Engineering (ICSE 2021), New Ideas and Emerging Results track",
       "pages": "46-50",
       "country": "Espanha",
-      "year": "2021"
+      "year": "2021",
+      "pdf": "2021-Mukelabai-Semi-Automated Test-Case Propagation in Fork Ecosystems.pdf"
    },
    {
       "authors": [
@@ -106,7 +114,8 @@
       "conference": "28th Conference on Pattern Languages of Programs (PLoP'2021)",
       "pages": "",
       "country": "Estados Unidos",
-      "year": "2021"
+      "year": "2021",
+      "pdf": "2021-Cartaxo-Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning.pdf"
    },
    {
       "authors": [
