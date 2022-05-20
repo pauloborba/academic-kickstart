@@ -3,5 +3,6 @@
         "error",
         "remove",
         "show"
-    ]
+    ],
+    "xml.symbols.maxItemsComputed": 50000
 }
