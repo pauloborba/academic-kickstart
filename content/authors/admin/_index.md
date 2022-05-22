@@ -88,10 +88,9 @@ email: ""
 #- Visitors
 
 ---
-I am Professor of Software Engineering at the [Informatics Center](http://www.cin.ufpe.br) (see [video](https://www.youtube.com/watch?feature=youtu.be&v=ioT7VK2MlxU)) of the Federal University of Pernambuco, where I lead the [Software Productivity Group](http://www.cin.ufpe.br/spg) (see [video](https://www.youtube.com/watch?v=xGJnfGNKPsc&t=24s)). I am currently visiting [CMU](https://www.cs.cmu.edu)'s [Institute for Software Research](https://www.isri.cmu.edu/index.html) as a Fulbright Visiting Faculty Scholar. 
+I am Professor of Software Engineering at the [Informatics Center](http://www.cin.ufpe.br) ([video](https://www.youtube.com/watch?feature=youtu.be&v=ioT7VK2MlxU)) of the Federal University of Pernambuco, where I lead the [Software Productivity Group](http://www.cin.ufpe.br/spg) ([video](https://www.youtube.com/watch?v=xGJnfGNKPsc&t=24s)). I am currently Fulbright Visiting Faculty Scholar at [CMU](https://www.cs.cmu.edu)'s [Institute for Software Research](https://www.isri.cmu.edu/index.html). 
 
-I investigate and develop tools and techniques for improving software development quality and productivity levels, especially by reducing unnecessary effort and frustration in software developers work activities. 
-I pursue a mix of academic excellence with industrial relevance.
+I investigate and develop tools and techniques for improving software development quality and productivity levels, especially by reducing unnecessary effort and frustration in software developers work activities. I pursue a mix of academic excellence with societal relevance.
 
 My main research interests are in the following topics and their integration: advanced (semi-structured, structured, semantic) code merging tools, code integration conflicts, continuous integration and deployment, software modularity, software product lines, and refactoring.
 
@@ -100,4 +99,3 @@ I am a member of the ACM and of the Brazilian Computer Society.
 I co-founded [Qualiti Software Processes](http://www.qualiti.com.br), a spin-off of the Informatics Center and [C.E.S.A.R.](http://www.cesar.org.br), specialized on software development tools and processes.
 
 I have a D.Phil. in Computing from Oxford University, and an M.Sc. and a B.Sc. in Computer Science from Federal University of Pernambuco.
-
