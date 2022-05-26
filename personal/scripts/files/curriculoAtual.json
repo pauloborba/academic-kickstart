@@ -2,27 +2,6 @@
    {
       "authors": [
          "Rodrigo Andrade",
-         "Paulo Borba"
-      ],
-      "title": "Privacy and security constraints for code contributions",
-      "journal": "Software: Practice & Experience",
-      "pages": "1905-1929",
-      "year": "2020"
-   },
-   {
-      "authors": [
-         "Klissiomara Dias",
-         "Paulo Borba",
-         "Marcos Barreto"
-      ],
-      "title": "Understanding predictive factors for merge conflicts",
-      "journal": "Information and Software Technology",
-      "pages": "",
-      "year": "2020"
-   },
-   {
-      "authors": [
-         "Rodrigo Andrade",
          "Márcio Ribeiro",
          "Henrique Rebêlo",
          "Paulo Borba",
@@ -362,7 +341,7 @@
       ],
       "title": "Textual merge based on language-specific syntactic separators",
       "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
-      "pages": "",
+      "pages": "243-252",
       "country": "Brasil",
       "year": "2021",
       "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"
@@ -832,6 +811,27 @@
       "journal": "The Journal of Systems and Software",
       "pages": "42-58",
       "year": "2015"
+   },
+   {
+      "authors": [
+         "Rodrigo Andrade",
+         "Paulo Borba"
+      ],
+      "title": "Privacy and security constraints for code contributions",
+      "journal": "Software: Practice & Experience",
+      "pages": "1905-1929",
+      "year": "2020"
+   },
+   {
+      "authors": [
+         "Klissiomara Dias",
+         "Paulo Borba",
+         "Marcos Barreto"
+      ],
+      "title": "Understanding predictive factors for merge conflicts",
+      "journal": "Information and Software Technology",
+      "pages": "",
+      "year": "2020"
    },
    {
       "authors": [
