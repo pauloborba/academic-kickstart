@@ -68,5 +68,6 @@ subtitle = ""
 
 Here I list my latest publications. 
 The full list is available [here]({{< ref "/publication/_index.md" >}}).
-You can also check my publication lists at [DBLP](http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo), [Google Scholar](https://scholar.google.com.br/citations?hl=en&view_op=list_works&gmla=AJsN-F5mUBqaWHkc_zcDiTPftyojsxa-Z9O8F9sehSwZmAxzR_OeiwoQIPQdgxFeG-bdh1XuHZ7ibOQlgePGyxPRl6iWLDkQ_Q&user=PpRDLgcAAAAJ), and [Microsoft Academic](https://academic.microsoft.com/profile/ei26h9i5-6g8f-4h6g-872f-3g9g28gf9i1f/PauloBorba/publication/search?q=Paulo%20Borba&qe=%2540%2540%2540USER.PUBLICATIONS%253Dae26d9e5-6c8b-4d6c-872b-3c9c28cb9e1b&f=&orderBy=0).
+You can also check my publication lists at [DBLP](http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo) and [Google Scholar](https://scholar.google.com.br/citations?hl=en&view_op=list_works&gmla=AJsN-F5mUBqaWHkc_zcDiTPftyojsxa-Z9O8F9sehSwZmAxzR_OeiwoQIPQdgxFeG-bdh1XuHZ7ibOQlgePGyxPRl6iWLDkQ_Q&user=PpRDLgcAAAAJ).
+
 
