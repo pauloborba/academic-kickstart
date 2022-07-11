@@ -34,7 +34,7 @@ Estude com cuidado [How to give a great research talk](https://www.microsoft.com
 
 Ensaie bastante a apresentação.
 
-O objetivo não é apresentar todos os detalhes do artigo (ou tese). A ideia é apresentar o suficiente para convencer as pessoas que você tem uma contribuição interessante, e estimulá-las a lerem o seu artigo. O foco deve ser no que você aprendeu realizando a sua pesquisa, e portanto o que elas podem aprender. Os outros aspectos são secundários e devem ser apresentados apenas como forma de motivar as pessoas, e contribuir para que elas entendam os resultados e tenham evidência de que os mesmos são confiáveis.
+O objetivo não é apresentar todos os detalhes do artigo (ou tese). A ideia é apresentar o suficiente para convencer as pessoas que você tem uma contribuição interessante, e estimulá-las a lerem o seu artigo. O foco deve ser no que você aprendeu realizando a sua pesquisa, e portanto o que elas podem aprender (para melhorar a pesquisa delas, para melhorar a forma como elas desenvolvem software, para melhorar a forma como elas ensinam, etc.). Os outros aspectos são secundários e devem ser apresentados apenas como forma de motivar as pessoas, e contribuir para que elas entendam os resultados e tenham evidência de que os mesmos são confiáveis.
 
 Fale de forma que toda a audiência possa ouvir bem. É importante ressaltar isso pois a timidez ou ansiedade pode fazer com que você fale baixo ou alto demais.
 
@@ -47,6 +47,8 @@ Capriche na elaboração dos slides. Verifique com cuidado se eles não têm err
 Para desenhar figuras, eu uso e recomendo o omnigraffle. É essencial que as figuras passem claramente a mensagem desejada. O que for possível ilustrar com figuras e gráficos, ilustre com figuras e gráficos!  
 
 Para gravar vídeos, eu uso o camtasia.
+
+Não repita o título dos slides. Por exemplo, se você tem 4 slides de resultados, os títulos dos 4 não deve ser "Resultados", nem "Resultado 1", "Resultado 2", etc. Adicione um slide apenas com a palavra "Resultados", para funcionar como um marcador, delimitador, de nova seção da apresentação. E em cada um dos 4 slides coloque um título que captura a ideia que você quer passar com aquele slide (o que você quer que a audiência aprenda com aquele slide), e que é justificada pelas demais informações (texto, tabelas, figuras, gráficos, etc.)) que você coloca no slide. Assim teremos títulos como estes: "Testes de unidade podem detectar conflitos semânticos", "Mas com significativa taxa de falsos negativos", etc.   
 
 Veja [The art of slide design](https://speakerdeck.com/mseckington/the-art-of-slide-design), que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don't distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.
 
