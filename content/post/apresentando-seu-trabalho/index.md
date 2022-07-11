@@ -46,9 +46,9 @@ Capriche na elaboração dos slides. Verifique com cuidado se eles não têm err
 
 Para desenhar figuras, eu uso e recomendo o omnigraffle. É essencial que as figuras passem claramente a mensagem desejada. O que for possível ilustrar com figuras e gráficos, ilustre com figuras e gráficos!  
 
-Para gravar screencasts, eu uso o camtasia.
+Para gravar vídeos, eu uso o camtasia.
 
-Veja [The art of slide design](https://speakerdeck.com/mseckington/the-art-of-slide-design), que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os príncipios básicos extraídos dessa apresentação: maximise signal and minimise noise (one purpose per slide, don't distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.
+Veja [The art of slide design](https://speakerdeck.com/mseckington/the-art-of-slide-design), que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don't distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.
 
 Veja também repositórios de [combinações de cores interessantes](http://colorsupplyyy.com/), [fontes](https://fonts.google.com/), [fotos](https://www.flickr.com/), [mais fotos](https://www.pexels.com/), e [ícones](https://thenounproject.com/). Eu também uso um conjunto de ícones da common craft.
 
