@@ -70,7 +70,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # rm -R ../../../../content/publication/*
 # mv * ../../../../content/publication
 #
-# Also start from her if manually changing the website files in homepage/content
+# Also start from here if manually changing the website files in homepage/content, or creating new posts
 #  
 # Test the website
 #
