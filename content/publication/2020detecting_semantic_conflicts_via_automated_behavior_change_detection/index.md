@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://spgroup.github.io/papers/semantic-conflicts-testing.html"
+    icon_pack: 
+    icon: 
 
 
 url_pdf: "publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf"

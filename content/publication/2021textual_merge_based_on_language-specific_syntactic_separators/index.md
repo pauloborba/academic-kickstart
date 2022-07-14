@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://custom-separators-tool.github.io"
+    icon_pack: 
+    icon: 
 
 
 url_pdf: "publication/2021textual_merge_based_on_language-specific_syntactic_separators/2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"

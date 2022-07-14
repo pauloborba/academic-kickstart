@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://spgroup.github.io/papers/build-conflicts.html"
+    icon_pack: 
+    icon: 
 
 
 url_pdf: "publication/2022build_conflicts_in_the_wild/2022-Silva-Build conflicts in the wild.pdf"

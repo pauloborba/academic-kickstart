@@ -37,7 +37,7 @@ featured: false
 #    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2020privacy_and_security_constraints_for_code_contributions/2020-Andrade-Privacy and security constraints for code contributions_1.pdf"
 url_code:
 url_dataset:
 url_poster:

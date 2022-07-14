@@ -30,14 +30,14 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://merge-conflict-factors.github.io/merge-conflict-factors/"
+    icon_pack: 
+    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2020understanding_predictive_factors_for_merge_conflicts/2020ISTPredictiveFactorsForMergeConflicts.pdf"
 url_code:
 url_dataset:
 url_poster:
