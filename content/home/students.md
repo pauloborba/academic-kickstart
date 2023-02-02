@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 105  # Order that this section will appear.
 
-title = "Students"
+title = "Students and Collaborators"
 subtitle = ""
 
 # 
@@ -17,8 +17,18 @@ Here are the students I currently supervise, with their expected graduation date
 * Galileu Santos de Jesus (PhD 2024)
 * Matheus Barbosa (PhD 2026)
 * Leonardo Lima (PhD 2026)
-* Marcela Bandeira Cunha (MSc 2022)
-* José Antônio Alves Maciel (BSc 2023)
-* Joao Pedro Henrique Santos Duarte (BSc 2022)
+* Marcela Bandeira Cunha (MSc 2023)
+* João Pedro Henrique Santos Duarte (MSc 2025)
+* Toni Maciel (BSc 2023)
+* Amanda Moraes (BSc 2024)
 
-I often have opportunities for supervising dedicated students and software developers  interested in the topics I study. Please [contact](#contact) me for further detail. 
+I often have opportunities for supervising dedicated students and software developers interested in the topics I study. Please [contact](#contact) me for further detail. 
+
+Here are former students with whom I currently collaborate:
+
+* Guilherme Cavalcanti (IFPE)
+* Léuson da Silva (Unicap)
+* Paola Accioly (UFCA)
+* Klissiomara Dias (UFRA)
+* Thaís Burity (UFAPE)
+* Rodrigo Bonifácio (UnB)
