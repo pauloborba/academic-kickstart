@@ -99,7 +99,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # website content.
 #
 # git status
-# git add content/publication/*
+# git add content/publication/*     # ou o que tiver sido modificado
 # git commit -m "new version of the website"
 # git push origin master
 #
