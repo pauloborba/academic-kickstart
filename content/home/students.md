@@ -24,7 +24,7 @@ Here are the students I currently supervise, with their expected graduation date
 
 I often have opportunities for supervising dedicated students and software developers interested in the topics I study. Please [contact](#contact) me for further detail. 
 
-Here are former students with whom I currently collaborate:
+Here are former students with whom I currently more closely collaborate:
 
 * Guilherme Cavalcanti (IFPE)
 * Léuson da Silva (Unicap)
