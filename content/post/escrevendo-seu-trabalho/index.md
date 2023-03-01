@@ -247,3 +247,5 @@ As anotações e comentários feitos pelo seu orientador no seu texto devem ser 
 Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como <i>\newcommand{\rev}[1]{\textcolor{red}{#1}}</i> (ver [Marking Changed Text in Journal Revisions](https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738)). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.
 
 Após a aceitação do seu trabalho, coloque todo o material do artigo no [repositório de artigos](https://github.com/spgroup/papers) do seu grupo de pesquisa.
+
+Confira [as políticas](https://www.acm.org/publications/policies/) de publicações da ACM, para ter certeza que não está violando nenhuma delas.

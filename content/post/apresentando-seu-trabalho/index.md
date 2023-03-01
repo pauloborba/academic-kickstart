@@ -66,3 +66,5 @@ Fale de forma que toda a audiência possa ouvir confortavelmente. É importante 
 Para dar fluxo para a apresentação e evitar paradas, a sua fala final na explicação de um slide já deve fazer a ligação com o que você vai discutir no próximo slide. Por exemplo, a última coisa que você fala na explicação de um slide já pode ser a motivação ou o título do próximo slide; enquanto você fala você faz a transição de slide, ao invés de fazer a transição, pausar, e só então começar a falar sobre o slide.
 
 Se a apresentação for em Inglês, evite esses [erros comuns](https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&btp=1_por_out_mi&utm_campaign=cd_porall_gpr_cbr_howtospotbr&utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&utm_medium=CON&utm_source=outbrain&utm_term=5470743) cometidos por brasileiros quando falam Inglês.
+
+Confira as [políticas](https://www.acm.org/about-acm/policy-against-harassment) para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.
