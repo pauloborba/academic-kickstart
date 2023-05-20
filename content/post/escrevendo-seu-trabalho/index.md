@@ -53,6 +53,8 @@ Escreva a sua filiação em Português (Centro de Informática, Universidade Fed
 
 Se certifique que você realmente não fez nenhum <i>p-haking</i>, e coloque isto no seu texto: <i>We report how we determined our sample size, all data exclusions, all manipulations, and all measures in the study</i> (ver a [fonte](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2160588)).
 
+Use como guia a [lista de tópicos da ACM Sigsoft](https://acmsigsoft.github.io/EmpiricalStandards/tools/) para ter certeza de que você vai cobrir no texto os principais pontos necessários para o tipo de estudo empírico que você está fazendo. Veja primeiro a opção de menu <i>Standards</i> e depois a opção <i>Tools</i>, para gerar a lista específica para o seu tipo de estudo.
+
 #### Capriche no estilo de escrita
 
 Leia com cuidado, e consulte sempre, <i>The Elements of Style</i> ([link 1](http://www.bartleby.com/141/) ou [link 2](http://www.crockford.com/wrrrld/style.html )).
@@ -248,4 +250,4 @@ Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lh
 
 Após a aceitação do seu trabalho, coloque todo o material do artigo no [repositório de artigos](https://github.com/spgroup/papers) do seu grupo de pesquisa.
 
-Confira [as políticas](https://www.acm.org/publications/policies/) de publicações da ACM, para ter certeza que não está violando nenhuma delas.
+Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a [política da ACM](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
