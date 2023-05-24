@@ -61,6 +61,8 @@ Leia com cuidado, e consulte sempre, <i>The Elements of Style</i> ([link 1](http
 
 Leia dicas de escrita ([de Claire Le Goues](https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/), e [do grupo de pesquisa Capra](https://capra.cs.cornell.edu/styleguide)) que casam bastante com o meu estilo (exceto a sugestão de usar "e.g." e "i.e."; por favor, evite).
 
+Veja dicas para formatação de [tabelas](guide-tables.pdf) e [gráficos](https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/). Sobre gráficos, o resumo é o seguinte: "<i>normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts</i>".
+
 Use um <i>spell checker</i>! Considere usar uma ferramenta (como [Grammarly](https://www.grammarly.com) ou [ChatGPT](https://openai.com/blog/chatgpt/)) para revisar o seu texto. Não usando uma ferramenta dessas, use [scripts para melhorar a qualidade de textos em inglês](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates):
 <ul>
 <li>script para detecção de Weasel Words
