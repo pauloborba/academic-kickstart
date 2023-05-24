@@ -119,4 +119,12 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 #
 # hugo new --kind project project/my-project-name
 #
+# To create a talk ou podcast
+#
+# hugo new --kind talk talk/my-talk-name
+#
+# To adapt the menu: config/menus.toml
+# To adapt the first section of the page: content/authors/admin/_index.md
+#
 # Further instructions on https://sourcethemes.com/academic/docs/managing-content/
+
