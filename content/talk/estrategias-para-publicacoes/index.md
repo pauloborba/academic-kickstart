@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Estratégias para Publicações"
+title: "Estratégias de Publicação"
 event: Seminário de Pesquisa do CIn-UFPE  
 event_url: https://www.youtube.com/playlist?list=PLA7ATVrEHleQW_6ftjOXrJb0ylfOdVw1x
 location:
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: Discutimos várias estratégias de publicações e o impacto das mesmas na carreira de pesquisador.
+abstract: Discutimos várias estratégias de publicação e o impacto das mesmas na carreira de pesquisador.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
