@@ -158,9 +158,10 @@
       ],
       "title": "Build conflicts in the wild",
       "journal": "Journal of Software-Evolution and Process",
-      "pages": "",
+      "pages": "(also appeared in ICSME'2022 Journal First track)",
       "year": "2022",
-      "pdf": "2022-Silva-Build conflicts in the wild.pdf"
+      "pdf": "2022-Silva-Build conflicts in the wild.pdf",
+      "replicationpackage": "https://spgroup.github.io/papers/build-conflicts.html"
    },
    {
       "authors": [
@@ -318,7 +319,8 @@
       "pages": "174-184",
       "country": "Austrália",
       "year": "2020",
-      "pdf": "2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf"
+      "pdf": "2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf",
+      "replicationpackage": "https://spgroup.github.io/papers/semantic-conflicts-testing.html"
    },
    {
       "authors": [
@@ -341,10 +343,11 @@
       ],
       "title": "Textual merge based on language-specific syntactic separators",
       "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
-      "pages": "",
+      "pages": "243-252",
       "country": "Brasil",
       "year": "2021",
-      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"
+      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf",
+      "replicationpackage": "https://custom-separators-tool.github.io"
    },
    {
       "authors": [
@@ -820,7 +823,8 @@
       "title": "Privacy and security constraints for code contributions",
       "journal": "Software: Practice & Experience",
       "pages": "1905-1929",
-      "year": "2020"
+      "year": "2020",
+      "pdf": "2020-Andrade-Privacy and security constraints for code contributions_1.pdf"
    },
    {
       "authors": [
@@ -831,7 +835,9 @@
       "title": "Understanding predictive factors for merge conflicts",
       "journal": "Information and Software Technology",
       "pages": "",
-      "year": "2020"
+      "year": "2020",
+      "pdf": "2020ISTPredictiveFactorsForMergeConflicts.pdf",
+      "replicationpackage": "https://merge-conflict-factors.github.io/merge-conflict-factors/"
    },
    {
       "authors": [

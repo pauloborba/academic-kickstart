@@ -1,6 +1,47 @@
 [
    {
       "authors": [
+         "Thaís Rocha",
+         "Paulo Borba"
+      ],
+      "title": "Using acceptance tests to predict merge conflict risk",
+      "journal": "Empirical Software Engineering",
+      "pages": "",
+      "year": "2023",
+      "pdf": "2023-Rocha-Using acceptance tests to predict merge conflict risk_1 copy.pdf",
+      "replicationpackage": "https://thaisabr.github.io/conflict-risk-prediction-study-site/"
+   },
+   {
+      "authors": [
+         "Marcela Cunha",
+         "Paola Accioly",
+         "Paulo Borba"
+      ],
+      "title": "The Private Life of Merge Conflicts",
+      "conference": "SBES 2022: XXXVI Brazilian Symposium on Software Engineering",
+      "pages": "353-362",
+      "country": "Brasil",
+      "year": "2022",
+      "pdf": "2022-Cunha-The Private Life of Merge Conflicts_1.pdf",
+      "replicationpackage": "https://github.com/private-life-of-merge-conflicts-c/privatelifeofmergeconflicts"
+   },
+   {
+      "authors": [
+         "Matheus Barbosa",
+         "Paulo Borba",
+         "Rodrigo Bonifacio",
+         "Galileu Santos"
+      ],
+      "title": "Semantic conflict detection with overriding assignment analysis",
+      "conference": "SBES 2022: XXXVI Brazilian Symposium on Software Engineering",
+      "pages": "435-445",
+      "country": "Brasil",
+      "year": "2022",
+      "pdf": "2022-Barbosa-Semantic conflict detection with overriding assignment analysis.pdf",
+      "replicationpackage": "https://spgroup.github.io/papers/semantic-conflicts-SBES2022.html" 
+   },
+   {
+      "authors": [
          "Rodrigo Andrade",
          "Márcio Ribeiro",
          "Henrique Rebêlo",
@@ -60,19 +101,6 @@
    },
    {
       "authors": [
-         "Rohit Gheyi",
-         "Paulo Borba",
-         "Augusto Sampaio",
-         "Márcio Ribeiro"
-      ],
-      "title": "An idiom to represent data types in Alloy",
-      "journal": "Information and Software Technology",
-      "pages": "173-176",
-      "year": "2017",
-      "pdf": "2017ISTAlloyIdiomForDataTypes.pdf"
-   },
-   {
-      "authors": [
          "Rodrigo Bonifácio",
          "Paulo Borba",
          "Cristiano Ferraz",
@@ -86,15 +114,16 @@
    },
    {
       "authors": [
-         "Paola Accioly",
+         "Rohit Gheyi",
          "Paulo Borba",
-         "Guilherme Cavalcanti"
+         "Augusto Sampaio",
+         "Márcio Ribeiro"
       ],
-      "title": "Understanding semi-structured merge conflict characteristics in open-source Java projects",
-      "journal": "Empirical Software Engineering",
-      "pages": "2051-2085",
-      "year": "2018",
-      "pdf": "2018ESESemistructuredMergeConflictCharacteristics.pdf"
+      "title": "An idiom to represent data types in Alloy",
+      "journal": "Information and Software Technology",
+      "pages": "173-176",
+      "year": "2017",
+      "pdf": "2017ISTAlloyIdiomForDataTypes.pdf"
    },
    {
       "authors": [
@@ -113,6 +142,30 @@
    },
    {
       "authors": [
+         "Paola Accioly",
+         "Paulo Borba",
+         "Guilherme Cavalcanti"
+      ],
+      "title": "Understanding semi-structured merge conflict characteristics in open-source Java projects",
+      "journal": "Empirical Software Engineering",
+      "pages": "2051-2085",
+      "year": "2018",
+      "pdf": "2018ESESemistructuredMergeConflictCharacteristics.pdf"
+   },
+   {
+      "authors": [
+         "Gabriela Sampaio",
+         "Paulo Borba",
+         "Leopoldo Teixeira"
+      ],
+      "title": "Partially safe evolution of software product lines",
+      "journal": "Journal of Systems and Software",
+      "pages": "17-42",
+      "year": "2019",
+      "pdf": "2019JSSPartiallySafeSPLEvolution.pdf"
+   },
+   {
+      "authors": [
          "Thaís Rocha",
          "Paulo Borba",
          "João Santos"
@@ -126,15 +179,27 @@
    },
    {
       "authors": [
-         "Gabriela Sampaio",
-         "Paulo Borba",
-         "Leopoldo Teixeira"
+         "Rodrigo Andrade",
+         "Paulo Borba"
       ],
-      "title": "Partially safe evolution of software product lines",
-      "journal": "Journal of Systems and Software",
-      "pages": "17-42",
-      "year": "2019",
-      "pdf": "2019JSSPartiallySafeSPLEvolution.pdf"
+      "title": "Privacy and security constraints for code contributions",
+      "journal": "Software: Practice & Experience",
+      "pages": "1905-1929",
+      "year": "2020",
+      "pdf": "2020-Andrade-Privacy and security constraints for code contributions_1.pdf"
+   },
+   {
+      "authors": [
+         "Klissiomara Dias",
+         "Paulo Borba",
+         "Marcos Barreto"
+      ],
+      "title": "Understanding predictive factors for merge conflicts",
+      "journal": "Information and Software Technology",
+      "pages": "",
+      "year": "2020",
+      "pdf": "2020ISTPredictiveFactorsForMergeConflicts.pdf",
+      "replicationpackage": "https://merge-conflict-factors.github.io/merge-conflict-factors/"
    },
    {
       "authors": [
@@ -162,6 +227,19 @@
       "year": "2022",
       "pdf": "2022-Silva-Build conflicts in the wild.pdf",
       "replicationpackage": "https://spgroup.github.io/papers/build-conflicts.html"
+   },
+   {
+      "authors": [
+         "Gabriela Sampaio",
+         "Paulo Borba",
+         "Leopoldo Teixeira"
+      ],
+      "title": "Partially Safe Evolution of Software Product Lines",
+      "conference": "20th International Software Product Line Conference (SPLC 2016)",
+      "pages": "124-133",
+      "country": "China",
+      "year": "2016",
+      "pdf": "2016SPLCPartiallySafeEvolutionOfSPLs.pdf"
    },
    {
       "authors": [
@@ -194,19 +272,6 @@
    },
    {
       "authors": [
-         "Gabriela Sampaio",
-         "Paulo Borba",
-         "Leopoldo Teixeira"
-      ],
-      "title": "Partially Safe Evolution of Software Product Lines",
-      "conference": "20th International Software Product Line Conference (SPLC 2016)",
-      "pages": "124-133",
-      "country": "China",
-      "year": "2016",
-      "pdf": "2016SPLCPartiallySafeEvolutionOfSPLs.pdf"
-   },
-   {
-      "authors": [
          "Guilherme Cavalcanti",
          "Paulo Borba",
          "Paola Accioly"
@@ -217,20 +282,6 @@
       "country": "Argentina",
       "year": "2017",
       "pdf": "2017ICSEShouldWeReplaceOurMergeTools.pdf"
-   },
-   {
-      "authors": [
-         "Guilherme Cavalcanti",
-         "Paulo Borba",
-         "Paola Accioly"
-      ],
-      "title": "Evaluating and Improving Semistructured Merge",
-      "conference": "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'17)",
-      "pages": "59:1-59:27",
-      "country": "Canadá",
-      "year": "2017",
-      "pdf": "2017OOPSLASemiVsUnstructuredMerge.pdf",
-      "video": "https://www.youtube.com/watch?v=T6yethISBlM"
    },
    {
       "authors": [
@@ -250,6 +301,20 @@
    },
    {
       "authors": [
+         "Guilherme Cavalcanti",
+         "Paulo Borba",
+         "Paola Accioly"
+      ],
+      "title": "Evaluating and Improving Semistructured Merge",
+      "conference": "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'17)",
+      "pages": "59:1-59:27",
+      "country": "Canadá",
+      "year": "2017",
+      "pdf": "2017OOPSLASemiVsUnstructuredMerge.pdf",
+      "video": "https://www.youtube.com/watch?v=T6yethISBlM"
+   },
+   {
+      "authors": [
          "Paola Accioly",
          "Paulo Borba",
          "Léuson Silva",
@@ -265,21 +330,6 @@
    },
    {
       "authors": [
-         "Guilherme Cavalcanti",
-         "Paulo Borba",
-         "Georg Seibt",
-         "Sven Apel"
-      ],
-      "title": "The Impact of Structure on Software Merging: Semistructured versus Structured Merge",
-      "conference": "34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019)",
-      "pages": "1002-1013",
-      "country": "Estados Unidos",
-      "year": "2019",
-      "pdf": "2019ASESemiVsStructuredMerge.pdf",
-      "replicationpackage": "https://spgroup.github.io/s3m/svj.html"
-   },
-   {
-      "authors": [
          "Alberto Tavares",
          "Paulo Borba",
          "Guilherme Cavalcanti",
@@ -292,6 +342,21 @@
       "year": "2019",
       "pdf": "2019ASESemistructuredMergeJS.pdf",
       "replicationpackage": "https://ase2019author.github.io"
+   },
+   {
+      "authors": [
+         "Guilherme Cavalcanti",
+         "Paulo Borba",
+         "Georg Seibt",
+         "Sven Apel"
+      ],
+      "title": "The Impact of Structure on Software Merging: Semistructured versus Structured Merge",
+      "conference": "34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019)",
+      "pages": "1002-1013",
+      "country": "Estados Unidos",
+      "year": "2019",
+      "pdf": "2019ASESemiVsStructuredMerge.pdf",
+      "replicationpackage": "https://spgroup.github.io/s3m/svj.html"
    },
    {
       "authors": [
@@ -587,20 +652,6 @@
    },
    {
       "authors": [
-         "Márcio Ribeiro",
-         "Felipe Queiroz",
-         "Paulo Borba",
-         "Társis Toledo",
-         "Claus Brabrand",
-         "Sérgio Soares"
-      ],
-      "title": "On the impact of feature dependencies when maintaining preprocessor-based software product lines",
-      "journal": "ACM SIGPLAN Notices",
-      "pages": "23-32",
-      "year": "2012"
-   },
-   {
-      "authors": [
          "Fernanda d'Amorim",
          "Paulo Borba"
       ],
@@ -627,6 +678,20 @@
       "title": "Special issue with selected papers from the 23rd Brazilian Symposium on Software Engineering",
       "journal": "The Journal of Systems and Software",
       "pages": "",
+      "year": "2012"
+   },
+   {
+      "authors": [
+         "Márcio Ribeiro",
+         "Felipe Queiroz",
+         "Paulo Borba",
+         "Társis Toledo",
+         "Claus Brabrand",
+         "Sérgio Soares"
+      ],
+      "title": "On the impact of feature dependencies when maintaining preprocessor-based software product lines",
+      "journal": "ACM SIGPLAN Notices",
+      "pages": "23-32",
       "year": "2012"
    },
    {
@@ -738,6 +803,31 @@
    },
    {
       "authors": [
+         "Melina Mongiovi",
+         "Rohit Gheyi",
+         "Gustavo Soares",
+         "Leopoldo Teixeira",
+         "Paulo Borba"
+      ],
+      "title": "Making refactoring safer through impact analysis",
+      "journal": "Science of Computer Programming",
+      "pages": "39-64",
+      "year": "2014"
+   },
+   {
+      "authors": [
+         "Felipe Ferreira",
+         "Rohit Gheyi",
+         "Paulo Borba",
+         "Gustavo Soares"
+      ],
+      "title": "A Toolset for Checking SPL Refinements",
+      "journal": "Journal of Universal Computer Science",
+      "pages": "587-614",
+      "year": "2014"
+   },
+   {
+      "authors": [
          "Paola Accioly",
          "Paulo Borba",
          "Rodrigo Bonifácio"
@@ -761,19 +851,6 @@
    },
    {
       "authors": [
-         "Melina Mongiovi",
-         "Rohit Gheyi",
-         "Gustavo Soares",
-         "Leopoldo Teixeira",
-         "Paulo Borba"
-      ],
-      "title": "Making refactoring safer through impact analysis",
-      "journal": "Science of Computer Programming",
-      "pages": "39-64",
-      "year": "2014"
-   },
-   {
-      "authors": [
          "Mauricio Alférez",
          "Rodrigo Bonifácio",
          "Leopoldo Teixeira",
@@ -790,18 +867,6 @@
    },
    {
       "authors": [
-         "Felipe Ferreira",
-         "Rohit Gheyi",
-         "Paulo Borba",
-         "Gustavo Soares"
-      ],
-      "title": "A Toolset for Checking SPL Refinements",
-      "journal": "Journal of Universal Computer Science",
-      "pages": "587-614",
-      "year": "2014"
-   },
-   {
-      "authors": [
          "Laís Neves",
          "Paulo Borba",
          "Vander Alves",
@@ -814,30 +879,6 @@
       "journal": "The Journal of Systems and Software",
       "pages": "42-58",
       "year": "2015"
-   },
-   {
-      "authors": [
-         "Rodrigo Andrade",
-         "Paulo Borba"
-      ],
-      "title": "Privacy and security constraints for code contributions",
-      "journal": "Software: Practice & Experience",
-      "pages": "1905-1929",
-      "year": "2020",
-      "pdf": "2020-Andrade-Privacy and security constraints for code contributions_1.pdf"
-   },
-   {
-      "authors": [
-         "Klissiomara Dias",
-         "Paulo Borba",
-         "Marcos Barreto"
-      ],
-      "title": "Understanding predictive factors for merge conflicts",
-      "journal": "Information and Software Technology",
-      "pages": "",
-      "year": "2020",
-      "pdf": "2020ISTPredictiveFactorsForMergeConflicts.pdf",
-      "replicationpackage": "https://merge-conflict-factors.github.io/merge-conflict-factors/"
    },
    {
       "authors": [
@@ -922,9 +963,9 @@
       "authors": [
          "Paulo Borba"
       ],
-      "title": "States as Specifications",
-      "conference": "I Simpósio Brasileiro de Linguagens de Programação (SBLP 1996)",
-      "pages": "223-236",
+      "title": "A Refinement Theory for Concurrent Object Oriented Languages",
+      "conference": "X Brazilian Symposium on Software Engineering (SBES 1996)",
+      "pages": "39-55",
       "country": "Brasil",
       "year": "1996"
    },
@@ -932,9 +973,9 @@
       "authors": [
          "Paulo Borba"
       ],
-      "title": "A Refinement Theory for Concurrent Object Oriented Languages",
-      "conference": "X Brazilian Symposium on Software Engineering (SBES 1996)",
-      "pages": "39-55",
+      "title": "States as Specifications",
+      "conference": "I Simpósio Brasileiro de Linguagens de Programação (SBLP 1996)",
+      "pages": "223-236",
       "country": "Brasil",
       "year": "1996"
    },
@@ -1833,18 +1874,13 @@
    },
    {
       "authors": [
-         "Uirá Kulesza",
-         "Vander Alves",
-         "Alessandro Garcia",
-         "Alberto Neto",
-         "Élder Cirilo",
-         "Carlos Lucena",
+         "Eduardo Aranha",
          "Paulo Borba"
       ],
-      "title": "Mapping Features to Aspects: A Model-Based Generative Approach",
-      "conference": "10th Internacional Workshop On Early Aspects, 6th ACM International Conference on Aspect-Oriented Software Development (AOSD 2007)",
-      "pages": "155-174",
-      "country": "Canadá",
+      "title": "Empirical Studies of Test Execution Effort Estimation Based on Test Characteristics and Risk Factors",
+      "conference": "2nd International Doctoral Symposium on Empirical Software Engineering (IDoESE 2007)",
+      "pages": "1-8",
+      "country": "Espanha",
       "year": "2007"
    },
    {
@@ -1979,13 +2015,18 @@
    },
    {
       "authors": [
-         "Eduardo Aranha",
+         "Uirá Kulesza",
+         "Vander Alves",
+         "Alessandro Garcia",
+         "Alberto Neto",
+         "Élder Cirilo",
+         "Carlos Lucena",
          "Paulo Borba"
       ],
-      "title": "Empirical Studies of Test Execution Effort Estimation Based on Test Characteristics and Risk Factors",
-      "conference": "2nd International Doctoral Symposium on Empirical Software Engineering (IDoESE 2007)",
-      "pages": "1-8",
-      "country": "Espanha",
+      "title": "Mapping Features to Aspects: A Model-Based Generative Approach",
+      "conference": "10th Internacional Workshop On Early Aspects, 6th ACM International Conference on Aspect-Oriented Software Development (AOSD 2007)",
+      "pages": "155-174",
+      "country": "Canadá",
       "year": "2007"
    },
    {
@@ -2638,15 +2679,15 @@
    },
    {
       "authors": [
-         "Felipe Queiroz",
-         "Márcio Ribeiro",
-         "Sérgio Soares",
-         "Paulo Borba"
+         "Felype Ferreira",
+         "Paulo Borba",
+         "Gustavo Soares",
+         "Rohit Gheyi"
       ],
-      "title": "Towards a Better Understanding of Feature Dependencies in Preprocessor-based Systems",
-      "conference": "6th Latin American Workshop on Aspect-Oriented Software Development (LA-WASP 2012), associado ao Terceiro Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2012),",
-      "pages": "1-6",
-      "country": "Brasil",
+      "title": "Making Software Product Line Evolution Safer",
+      "conference": "VI Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2012)",
+      "pages": "21-30",
+      "country": "Estados Unidos",
       "year": "2012"
    },
    {
@@ -2690,54 +2731,16 @@
    },
    {
       "authors": [
-         "Felype Ferreira",
-         "Paulo Borba",
-         "Gustavo Soares",
-         "Rohit Gheyi"
-      ],
-      "title": "Making Software Product Line Evolution Safer",
-      "conference": "VI Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2012)",
-      "pages": "21-30",
-      "country": "Estados Unidos",
-      "year": "2012"
-   },
-   {
-      "authors": [
-         "Jean Melo",
-         "Paulo Borba"
-      ],
-      "title": "Improving modular reasoning on preprocessor-based systems",
-      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
-      "pages": "11-19",
-      "country": "Brasil",
-      "year": "2013"
-   },
-   {
-      "authors": [
-         "Rodrigo Andrade",
-         "Henrique Rebelo",
+         "Felipe Queiroz",
          "Márcio Ribeiro",
+         "Sérgio Soares",
          "Paulo Borba"
       ],
-      "title": "AspectJ-based Idioms for Flexible Feature Binding",
-      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
-      "pages": "59-68",
+      "title": "Towards a Better Understanding of Feature Dependencies in Preprocessor-based Systems",
+      "conference": "6th Latin American Workshop on Aspect-Oriented Software Development (LA-WASP 2012), associado ao Terceiro Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2012),",
+      "pages": "1-6",
       "country": "Brasil",
-      "year": "2013"
-   },
-   {
-      "authors": [
-         "Henrique Rebelo",
-         "Gary Leavens",
-         "Ricardo Lima",
-         "Paulo Borba",
-         "Márcio Ribeiro"
-      ],
-      "title": "Modular Aspect-Oriented Design Rule Enforcement with XPIDRs",
-      "conference": "12th Foundations of Aspect-Oriented Languages Workshop (FOAL 2013), 12th ACM International Conference on Aspect-Oriented Software Development (AOSD 2013)",
-      "pages": "13-18",
-      "country": "Japão",
-      "year": "2013"
+      "year": "2012"
    },
    {
       "authors": [
@@ -2772,6 +2775,19 @@
    },
    {
       "authors": [
+         "Rodrigo Andrade",
+         "Henrique Rebelo",
+         "Márcio Ribeiro",
+         "Paulo Borba"
+      ],
+      "title": "AspectJ-based Idioms for Flexible Feature Binding",
+      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
+      "pages": "59-68",
+      "country": "Brasil",
+      "year": "2013"
+   },
+   {
+      "authors": [
          "Leonardo Passos",
          "Jianmei Guo",
          "Leopoldo Teixeira",
@@ -2782,6 +2798,31 @@
       "title": "Coevolution of Variability Models and Related Artifacts: A Case Study from the Linux Kernel",
       "conference": "17th International Software Product Line Conference (SPLC 2013)",
       "pages": "91-100",
+      "country": "Japão",
+      "year": "2013"
+   },
+   {
+      "authors": [
+         "Jean Melo",
+         "Paulo Borba"
+      ],
+      "title": "Improving modular reasoning on preprocessor-based systems",
+      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
+      "pages": "11-19",
+      "country": "Brasil",
+      "year": "2013"
+   },
+   {
+      "authors": [
+         "Henrique Rebelo",
+         "Gary Leavens",
+         "Ricardo Lima",
+         "Paulo Borba",
+         "Márcio Ribeiro"
+      ],
+      "title": "Modular Aspect-Oriented Design Rule Enforcement with XPIDRs",
+      "conference": "12th Foundations of Aspect-Oriented Languages Workshop (FOAL 2013), 12th ACM International Conference on Aspect-Oriented Software Development (AOSD 2013)",
+      "pages": "13-18",
       "country": "Japão",
       "year": "2013"
    },
@@ -2826,14 +2867,13 @@
    },
    {
       "authors": [
-         "Bruno Cartaxo",
+         "Guilherme Cavalcanti",
          "Paulo Borba",
-         "Sérgio Soares",
-         "Hélio Fugimoto"
+         "Paola Accioly"
       ],
-      "title": "Improving Performance and Maintainability of ObjectCloning with Lazy Clones: An Empirical Evaluation",
+      "title": "Assessing Semistructured Merge in Version Control Systems: A Replicated Experiment",
       "conference": "9th International Symposium on Empirical Software Engineering and Measurement (ESEM 2015)",
-      "pages": "239-246",
+      "pages": "267-276",
       "country": "China",
       "year": "2015"
    },
@@ -2864,13 +2904,14 @@
    },
    {
       "authors": [
-         "Guilherme Cavalcanti",
+         "Bruno Cartaxo",
          "Paulo Borba",
-         "Paola Accioly"
+         "Sérgio Soares",
+         "Hélio Fugimoto"
       ],
-      "title": "Assessing Semistructured Merge in Version Control Systems: A Replicated Experiment",
+      "title": "Improving Performance and Maintainability of ObjectCloning with Lazy Clones: An Empirical Evaluation",
       "conference": "9th International Symposium on Empirical Software Engineering and Measurement (ESEM 2015)",
-      "pages": "267-276",
+      "pages": "239-246",
       "country": "China",
       "year": "2015"
    }
