@@ -37,15 +37,19 @@ Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é [spg
 
 Use LaTeX, com hyperref. Leia [essas dicas](https://github.com/dspinellis/latex-advice) para uso adequado do LaTeX.
 
-Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa.
+Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa, ou de alguns artigos de destaque (confirme com seu orientador se eles realmente são de destaque!) que você tenha lido e tenha gostado. Imite o que é bom em termos de estilo de escrita!
 
 Analise os critérios de avaliação adotados por quem normalmente vai ler ou publicar seu artigo. Os de [ICSE 2017](http://icse2017.gatech.edu/technical_research/reviewing_guidelines ) (<i>soundness, significance, verifiability, and presentation quality</i>) formam um bom exemplo.
 
 #### O básico do básico
 
+Antes de tudo, pense na audiência. Se coloque na posição do leitor, durante toda a escrita, e pense no que seria mais interessante e fácil para ele entender. O que é fácil para você, depois de ter trabalhado naquela pesquisa por meses, normalmente não vai ser fácil e claro para o leitor do seu artigo. O mesmo vale para os termos e conceitos que você usa naturalmente, mas que precisam ser explicados assim que eles são usados no seu texto.
+
+O seu artigo deve contar um estória! Interessante e fácil de ler. Pense e elabore bem essa estória antes de começar a escrever. Você pode começar com um <i>elevator speech<\i> e ir refinando e detalhando a estória. Depois escrevendo uma linha por seção, seguido de uma linha por cada parágrafo de cada seção, para finalmente escrever por completo cada parágrafo do artigo. Mas busque uma estória que seja consistente e interessante de ouvir, obviamente desde que reflita bem o que você fez na sua pesquisa e obteve nos seus resultados. É importante que a estória também gire em torno de um único ponto principal, uma única descoberta principal; melhor focar em um ponto e fazê-lo bem feito.
+
 Inicialmente (no começo do artigo, seção, e parágrafo), dê ao leitor a <i>ilusão da simplicidade</i>. Explique a ideia e a motivação de uma forma abstrata de forma a facilitar o entendimento superficial. Só depois disso, refine a ideia, dando mais detalhes, de forma a possibilitar  um entendimento mais aprofundado. Por simplicidade, essa explicação considerou dois níveis de abstração, mas use mais níveis se necessário.
 
-Descreva com precisão <i>o que</i> você fez, <i>porque</i> você fez, e as  <i>limitações</i> do que você fez. Tenha muito cuidado para não dar a entender que você fez algo que, na verdade, ainda não foi feito. 
+Descreva com precisão <i>o que</i> você fez, <i>porque</i> você fez, e as  <i>limitações</i> do que você fez. Em especial, o <i>porque</i>, ou seja a motivação para o que você vai apresentar ou explicar, normalmente deve vir antes do que você vai explicar. Tenha muito cuidado para não dar a entender que você fez algo que, na verdade, ainda não foi feito. 
 
 Se for preciso copiar alguma figura ou trecho, por menor que seja, de outro trabalho, deixe muito claro que você está fazendo isso, citando a referência e, no caso de trechos, colocando-os entre aspas. Esquecer de fazer isso é considerado  <i>plágio</i>. Até no caso de expressar a mesma ideia de outro artigo,  com palavras diferentes, merece a citação e indicação explícita. No caso de cópia dos seus próprios artigos, pode-se copiar trechos dispensando o uso das aspas. Mas mesmo assim é preciso ter cuidado para não ser caracterizado como  <i>auto-plágio</i>: se for uma extensão de um artigo prévio, por exemplo, deixe isso claro, e explique precisamente o diferencial do novo artigo.   
 
