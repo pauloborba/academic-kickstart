@@ -45,6 +45,8 @@ Busque a simplicidade nas soluções propostas. A complexidade desnecessária di
 
 Leia muitos artigos e veja muitos vídeos, continuamente, para ter uma boa noção da sua área de pesquisa, métodos de pesquisa utilizados, principais resultados e teorias existentes. Leia também trabalhos de outras áreas, além da Computação, que possam ser úteis e relacionados ao seu trabalho. Muita inovação advém dessa contínua atividade de leitura; veja um excelente exemplo disso nesta inspiradora apresentação de Amy Ko. {{< youtube lx7g-T10WxQ >}}
 
+Mantenha um diário de pesquisa, onde você anota todas as atividades realizadas e a realizar, dificuldades encontradas, resultados obtidos e suas limitações, etc. Você pode fazer isso de diversas formas, escolha a que achar mais apropriada. Uma alternativa interessante é fazer isso através de um conjunto de slides, que vai sendo incrementado ao longo do seu trabalho, e já serve tanto como registro do seu diário quanto como forma de apresentar o andamento do seu trabalho e discutir com seu orientador e colegas em reuniões regulares. 
+
 Esteja preparado para os altos e baixos da vida de um pesquisador, conforme a figura a seguir. ![Altos e baixos da vida de um pesquisador](altos-e-baixos.jpg "Altos e baixos da vida de um pesquisador")
 
 
