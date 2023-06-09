@@ -68,3 +68,8 @@ Para dar fluxo para a apresentação e evitar paradas, a sua fala final na expli
 Se a apresentação for em Inglês, evite esses [erros comuns](https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&btp=1_por_out_mi&utm_campaign=cd_porall_gpr_cbr_howtospotbr&utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&utm_medium=CON&utm_source=outbrain&utm_term=5470743) cometidos por brasileiros quando falam Inglês.
 
 Confira as [políticas](https://www.acm.org/about-acm/policy-against-harassment) para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.
+#### Agradecendo a quem lhe ajuda
+
+É fundamental dar destaque para os financiadores e colaboradores nas apresentações, posters, etc. Colocar no primeiro e último <i>slide</i> a logomarca da instituição financiadora, projetos (como o INES), e do CIn/SPG.
+
+Agradecer a quem lhe ajudou (implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a), colocando um <i>slide</i> com as fotos e nomes das pessoas.
