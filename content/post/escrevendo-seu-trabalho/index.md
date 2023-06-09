@@ -69,21 +69,21 @@ Use como guia a [lista de tópicos da ACM Sigsoft](https://acmsigsoft.github.io/
 
 #### Capriche no estilo de escrita
 
+Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador. 
+
+Leia com cuidado, e consulte sempre, <i>The Elements of Style</i> ([link 1](http://www.bartleby.com/141/) ou [link 2](http://www.crockford.com/wrrrld/style.html )).
+
 Primeiro mostre o exemplo concreto, e só depois a generalização.
 
 Escreva no presente: in Section X we present (instead of will present); we first filter (instead of filtered) our sample, etc. Mais importante, seja consistente. 
 
 Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).
 
-Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador. 
-
-Leia com cuidado, e consulte sempre, <i>The Elements of Style</i> ([link 1](http://www.bartleby.com/141/) ou [link 2](http://www.crockford.com/wrrrld/style.html )).
-
 Leia dicas de escrita ([de Claire Le Goues](https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/), de [
 Philipp Leitner](https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381), e [do grupo de pesquisa Capra](https://capra.cs.cornell.edu/styleguide)) que casam bastante com o meu estilo (exceto a sugestão de usar "e.g." e "i.e."; por favor, evite).
 
-Veja dicas para formatação de [tabelas](guide-tables.pdf) e [gráficos](https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/). Sobre gráficos, o resumo é o seguinte: "<i>normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts</i>". 
-
+Veja dicas para formatação de [tabelas](guide-tables.pdf) e [gráficos](https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/). Sobre essa referência de gráficos, o resumo é o seguinte: "<i>normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts</i>". Use [<i>raincloud plots</i>](https://wellcomeopenresearch.org/articles/4-63) ao invés de <i>box plots</i>, <i>bean plots</i> ou <i>violin plots</i>. Os [diagramas de Sankey](https://en.wikipedia.org/wiki/Sankey_diagram) podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 [neste artigo]({{< relref "/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection" >}}).
+ 
 Use um <i>spell checker</i>! Considere usar uma ferramenta (como [Grammarly](https://www.grammarly.com) ou [ChatGPT](https://openai.com/blog/chatgpt/)) para revisar o seu texto. Não usando uma ferramenta dessas, use [scripts para melhorar a qualidade de textos em inglês](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates):
 <ul>
 <li>script para detecção de Weasel Words
