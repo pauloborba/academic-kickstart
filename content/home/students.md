@@ -27,7 +27,7 @@ I often have opportunities for supervising dedicated students and software devel
 Here are former students with whom I currently more closely collaborate:
 
 * Guilherme Cavalcanti (IFPE)
-* Léuson da Silva (Unicap)
+* Léuson da Silva (Polytechnique Montreal)
 * Paola Accioly (UFCA)
 * Klissiomara Dias (UFRA)
 * Thaís Burity (UFAPE)
