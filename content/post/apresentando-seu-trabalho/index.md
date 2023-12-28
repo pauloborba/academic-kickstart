@@ -40,14 +40,13 @@ O objetivo não é apresentar todos os detalhes do artigo (ou tese). A ideia é 
 
 O que for possível ilustrar com figuras e gráficos, ilustre com figuras e gráficos! Para desenhar figuras, eu uso e recomendo o omnigraffle. É essencial que as figuras passem claramente a mensagem desejada.   
 
-Para gravar vídeos, eu uso o camtasia.
-
 Não repita o título dos slides. Por exemplo, se você tem 4 slides de resultados, os títulos dos 4 não deve ser "Resultados", nem "Resultado 1", "Resultado 2", etc. Adicione um slide apenas com a palavra "Resultados", para funcionar como um marcador, delimitador, de nova seção da apresentação. E em cada um dos 4 slides coloque um título que captura a ideia que você quer passar com aquele slide (o que você quer que a audiência aprenda com aquele slide), e que é justificada pelas demais informações (texto, tabelas, figuras, gráficos, etc.)) que você coloca no slide. Assim teremos títulos como estes: "Testes de unidade podem detectar conflitos semânticos", "Mas com significativa taxa de falsos negativos", etc. 
 
 Veja [The art of slide design](https://speakerdeck.com/mseckington/the-art-of-slide-design), que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don't distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.
 
 Veja também repositórios de [combinações de cores interessantes](http://colorsupplyyy.com/), [fontes](https://fonts.google.com/), [fotos](https://www.flickr.com/), [mais fotos](https://www.pexels.com/), e [ícones](https://thenounproject.com/). Eu também uso um conjunto de ícones da common craft.
 
+Se a sua apresentação inclui um vídeo, veja antes [Gravando vídeos]({{< relref "/post/gravando-videos" >}}).
 
 #### Ensaiando
 
@@ -68,6 +67,7 @@ Para dar fluxo para a apresentação e evitar paradas, a sua fala final na expli
 Se a apresentação for em Inglês, evite esses [erros comuns](https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&btp=1_por_out_mi&utm_campaign=cd_porall_gpr_cbr_howtospotbr&utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&utm_medium=CON&utm_source=outbrain&utm_term=5470743) cometidos por brasileiros quando falam Inglês.
 
 Confira as [políticas](https://www.acm.org/about-acm/policy-against-harassment) para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.
+
 #### Agradecendo a quem lhe ajuda
 
 É fundamental dar destaque para os financiadores e colaboradores nas apresentações, posters, etc. Colocar no primeiro e último <i>slide</i> a logomarca da instituição financiadora, projetos (como o INES), e do CIn/SPG.
