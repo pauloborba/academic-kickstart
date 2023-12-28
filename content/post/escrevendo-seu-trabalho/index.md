@@ -31,6 +31,8 @@ Antes de tudo, você já deve ter visto [Apresentando seu trabalho]({{< relref "
 
 A qualidade da escrita do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!
 
+Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente [Writing and Speaking with Style](https://docs.google.com/document/d/1_vBXbugoLjO171w3wovs3ugmRQI-O6EcSVFDBF7eUzE/edit#heading=h.sgfiu451dqjh), de Benjamin C. Pierce e Rajeev Alur.
+
 #### Preparativos iniciais
 
 Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é [spggroup](https://github.com/spgroup). 
