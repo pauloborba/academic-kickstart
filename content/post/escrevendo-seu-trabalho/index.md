@@ -269,11 +269,13 @@ Siga as sugestões de [Owens](https://www.ece.ucdavis.edu/~jowens/biberrors.html
 
 Após você escrever, imprimir, ler e revisar uma primeira versão do seu artigo, envie uma segunda versão para outras pessoas (principalmente seu orientador!) revisar.
 
-As anotações e comentários feitos pelo seu orientador no seu texto devem ser interpretadas não apenas como uma sugestão para melhorar um determinado trecho do texto, mas como uma lição a ser aprendida e usada em vários outros contextos (outras partes do texto, outros textos, etc.). Isso ajudará você a evitar  cometer o mesmo erro de escrita mais de uma vez.
+As anotações e comentários feitos pelo seu orientador no seu texto devem ser interpretadas não apenas como uma sugestão para melhorar um determinado trecho do texto, mas como uma lição a ser aprendida e usada em vários outros contextos (outras partes do texto, outros textos, etc.). Isso ajudará você a evitar cometer o mesmo erro de escrita ou de apresentação mais de uma vez.
 
-Para facilitar a vida das pessoas (inclusive o seu orientador)  que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como <i>\newcommand{\rev}[1]{\textcolor{red}{#1}}</i> (ver [Marking Changed Text in Journal Revisions](https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738)). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.
+Para facilitar a vida das pessoas (inclusive o seu orientador) que estiverem lhe ajudando com o artigo, ao fazer mudanças em uma versão lida e comentada por essas pessoas, destaque todas as mudanças realizadas utilizando um comando como <i>\newcommand{\rev}[1]{\textcolor{red}{#1}}</i> (ver [Marking Changed Text in Journal Revisions](https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738)). Assim, ao lerem uma próxima versão, essas pessoas poderão facilmente identificar o que foi modificado.
 
-Após a aceitação do seu trabalho, coloque todo o material do artigo no [repositório de artigos](https://github.com/spgroup/papers) do seu grupo de pesquisa.
+Após as pessoas terem revisado seu trabalho, e você ter feito os ajustes no texto, publique o seu artigo no [arXiv](https://arxiv.org). Em particular, tenha cuidado para referenciar corretamente os perfis dos seus co-autores no arXiv; veja [este](https://arxiv.org/abs/2310.02395) exemplo. Avise aos seus co-autores.
+
+Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no [repositório de artigos](https://github.com/spgroup/papers) do seu grupo de pesquisa. Avise aos seus co-autores.
 
 Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a [política da ACM](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
 
