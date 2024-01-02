@@ -82,7 +82,7 @@ Os servidores são normalmente configurados para serem acessados com as inicias 
 
 Temos alguns servidores menos potentes mas que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. 
 
-Os servidores são chamados inesserver1, inesserver2, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.  
+Os servidores são chamados inesserver1.cin.ufpe.br, inesserver2.cin.ufpe.br, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.  
 
 Seguem dicas de Toni Maciel:
 
