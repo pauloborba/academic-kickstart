@@ -275,8 +275,6 @@ Para facilitar a vida das pessoas (inclusive o seu orientador) que estiverem lhe
 
 Após as pessoas terem revisado seu trabalho, e você ter feito os ajustes no texto, publique o seu artigo no [arXiv](https://arxiv.org). Em particular, tenha cuidado para referenciar corretamente os perfis dos seus co-autores no arXiv; veja [este](https://arxiv.org/abs/2310.02395) exemplo. Avise aos seus co-autores.
 
-Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no [repositório de artigos](https://github.com/spgroup/papers) do seu grupo de pesquisa. Avise aos seus co-autores.
-
 Verifique com cuidado a política de publicação associada ao veículo onde você quer publicar seu artigo. Na falta de uma política clara do veículo em questão, siga a [política da ACM](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
 
 #### Agradecendo a quem lhe ajuda
