@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Este artigo é direcionado para quem vai fazer iniciação científica, mestrado, doutorado ou pós-doutorado no [CIn](http://www.cin.ufpe.br/), especialmente no [SPG](http://www.cin.ufpe.br/spg), e sob a minha orientação! Mas alguns detalhes podem servir para outras pessoas que estejam chegando ao CIn para trabalhar.
+Este artigo é direcionado para quem vai fazer iniciação científica, mestrado, doutorado ou pós-doutorado no [CIn](http://www.cin.ufpe.br/), especialmente no [SPG](http://www.cin.ufpe.br/spg), e sob a minha orientação! No entanto, algumas das informações podem servir para outras pessoas que estejam chegando ao CIn para trabalhar.
 
 ### Antes de tudo
 
@@ -74,13 +74,26 @@ Em particular, é essencial que você adquira uma boa base em Engenharia de Soft
 
 ### Acessando os servidores para experimentos
 
-O acesso de fora do CIn para todos os servidores é feito via a VPN do CIn (veja as instruções de como configurar a VPN na página de [sistemas](http://helpdesk.cin.ufpe.br/)). 
+Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na [página da gerência de  sistemas](http://helpdesk.cin.ufpe.br/) as instruções de como configurar a VPN. 
+
+Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restrita para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK. 
+
+##### Servidores com isolamento
+
+Temos alguns servidores menos potentes mas que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. 
+
+Os servidores são chamados inesserver, inesserver1, inesserver2, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.  
+
+Seguem dicas de Toni Maciel:
+
+1. Para Login, usar algum cliente SSH e logar com: login@nomeservidor.cin.ufpe.br e digitar sua senha do CIn. Via terminal linux, por exemplo, faço o seguinte: ssh meulogincin@inesserver2.cin.ufpe.br
+
+1. Para transferir arquivos pro servidor e visualizar os diretórios, usar alguma ferramenta como Filezilla.
+1. Tanto o ssh quanto o filezilla usam a porta de conexão "22" para acessá-los caso solicitado. 
 
 ##### Cluster RAM
 
 Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br. 
-
-A máquina foi configurada para ser acessada com as inicias do CIn como login, mas é restrita para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, me copiando para eu dar o OK. 
 
 Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker. 
 
@@ -89,18 +102,15 @@ Temos que ter também bastante cuidado com medições de tempo, etc., e combinar
 Seguem dicas de Galileu Santos de Jesus: 
 
 1. Para acessar a máquina a parte mais difícil é copiar os arquivos gerados. No Ubuntu, eu acesso via sftp:
-    1. Abra o gerenciador de arquivo e clique em outras conexões;
-    1. Digite sftp://gsj@cluster-node11.cin.ufpe.br/, onde gsj é o login do seu email;
-    1. Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.
+    - Abra o gerenciador de arquivo e clique em outras conexões;
+    - Digite sftp://gsj@cluster-node11.cin.ufpe.br/, onde gsj é o login do seu email;
+    - Clique em conectar e coloque sua senha do e-mail. Pronto, agora você está dentro do servidor, podendo armazenar arquivos, copiar e colar na mão.
 1. Comando úteis via terminal:
-    1. ssh gsj@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada), onde gsj é o do seu email;
-    1. Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY
+    - ssh gsj@cluster-node11.cin.ufpe.br, para conectar ao servidor (VPN deve está conectada), onde gsj é o do seu email;
+    - Comandos docker importantes: docker stats, docker ps, docker exec -it ID_CONTAINER /bin/bash, docker cp ID_CONTAINER:/home/PATH PATH_COPY
 1. Esses são os comandos que mais uso, conectar, copiar arquivos, acessar docker, copiar resultados.
 
 ##### Cluster GPU
 
 Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de [sistemas](http://helpdesk.cin.ufpe.br/)) e o cluster de um projeto que eu coordeno. Discuta comigo qual usar.
 
-##### Outros servidores
-
-Temos também mais alguns servidores menos potentes mas que são úteis para realização de experimentos com isolamento de outros usos. 
