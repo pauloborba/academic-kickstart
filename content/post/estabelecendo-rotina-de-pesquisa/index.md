@@ -97,4 +97,6 @@ Quando recebendo <i>feedback</i>, não tente ficar se defendendo, dando explica�
 
 Veja nesta figura (de [How to disagree well: 7 of the best and worst ways to argue](http://bigthink.com/paul-ratner/how-to-disagree-well-7-of-the-best-and-worst-ways-to-argue)") ![How to disagree well: 7 of the best and worst ways to argue](how-to-disagree-well.jpg "How to disagree well: 7 of the best and worst ways to argue") as diversas formas de discordar de alguma ideia ou opinião, tanto para que você saiba discordar de forma justa e efetiva, quanto para que você consiga perceber quando outros estiverem discordando de forma injusta e apelativa.
 
+Em discussões, pense de novo! ![Think again](thinkagain.jpeg "Think again")
+
 
