@@ -44,6 +44,8 @@ Não repita o título dos slides. Por exemplo, se você tem 4 slides de resultad
 
 Veja [The art of slide design](https://speakerdeck.com/mseckington/the-art-of-slide-design), que dá dicas importantes de como usar cores, fontes, etc. nos slides da sua apresentação. Aqui estão os princípios básicos extraídos dessa apresentação: maximize signal and minimize noise (one purpose per slide, don't distract); make important information stand out (mainly using color, but also size, fonts and shapes); show AND tell (use photos, icons, shapes, and animations to support what you are saying); be consistent.
 
+Se preocupe com a acessibilidade da sua apresentação. Adicione texto alternativo às imagens da sua apresentação (não consegui fazer isso funcionar no Keynote!). Escolha cores contrastantes para o texto e o fundo dos seus slides. Evite verde com vermelho, e azul com amarelo. Não use apenas cores para realçar informação, use a cor e bold. Evite slides sem título.
+
 Veja também repositórios de [combinações de cores interessantes](http://colorsupplyyy.com/), [fontes](https://fonts.google.com/), [fotos](https://www.flickr.com/), [mais fotos](https://www.pexels.com/), e [ícones](https://thenounproject.com/). Eu também uso um conjunto de ícones da common craft.
 
 Se a sua apresentação inclui um vídeo, veja antes [Gravando vídeos]({{< relref "/post/gravando-videos" >}}).
@@ -67,6 +69,9 @@ Para dar fluxo para a apresentação e evitar paradas, a sua fala final na expli
 Se a apresentação for em Inglês, evite esses [erros comuns](https://pt.babbel.com/pt/magazine/como-identificar-um-brasileiro-falando-ingles?bsc=pormag-a63-howtospotabrazilian-mi-ob&btp=1_por_out_mi&utm_campaign=cd_porall_gpr_cbr_howtospotbr&utm_content=Veja+os+erros+mais+comuns+de+brasileiros+ao+falar+&utm_medium=CON&utm_source=outbrain&utm_term=5470743) cometidos por brasileiros quando falam Inglês.
 
 Confira as [políticas](https://www.acm.org/about-acm/policy-against-harassment) para participação em eventos da ACM, mas que devem ser seguidas em qualquer tipo de evento.
+
+Se houver na audiência pessoas com deficiência visual, apresente de forma inclusiva. No início da apresentação, se apresente adequadamente, diga seu nome, gênero, cor da pele, altura e peso aproximados, se usa óculos, como é seu cabelo, etc. Durante a apresentação, descreva verbalmente as imagens, figuras, gráficos ("na extremidade esquerda do eixo x temos... e na direita temos..."), tabelas ("nesta tabela onde temos linhas com... e colunas com, na célula ... temos..."), etc.   
+
 
 #### Agradecendo a quem lhe ajuda
 
