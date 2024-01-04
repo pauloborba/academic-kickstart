@@ -30,7 +30,15 @@ projects: []
 
 A qualidade da apresentação do seu trabalho é tão importante quanto a qualidade do mesmo. Capriche na preparação!
 
-Antes de tudo, estude com cuidado [How to give a great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/), de Simon Peyton Jones.
+Antes de tudo, estude com cuidado [How to give a great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/), de Simon Peyton Jones. Leia [How to give a technical presentation (how to give a scientific talk)](https://homes.cs.washington.edu/~mernst/advice/giving-talk.html), de Mike Ernst.
+
+#### Planejando a apresentação
+
+A sua apresentação deve contar um estória como a seguinte: desenvolvedores sofrem com problema tal, sofrem dor tal no dia a dia; ferramentas e técnicas atuais não resolvem o problema por completo por causa disso e daquilo; para resolver esse problema, a gente sugere o seguinte; para avaliar se a solução funciona, a gente faz isso e aquilo; os resultados mostram isso; isso significa que tais pessoas podem se beneficiar da solução em tais situações! Essa estória deve ser interessante e chamar a atenção da audiência. É importante que a estória também gire em torno de um único ponto principal, uma única descoberta principal; melhor focar em um ponto e fazê-lo bem feito.
+
+Discuta esse planejamento com o seu orientador.
+
+Veja mais dicas relacionadas a essa em [Escrevendo seu trabalho]({{< relref "/post/escrevendo-seu-trabalho" >}}).
 
 #### Preparando os slides
 
