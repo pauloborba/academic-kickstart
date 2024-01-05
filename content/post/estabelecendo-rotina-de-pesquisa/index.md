@@ -39,6 +39,8 @@ Siga as recomendações de [The real final exam](http://www.csb.pitt.edu/Faculty
 
 Na escolha de um tema de pesquisa, valorize mais a importância do tema do que a sua popularidade ou facilidade para exploração.
 
+Um bom projeto normalmente envolve o seguinte: um problema (ou questão de pesquisa) relevante, o problema deve ser uma dor que alguém tenha na prática; uma solução (ou teoria) nova e consistente, que seja um claro avanço sobre o estado da arte; avaliação rigorosa, sem maiores riscos à validade, trazendo evidência que a solução resolve o problema.
+
 Seja crítico. Nem sempre as ideias, ferramentas, etc. de pesquisadores ou empresas de destaque são as melhores.
 
 Busque a simplicidade nas soluções propostas. A complexidade desnecessária dificulta a adoção, o ensino, e o progresso dos seu resultados de pesquisa.
@@ -58,6 +60,8 @@ Os seus resultados de pesquisa devem ser rigorosamente avaliados, para aumentar 
 
 A menos que sua pesquisa foque na busca do entendimento de questões fundamentais da área, sem considerações de uso (ver o [quadrante de Pasteur](https://en.wikipedia.org/wiki/Pasteur's_quadrant)), mantenha contato com seus potenciais clientes e usuários para que seu trabalho de pesquisa e os resultados derivados sejam relevantes. Entreviste-os, convide-os para apresentar seminários no grupo de pesquisa, converse com eles, valide os seus resultados com eles, e participe de eventos mais práticos da comunidade profissional.
 
+Por outro lado, é preciso ter cuidado porque vários problemas na indústria não são problemas de pesquisa, são acidentes que poderiam ser evitados com técnicas, ferramentas, e métodos educacionais existentes. Alguns são problemas essencialmente de pesquisa, mas precisam ser cortados e polidos (como feito com um diamante bruto) antes de se tornarem o problema a ser atacado em uma tese de mestrado ou doutorado; e cortar e polir dá muito trabalho! 
+
 Experimente e observe bem as atividades profissionais relativas ao tópico da sua pesquisa. Colocando a mão na massa, e observado outros fazer o mesmo, você poderá desenvolver uma intuição pessoal importante para derivar ideias (soluções para problemas relevantes, perguntas de pesquisa a serem respondidas, conceitos e teorias explicativas, etc.) consistentes para a sua pesquisa.
 
 Consulte sites de notícias como [Reddit](https://www.reddit.com/), e sites de perguntas e respostas como [Stack Overflow](https://stackoverflow.com/), para tirar dúvidas, realizar enquetes, e entender melhor questões atuais de interesse de desenvolvedores.
@@ -70,6 +74,8 @@ Mantenha comunicação frequente com o orientador, em reuniões (presenciais ou 
 Durante as reuniões com o seu orientador, anote as atividades sugerida por ele, idealmente no chat (no canal do projeto, ou no seu chat com o seu orientador, se não houver um canal do projeto).
 
 Participe regularmente da reunião semanal do seu grupo de pesquisa. Os seminários do seu grupo de pesquisa, em particular, têm tanto uma utilidade técnica (aprender ou explicar novidades, dar e receber feedback, entender pontos que precisam ser melhor esclarecidos ou explorados no seu trabalho, etc.) e educacional (o aluno aprende a se expor, explicar ideias para pessoas que trabalham em áreas um pouco diferentes, etc.) quanto social (os alunos e professores se conhecem melhor, identificam possíveis pontos de colaboração, estabelecem conexões, ficam sabendo de novidades, etc.).
+
+Entenda o contexto no qual a sua pesquisa se insere, e descubra a sua comunidade de pesquisa. Entenda os aspectos sociais desta comunidade: regras explícitas e implícitas, interesses, valores, etc. Trabalhar na interseção entre duas comunidades é sempre mais difícil. 
 
 
 #### Cuidados éticos e metodológicos essenciais

@@ -39,3 +39,11 @@ são as que eu acho mais importantes e procurei fazer (e me arrependo de quando 
 Sobre a última, em particular, a ideia não é deixar de fazer as outras tarefas necessárias e que você tem menos interesse (no meu caso corrigir provas, ajudar na gestão, etc.) mas fazê-las com a dedicação mínima necessária que a tarefa requer. Procurar chegar perto da perfeição nessas tarefas vai lhe impossibilitar de chegar perto da perfeição nas tarefas que lhe interessam mais (no meu caso preparar aulas, pesquisar, etc.)!
 
 Leia [Everything I did wrong as a professor](http://matt-welsh.blogspot.com/2016/03/everything-i-did-wrong-as-professor.html), de Matt Welsh, para evitar algumas armadilhas da vida acadêmica. Eu sempre tentei reduzir viagens, dizer não (sempre que você diz sim para uma atividade está dizendo não para outra!), e reduzir o número de projetos e alunos, mas nunca parece suficiente!
+
+Como orientador, sempre tento
+
+- focar prioritariamente no *pesquisador*, não na *pesquisa* e seus *resultados*; isso resulta em desenvolver no pesquisador habilidades essenciais de como pesquisar, como se comunicar e colaborar, além de consolidar valores e princípios, e a minha visão da área e do processo de pesquisa
+- ajudar os alunos irem além do que eu fui na nossa profissão
+- estabelecer como meta de sucesso como orientador a continuidade e evolução dos meus princípios e forma de trabalho
+- estabelecer padrão de qualidade e excelência
+- fazer perguntas difíceis
