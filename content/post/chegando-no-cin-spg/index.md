@@ -35,9 +35,11 @@ Me passe seu número de telefone e peça o meu.
 
 Marque um horário comigo para passar na minha sala e eu lhe mostrar o laboratório do grupo de pesquisa e te apresentar às outras pessoas do grupo.
 
-Assine o grupo do [Slack](https://spg-ufpe.slack.com), onde a comunicação de trabalho, não presencial, realmente acontece. 
+Me informe se quer participar do grupo de WhatsApp (opcional, mas recomendado se você não tiver objeções, normalmente tem poucas mensagens também).
 
-Me informe se quer participar do grupo de WhatsApp também (opcional, mas recomendado se você não tiver objeções, normalmente tem poucas mensagens também).
+Para as recomendações a seguir, melhor só seguir após ter a sua conta no CIn. Antes da matrícula, você deve receber informações da secretaria de pós-graduação sobre isso.
+
+Assine o grupo do [Slack](https://spg-ufpe.slack.com), onde a comunicação de trabalho, não presencial, realmente acontece. 
 
 Assine as listas de email [spg-l](https://groups.google.com/a/cin.ufpe.br/g/spg-l) e [labes-l](https://groups.google.com/a/cin.ufpe.br/g/labes-l); ambas têm poucas mensagens, normalmente sobre congressos, escolas de verão, artigos, e uso do laboratório do INES). 
 
@@ -47,7 +49,7 @@ Todos esse canais, exceto a lista do GENTeS, podem ser usados para tirar dúvida
 
 Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!
 
-Crie um site pessoal minimamente organizado no domínio do CIn, e me passem o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
+Crie um site pessoal minimamente organizado no domínio do CIn, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
 
 
 ### Conhecendo o CIn 
