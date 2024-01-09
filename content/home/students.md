@@ -20,7 +20,7 @@ Here are the students I currently supervise, with their expected graduation date
 * Henrique Oliveira (BSc 2024)
 * Hugo Cardoso (BSc 2024)
 * Isabela Menezes (BSc 2025)
-* Matheus Barbosa (PhD 2026)
+* [Matheus Barbosa](https://barbosamaatheus.github.io) (PhD 2026)
 * Nathalia Barbosa (BSc 2025)
 * Toni Maciel (BSc 2023)
 * Vinicius Barbosa (BSc 2025)
