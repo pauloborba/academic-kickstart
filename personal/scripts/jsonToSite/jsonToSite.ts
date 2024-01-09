@@ -30,13 +30,13 @@ for (let article of articles) {
   addFilesToDirectory(directory, article);
 }
 
-// as hugo removes question marks from generated directories, we have to remove here too, otherwise link to article PDF will break
+// as hugo removes question marks from generated directories, we have to remove here too, otherwise link to article PODF will break
 function createPublicationDirectory(article) {
   const title = article.title;
   const year = article.year;
   const titleWithoutSpaces = title.replace(/ /gi,'_');
-  const titleWithoutQuestionMarks = title.replace(/\?/gi,'_');
-  const titleWithoutColon = titleWithoutSpaces.replace(/\:/gi,'_');
+  const titleWithoutQuestionMarks = titleWithoutSpaces.replace(/\?/gi,'_');
+  const titleWithoutColon = titleWithoutQuestionMarks.replace(/\:/gi,'_');
   let directoryName = year.concat(titleWithoutColon.toLowerCase());
   if (fs.existsSync(directoryName)) {
     directoryName = directoryName + "_double_entry"
