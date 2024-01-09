@@ -71,7 +71,9 @@ A princípio, eu sugiro que os meus alunos cursem as seguintes disciplinas:
 
 Mas, como isso depende muito da formação e interesses do aluno, se tiver alguma outra disciplina que você tenha interesse ou necessidade em cursar, podemos discutir sem problema. É só me contactar via chat.
 
-Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de [Introduction to Software and Systems Engineering]({{< relref "/#courses" >}}), exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de [Bogdan Vasilescu](https://github.com/bvasiles/empirical-methods?s=03) e [Alexander Serebrenik](https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos), pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).
+Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de [Introduction to Software and Systems Engineering]({{< relref "/#courses" >}}), exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de [Bogdan Vasilescu](https://github.com/bvasiles/empirical-methods?s=03) e [Alexander Serebrenik](https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos), pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho). 
+
+Se você não tiver conhecimentos práticos sobre Linux, shells, transformação de dados, depuração e profiling, e segurança faça este curso: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu). Para complementar a parte de Linux, veja os 5 primeiros tópicos do [meu curso de UNIX](https://www.cin.ufpe.br/~phmb/sysadm/programa.html), apesar de ser bem antigo! 
 
 
 ### Acessando os servidores para experimentos
