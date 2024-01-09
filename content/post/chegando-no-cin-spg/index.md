@@ -37,9 +37,9 @@ Marque um horário comigo para passar na minha sala e eu lhe mostrar o laborató
 
 Me informe se quer participar do grupo de WhatsApp (opcional, mas recomendado se você não tiver objeções, normalmente tem poucas mensagens também).
 
-Para as recomendações a seguir, melhor só seguir após ter a sua conta no CIn. Antes da matrícula, você deve receber informações da secretaria de pós-graduação sobre isso.
+Para as recomendações a seguir, melhor só seguir após ter a sua conta do CIn. Antes da matrícula, você deve receber informações da secretaria de pós-graduação sobre sua conta, email, crachá, etc.
 
-Assine o grupo do [Slack](https://spg-ufpe.slack.com), onde a comunicação de trabalho, não presencial, realmente acontece. 
+Me envie um email solicitando o convite para o grupo do [Slack](https://spg-ufpe.slack.com), onde a comunicação de trabalho, não presencial, realmente acontece. 
 
 Assine as listas de email [spg-l](https://groups.google.com/a/cin.ufpe.br/g/spg-l) e [labes-l](https://groups.google.com/a/cin.ufpe.br/g/labes-l); ambas têm poucas mensagens, normalmente sobre congressos, escolas de verão, artigos, e uso do laboratório do INES). 
 
@@ -61,7 +61,7 @@ Assumindo que você já se familiarizou com os sites do CIn e do SPG (ver acima!
 
 Se você está chegando para o mestrado ou doutorado, leia o regimento da pós! É importante para saber exatamente quantas disciplinas você terá que cursar, quais podem ser dispensadas, etc. Essa regras sempre mudam e eu nunca consigo lembrar dos detalhes das mesmas.
 
-Leia e me procure para fecharmos o planejamento das disciplinas. O ideal seria cursar logo 3 ou 4 disciplinas no primeiro semestre, para que no segundo semestre a gente já tenha um bom tempo para se dedicar à pesquisa da tese. Uma das disciplinas do segundo semestre seria Trabalho Individual, justamente para começarmos a trabalhar na tese. Seminários também poderia ficar para o segundo semestre se você for cursar 4 disciplinas no primeiro.
+Leia e me procure para fecharmos o planejamento das disciplinas. Se você vai fazer o curso com dedicação exclusiva, ou com pouca carga de trabalho, o ideal seria cursar logo 3 ou 4 disciplinas no primeiro semestre, para que no segundo semestre a gente já tenha um bom tempo para se dedicar à pesquisa da tese. Uma das disciplinas do segundo semestre seria Trabalho Individual, justamente para começarmos a trabalhar na tese. Seminários também poderia ficar para o segundo semestre se você for cursar 4 disciplinas no primeiro. Se você vai fazer o curso sem dedicação exclusiva, uma boa opção pode ser começar com duas disciplinas, para se adaptar aos poucos ao ritmo do curso.
 
 A princípio, eu sugiro que os meus alunos cursem as seguintes disciplinas:
 
@@ -71,7 +71,7 @@ A princípio, eu sugiro que os meus alunos cursem as seguintes disciplinas:
 
 Mas, como isso depende muito da formação e interesses do aluno, se tiver alguma outra disciplina que você tenha interesse ou necessidade em cursar, podemos discutir sem problema. É só me contactar via chat.
 
-Em particular, é essencial que você adquira uma boa base em Engenharia de Software (veja, no meu canal  as playlists sobre vários tópicos de Engenharia de Software, exceto as mais tecnológicas sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de [Bogdan Vasilescu](https://github.com/bvasiles/empirical-methods?s=03) e [Alexander Serebrenik](https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos), pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).
+Em particular, é essencial que você adquira uma boa base em Engenharia de Software (assista aos vídeos de [Introduction to Software and Systems Engineering]({{< relref "/#courses" >}}), exceto os mais tecnológicos sobre SaaS) e em Métodos de Pesquisa (veja, nos cursos de [Bogdan Vasilescu](https://github.com/bvasiles/empirical-methods?s=03) e [Alexander Serebrenik](https://www.youtube.com/channel/UCUeRK8nJKyj_i_Yz81eHa8g/videos), pelo menos as aulas relacionadas aos métodos de pesquisa que você vai usar no seu trabalho).
 
 
 ### Acessando os servidores para experimentos
@@ -79,6 +79,7 @@ Em particular, é essencial que você adquira uma boa base em Engenharia de Soft
 Para conectar aos servidores, você deve estar conectado à rede do CIn. Para tanto, você deve usar o VPN do CIn se o acesso for de fora do CIn. Veja na [página da gerência de  sistemas](http://helpdesk.cin.ufpe.br/) as instruções de como configurar a VPN. 
 
 Os servidores são normalmente configurados para serem acessados com as inicias do CIn como login, mas são restrita para usuários autorizados. Para solicitar autorização, é necessário enviar email para o helpdesk do CIn, indicando que servidor (ver abaixo as opções) deseja acessar, e me copiando para eu dar o OK. 
+
 
 ##### Servidores com isolamento
 
