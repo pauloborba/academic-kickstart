@@ -37,7 +37,7 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente [Writi
 
 Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é [spggroup](https://github.com/spgroup). 
 
-Use LaTeX, com hyperref. Leia [essas dicas](https://github.com/dspinellis/latex-advice) para uso adequado do LaTeX.
+Use LaTeX, com hyperref. Leia [essas dicas](https://github.com/dspinellis/latex-advice) para uso adequado do LaTeX. Sem saber o básico, você vai cometer muitos erros. Coisas como as seguintes: para obter um travessão em LaTeX, você tem que escrever três hífens seguidos, sem espaço entre eles; como indicação de rodapé vem sempre depois da pontuação, escreva "texto.\footnote{texto do rodapé}" ao invés de "texto\footnote{texto do rodapé}."; para fechar aspas duplas, escreva dois ‘ seguidos, nao o carácter " de aspas duplas; para abrir aspas duplas, escreva dois ` seguidos.
 
 Analise pelo menos dois ou três artigos anteriores do seu orientador e colaboradores, e tente seguir práticas e padrões de estilo do seu grupo de pesquisa, ou de alguns artigos de destaque (confirme com seu orientador se eles realmente são de destaque!) que você tenha lido e tenha gostado. Imite o que é bom em termos de estilo de escrita!
 
@@ -73,7 +73,7 @@ Use como guia a [lista de tópicos da ACM Sigsoft](https://acmsigsoft.github.io/
 
 Use muitas tabelas, gráficos, figuras e exemplos de código fonte para explicar as principais ideias e resultados do seu trabalho. Uma figura ilustrando a ideia geral da sua solução, e outra ilustrando como a mesma foi avaliada, são essenciais e precisam ser extremamente caprichadas e dar uma boa ideia do que se trata seu trabalho; discuta-as bem com seu orientador. 
 
-Leia com cuidado, e consulte sempre, <i>The Elements of Style</i> ([link 1](http://www.bartleby.com/141/) ou [link 2](http://www.crockford.com/wrrrld/style.html )).
+Leia com cuidado, e consulte sempre, <i>The Elements of Style</i> ([link 1](http://www.bartleby.com/141/) ou [link 2](http://www.crockford.com/wrrrld/style.html )). Escreva frases curtas; quebre frases longas em várias frases. Fica mais fácil de escrever e de ler. 
 
 Primeiro mostre o exemplo concreto, e só depois a generalização.
 
@@ -281,7 +281,7 @@ Verifique com cuidado a política de publicação associada ao veículo onde voc
 
 É fundamental dar destaque para os financiadores e colaboradores nos artigos, apresentações, posters, software e produtos em geral.
 
-Nos artigos, colocar algo como "For partially supporting this work, we would like to thank INES (National Software Engineering Institute) and the Brazilian research funding agencies CNPq (grant 309741/2013-0), FACEPE (grants IBPG-0546-1.03/15 and APQ/0388-1.03/14), and CAPES." Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.
+Nos artigos, colocar algo como "For partially supporting this work, we would like to thank INES (National Software Engineering Institute) and the Brazilian research funding agencies CNPq (grant 309235/2021-9), FACEPE (grants IBPG-0546-1.03/15 and APQ/0388-1.03/14), and CAPES." Verificar os números atuais com seu orientador. É importante colocar também os números dos processos dos projetos do qual você obteve algum tipo de financiamento.
 
 Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.
-
+ 
