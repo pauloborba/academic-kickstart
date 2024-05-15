@@ -35,7 +35,7 @@ Considere fortemente fazer um curso sobre o assunto. Recomendo fortemente [Writi
 
 #### Preparativos iniciais
 
-Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é [spggroup](https://github.com/spgroup). 
+Crie um repositório privado na área do seu grupo de pesquisa. A do SPG é [spggroup](https://github.com/spgroup). Peça para seu orientador criar, caso você não tenha permissão.
 
 Use LaTeX, com hyperref. Leia [essas dicas](https://github.com/dspinellis/latex-advice) para uso adequado do LaTeX. Sem saber o básico, você vai cometer muitos erros. Coisas como as seguintes: para obter um travessão em LaTeX, você tem que escrever três hífens seguidos, sem espaço entre eles; como indicação de rodapé vem sempre depois da pontuação, escreva "texto.\footnote{texto do rodapé}" ao invés de "texto\footnote{texto do rodapé}."; para fechar aspas duplas, escreva dois ‘ seguidos, nao o carácter " de aspas duplas; para abrir aspas duplas, escreva dois ` seguidos.
 

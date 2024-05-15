@@ -29,6 +29,8 @@ You can find here the playlists (with videos in Portuguese) for each of the topi
 - [Refactoring](https://www.youtube.com/watch?v=Mn-YkY7BYA8&list=PLE-5PZOOoVUhMcaasNeSSCf1ZaWvmMY7B)
 - [SaaS Technology](https://www.youtube.com/playlist?list=PLE-5PZOOoVUhlfGwlK7dbuX9n4ngOxOLO).
 
+Slides and study guidelines (including exercises) are available in the [course repository](https://github.com/pauloborba/software-engineering-courses). 
+
 ##### Software Engineering
 
 2020-1
