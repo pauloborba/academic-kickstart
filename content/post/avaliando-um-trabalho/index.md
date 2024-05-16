@@ -48,3 +48,5 @@ Leia [How to constructively review a research paper](https://freedom-to-tinker.c
 - "<i>Consider accepting papers with important results even if they aren’t highly novel, and conversely, papers that are judged to be innovative even if the potential impact isn’t immediately clear. But don’t reward cleverness for the sake of cleverness; that’s not what novelty is supposed to be about.</i>"
 
 - "<i>Above all, be supportive of authors. If you rated a paper low on impact or novelty, do your best to explain why.</i>"
+
+Considere também que pode haver [diferenças significativas](https://andreas-zeller.info/2021/07/27/Reviewing-across-fields-ICSE-PLDI-CCS.html) nos processos de avaliação de diferentes áreas de pesquisa. 
