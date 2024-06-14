@@ -14,17 +14,17 @@ subtitle = ""
 
 Here are the students I currently supervise, with their expected graduation dates:
 
-* Amanda Moraes (BSc 2024)
-* [João Pedro Henrique Santos Duarte](https://jpedroh.dev/) (MSc 2025)
-* [Galileu Santos de Jesus](https://www.cin.ufpe.br/~gsj) (PhD 2024)
-* Davi de Barros Fernandes Câmara (Msc 2025)
+* Amanda Moraes (MSc 2026)
+* Davi de Barros Fernandes Câmara (MSc 2026)
+* [Galileu Santos de Jesus](https://www.cin.ufpe.br/~gsj) (PhD 2025)
 * Guilherme Cavalcanti (Postdoc 2024)
 * Henrique Oliveira (BSc 2024)
 * Hugo Cardoso (BSc 2024)
 * Isabela Menezes (BSc 2024)
+* [João Pedro Henrique Santos Duarte](https://jpedroh.dev/) (MSc 2025)
 * [Matheus Barbosa](https://barbosamaatheus.github.io) (PhD 2026)
 * Nathalia Barbosa (BSc 2025)
-* Toni Maciel (BSc 2023)
+* Toni Maciel (BSc 2024)
 * Vinicius Barbosa (BSc 2025)
 * Victor Lira (Postdoc 2024)
 * Victoria Figueiredo (BSc 2026)
