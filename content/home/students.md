@@ -27,6 +27,7 @@ Here are the students I currently supervise, with their expected graduation date
 * Vinicius Barbosa (BSc 2025)
 * Victor Lira (Postdoc 2024)
 * Victoria Figueiredo (BSc 2026)
+* Ykaro dos Santos (BSc 2027)
 
 I often have opportunities for supervising dedicated students and software developers interested in the topics I study. Please [contact](#contact) me for further detail. 
 
