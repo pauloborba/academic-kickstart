@@ -51,9 +51,12 @@ Me envie um email solicitando o convite da agenda para as reuniões do grupo.
 
 Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!
 
-Crie um site pessoal minimamente organizado no domínio do CIn, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
+Crie um <i>site</i> pessoal minimamente organizado no domínio do CIn, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
 
 Ouça [Quero mesmo ser Pesquisador?]({{< relref "/talk/quero-ser-pesquisador" >}})
+
+Faça um PR para [este repositório](https://github.com/pauloborba/academic-kickstart/blob/master/content/home/students.md),  adicionando seu nome, o ano esperado de conclusão do curso, e o <i>link</i> para o seu <i>site</i> pessoal.
+
 
 
 ### Conhecendo o CIn 
