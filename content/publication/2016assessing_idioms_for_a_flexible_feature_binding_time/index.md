@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2016assessing_idioms_for_a_flexible_feature_binding_time/2016CJAssessingIdiomsForFlexibleFeatureBindingTime.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

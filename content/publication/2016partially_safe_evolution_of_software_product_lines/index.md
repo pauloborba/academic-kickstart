@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2016partially_safe_evolution_of_software_product_lines/2016SPLCPartiallySafeEvolutionOfSPLs.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

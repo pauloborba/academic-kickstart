@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2022the_private_life_of_merge_conflicts/2022-Cunha-The Private Life of Merge Conflicts_1.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

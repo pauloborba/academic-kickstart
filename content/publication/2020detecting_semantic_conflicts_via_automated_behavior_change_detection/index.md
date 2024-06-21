@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection/2020-Silva-Detecting Semantic Conflicts via Automated Behavior Change Detection_1.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

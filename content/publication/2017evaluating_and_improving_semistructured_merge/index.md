@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2017evaluating_and_improving_semistructured_merge/2017OOPSLASemiVsUnstructuredMerge.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

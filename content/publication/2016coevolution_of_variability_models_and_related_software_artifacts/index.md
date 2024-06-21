@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2016coevolution_of_variability_models_and_related_software_artifacts/2016ESECoevolutionOfVariabilityModelsAndRelatedSoftwareArtifacts.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

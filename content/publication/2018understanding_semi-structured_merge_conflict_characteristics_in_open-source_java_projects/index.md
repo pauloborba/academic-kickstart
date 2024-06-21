@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2018understanding_semi-structured_merge_conflict_characteristics_in_open-source_java_projects/2018ESESemistructuredMergeConflictCharacteristics.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

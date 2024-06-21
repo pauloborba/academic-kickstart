@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/2022-Barbosa-Semantic conflict detection with overriding assignment analysis.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

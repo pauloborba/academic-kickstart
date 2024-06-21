@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2019the_impact_of_structure_on_software_merging__semistructured_versus_structured_merge/2019ASESemiVsStructuredMerge.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

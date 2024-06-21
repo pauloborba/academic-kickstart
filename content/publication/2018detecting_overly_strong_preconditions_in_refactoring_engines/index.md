@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2018detecting_overly_strong_preconditions_in_refactoring_engines/2018TSEStrongPreConditionsRefactoringEngines.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

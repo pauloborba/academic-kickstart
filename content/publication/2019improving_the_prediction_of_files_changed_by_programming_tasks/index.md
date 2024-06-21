@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2019improving_the_prediction_of_files_changed_by_programming_tasks/2019SBCARSTestInterfacesWithDependencies.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/2023-Rocha-Using acceptance tests to predict merge conflict risk_1 copy.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

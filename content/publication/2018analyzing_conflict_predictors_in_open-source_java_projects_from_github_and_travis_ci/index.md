@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2018analyzing_conflict_predictors_in_open-source_java_projects_from_github_and_travis_ci/2018MSRSemistructuredMergeConflictPredictors.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

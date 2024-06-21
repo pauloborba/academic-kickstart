@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2017empirical_assessment_of_two_approaches_for_specifying_software_product_line_use_case_scenarios/2017SSMAssessmentOfSPLUseCaseApproaches.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

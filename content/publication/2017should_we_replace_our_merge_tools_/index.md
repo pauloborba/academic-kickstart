@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2017should_we_replace_our_merge_tools_/2017ICSEShouldWeReplaceOurMergeTools.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

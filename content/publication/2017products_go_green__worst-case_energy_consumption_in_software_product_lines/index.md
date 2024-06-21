@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2017products_go_green__worst-case_energy_consumption_in_software_product_lines/2017SPLCWorstCaseEnergyConsumptionInSPLs.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

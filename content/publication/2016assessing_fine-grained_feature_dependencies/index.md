@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2016assessing_fine-grained_feature_dependencies/2016ISTAssessingFineGrainedFeatureDependencies.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

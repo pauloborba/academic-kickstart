@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2022build_conflicts_in_the_wild/2022-Silva-Build conflicts in the wild.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

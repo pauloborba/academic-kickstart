@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2019semistructured_merge_in_javascript_systems/2019ASESemistructuredMergeJS.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

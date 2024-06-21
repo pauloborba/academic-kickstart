@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2024detecting_semantic_conflicts_with_unit_tests/2024-Leuson-Detecting-Semantic-Conflicts-with-Unit-Tests.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

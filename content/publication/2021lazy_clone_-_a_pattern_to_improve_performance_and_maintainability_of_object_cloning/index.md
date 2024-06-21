@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2021lazy_clone_-_a_pattern_to_improve_performance_and_maintainability_of_object_cloning/2021-Cartaxo-Lazy Clone – A Pattern to Improve Performance and Maintainability of Object Cloning.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

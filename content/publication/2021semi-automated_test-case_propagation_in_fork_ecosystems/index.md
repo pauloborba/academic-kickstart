@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2021semi-automated_test-case_propagation_in_fork_ecosystems/2021-Mukelabai-Semi-Automated Test-Case Propagation in Fork Ecosystems.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2016safe_evolution_of_software_product_lines__feature_extraction_scenarios/2016SBCARSFeatureExtractionScenariosForSafelyEvolvingSPLs.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2019using_acceptance_tests_to_predict_files_changed_by_programming_tasks/2019JSSTestInterfacesToPredictChanges.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

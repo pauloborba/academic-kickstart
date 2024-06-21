@@ -40,7 +40,7 @@ links:
 url_pdf: "publication/2021textual_merge_based_on_language-specific_syntactic_separators/2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

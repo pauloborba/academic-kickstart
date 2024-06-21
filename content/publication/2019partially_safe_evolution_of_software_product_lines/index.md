@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2019partially_safe_evolution_of_software_product_lines/2019JSSPartiallySafeSPLEvolution.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

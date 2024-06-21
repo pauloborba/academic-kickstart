@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2016programming_the_universe__the_first_commandment_of_software_engineering_for_all_varieties_of_information_systems/2016SBESProgrammingTheUniverse.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

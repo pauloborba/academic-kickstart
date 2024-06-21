@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
 url_project:
 url_slides: ""
 url_source:

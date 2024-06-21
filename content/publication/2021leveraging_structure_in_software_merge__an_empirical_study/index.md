@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2021leveraging_structure_in_software_merge__an_empirical_study/2021-Seibt-Leveraging Structure in Software Merge- An Empirical Study.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

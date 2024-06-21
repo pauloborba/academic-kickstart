@@ -40,7 +40,7 @@ featured: false
 url_pdf: "publication/2017an_idiom_to_represent_data_types_in_alloy/2017ISTAlloyIdiomForDataTypes.pdf"
 url_code:
 url_dataset:
-url_poster:
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:
