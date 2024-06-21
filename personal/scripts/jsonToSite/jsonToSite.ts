@@ -25,12 +25,13 @@ const articlesFilePath = '../../files/curriculoAtual.json';
 const articlesFileContents = fs.readFileSync(articlesFilePath,'utf8');
 const articles = JSON.parse(articlesFileContents);
 
+// Para cada entrada de artigo no arquivo JSON, cria um diretório com os arquivos necessários (template do Hugo para visualização de artigo, pdf, bib, poster, etc.) para visualização daquele artigo no site do professor  
 for (let article of articles) {
   let directory = createPublicationDirectory(article);
   addFilesToDirectory(directory, article);
 }
 
-// as hugo removes question marks from generated directories, we have to remove here too, otherwise link to article PODF will break
+// As hugo removes question marks from generated directories, we have to remove here too, otherwise link to article PDF will break
 function createPublicationDirectory(article) {
   const title = article.title;
   const year = article.year;
@@ -46,10 +47,12 @@ function createPublicationDirectory(article) {
 }
 
 function addFilesToDirectory(directory, article) {
+  // Carrega template do Hugo para artigos
   let indexTemplate = fs.readFileSync('../resources/templates/index.md', 'utf8');
   const title = JSON.stringify(article.title);
   const authors = JSON.stringify(article.authors);
 
+  // Carrega template do .bib de acordo com o tipo de artigo
   let bibTemplate = "";
   let publication = "";
   let publicationTypes = "";
@@ -63,6 +66,7 @@ function addFilesToDirectory(directory, article) {
      bibTemplate = fs.readFileSync('../resources/templates/journal.bib', 'utf8');
   }
 
+  // Traduz informações do JSON para preencher os templates
   let abstract = "\"\"";
   if (article.abstract) {
     abstract = JSON.stringify(article.abstract);
@@ -73,6 +77,7 @@ function addFilesToDirectory(directory, article) {
     selected = JSON.stringify(article.selected);
   }
 
+  // Traduz informação sobre o nome do arquivo para gerar link no template hugo do artigo, e copia o arquivo pdf do artigo para o diretório do artigo
   let pdf = "\"\"";
   if (article.pdf) {
     pdf = JSON.stringify("publication/" + directory + "/" + article.pdf);
@@ -109,6 +114,14 @@ function addFilesToDirectory(directory, article) {
     fs.copyFileSync(source, destination);
   }
 
+  let poster = "\"\"";
+  if (article.poster) {
+    poster = JSON.stringify("publication/" + directory + "/" + article.poster);
+    const source = '../resources/pdffiles/' + article.poster;
+    const destination = directory + '/' + article.poster;
+    fs.copyFileSync(source, destination);
+  }
+
   let doi = "\"\"";
   if (article.doi) {
     doi = JSON.stringify(article.doi);
@@ -136,6 +149,7 @@ function addFilesToDirectory(directory, article) {
     pages = article.pages;
   }
 
+  // Preenche templates com informações processadas do JSON
   indexTemplate = indexTemplate.replace(/\$TITLE/gi, title).
                     replace(/\$AUTHORS/gi, authors).
                     replace(/\$PUBLICATION/gi, publication).
@@ -146,6 +160,7 @@ function addFilesToDirectory(directory, article) {
                     replace(/\$CAPTION/gi, caption).
                     replace(/\$PROJECTS/gi, projects).
                     replace(/\$SLIDES/gi, slides).
+                    replace(/\$POSTER/gi, poster).
                     replace(/\$VIDEO/gi, video).
                     replace(/\$PACKAGE/gi, replicationPackage).
                     replace(/\$RPMARKER/gi, replicationPackageMarker).

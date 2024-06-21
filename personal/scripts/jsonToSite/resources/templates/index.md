@@ -40,7 +40,7 @@ $RPMARKER    icon:
 url_pdf: $PDF
 url_code:
 url_dataset:
-url_poster:
+url_poster: $POSTER
 url_project:
 url_slides: $SLIDES
 url_source:
