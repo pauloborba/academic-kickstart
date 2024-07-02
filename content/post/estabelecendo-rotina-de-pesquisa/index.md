@@ -75,6 +75,8 @@ Durante as reuniões com o seu orientador, anote as atividades sugerida por ele,
 
 Participe regularmente da reunião semanal do seu grupo de pesquisa. Os seminários do seu grupo de pesquisa, em particular, têm tanto uma utilidade técnica (aprender ou explicar novidades, dar e receber feedback, entender pontos que precisam ser melhor esclarecidos ou explorados no seu trabalho, etc.) e educacional (o aluno aprende a se expor, explicar ideias para pessoas que trabalham em áreas um pouco diferentes, etc.) quanto social (os alunos e professores se conhecem melhor, identificam possíveis pontos de colaboração, estabelecem conexões, ficam sabendo de novidades, etc.).
 
+Elabore um resumo visual do seu trabalho. É uma boa forma de ajustar a narrativa a ser usada para descrevê-lo para outras pessoas. Se você nunca fez um resumo visual, leia o artigo [Using a Visual Abstract as a Lens for Communicating and Promoting Design Science Research in Software Engineering](https://github.com/margaretstorey/cbsoft2019tutorial/tree/master/Design%20Science) e o material associado (exemplos de resumos).
+
 Entenda o contexto no qual a sua pesquisa se insere, e descubra a sua comunidade de pesquisa. Entenda os aspectos sociais desta comunidade: regras explícitas e implícitas, interesses, valores, etc. Trabalhar na interseção entre duas comunidades é sempre mais difícil. 
 
 
