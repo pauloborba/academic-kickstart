@@ -49,6 +49,8 @@ Todos esse canais, exceto a lista do GENTeS, podem ser usados para tirar dúvida
 
 Me envie um email solicitando o convite da agenda para as reuniões do grupo.
 
+Me envie um email indicando o seu usuário no GitHub, e solicitando inserção no [repositório do  grupo](https://github.com/spgroup).
+
 Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!
 
 Crie um <i>site</i> pessoal minimamente organizado no domínio do CIn, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
