@@ -47,3 +47,5 @@ Como orientador, sempre tento
 - estabelecer como meta de sucesso como orientador a continuidade e evolução dos meus princípios e forma de trabalho
 - estabelecer padrão de qualidade e excelência
 - fazer perguntas difíceis
+
+Pense e defina a sua [estratégia de publicação]({{< relref "/talk/estrategias-para-publicacoes" >}}).
