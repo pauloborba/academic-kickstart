@@ -60,9 +60,13 @@ Se a sua apresentação inclui um vídeo, veja antes [Gravando vídeos]({{< relr
 
 #### Ensaiando
 
-Ensaie bastante a apresentação. 
+Ensaie **bastante** a apresentação. 
 
-Inicialmente, pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas, e também o seu orientador (especialmente se for a sua primeira apresentação em Inglês e você não for fluente).  
+Grave pelo menos um desses ensaios para depois ouvir a apresentação e verificar vícios de linguagem a serem evitados, pontos em que você quebrou o fluxo da apresentação, engasgou em alguma palavra, etc. 
+
+Inicialmente, o ensaio pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas, e também para o seu orientador (especialmente se for a sua primeira apresentação em Inglês e você não for fluente).  
+
+Evite palavras que você tem dificuldade em pronunciar. Normalmente é possível substituir por um sinônimo que você consegue pronunciar sem dificuldade.
 
 Antes da apresentação, faça um teste com o equipamento (computador, conectores, projetor, software de vídeo-conferência, etc.) que você vai usar na apresentação.
 
