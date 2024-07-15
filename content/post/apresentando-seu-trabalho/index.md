@@ -62,7 +62,7 @@ Se a sua apresentação inclui um vídeo, veja antes [Gravando vídeos]({{< relr
 
 Ensaie bastante a apresentação. 
 
-Inicialmente, pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas.
+Inicialmente, pode ser você sozinho, simulando uma apresentação da forma mais fiel possível, registrando o tempo, sem parar, sem reiniciar, etc. Depois apresente para alguns colegas, e também o seu orientador (especialmente se for a sua primeira apresentação em Inglês e você não for fluente).  
 
 Antes da apresentação, faça um teste com o equipamento (computador, conectores, projetor, software de vídeo-conferência, etc.) que você vai usar na apresentação.
 
