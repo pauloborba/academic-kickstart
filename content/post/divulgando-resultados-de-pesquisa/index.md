@@ -33,7 +33,9 @@ Antes de tudo, leia a política da ACM sobre [Result and Artefact Review and Bad
 
 Antes de disponibilizar o material, verifique se seu estudo é repetível e reproduzível, e que todos os passos automatizáveis estão de fato automatizados.
 
-Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público, de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários. 
+Organize todo o material (scripts, programas, sistemas avaliados, datasets, entrevistas, etc.) e resultados em uma página ou repositório público (ver exemplos de "Replication package" na [minha lista de publicações]({{< ref "/publication/_index.md" >}})), de forma a permitir a reprodução ou replicação dos resultados obtidos. Boa documentação desse material é essencial para que a reprodução ou replicação seja possível sem esforços desnecessários. 
+
+Crie um *container Docker* (ou similar) com todo o material, e a possibilidade de repetir o estudo com apenas um comando. Na preparação do *container*, importante especificar a versão exata do software (interpretadores, bibliotecas, etc.) necessário para executar o experimento, para que versões mais novas não sejam usadas no futuro e gerem resultados diferentes.
 
 Após a submissão e aceitação do seu trabalho, coloque todo o material do artigo no [repositório de artigos](https://github.com/spgroup/papers) do seu grupo de pesquisa. Avise aos seus co-autores.
 
