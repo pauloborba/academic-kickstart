@@ -42,7 +42,7 @@ url_code:
 url_dataset:
 url_poster: ""
 url_project:
-url_slides: ""
+url_slides: "publication/2023using_acceptance_tests_to_predict_merge_conflict_risk/2023-Rocha-Using acceptance tests to predict merge conflict risk slides.pdf"
 url_source:
 url_video: ""
 

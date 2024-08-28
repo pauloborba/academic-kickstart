@@ -270,7 +270,8 @@
       "pages": "",
       "year": "2023",
       "pdf": "2023-Rocha-Using acceptance tests to predict merge conflict risk_1 copy.pdf",
-      "replicationpackage": "https://thaisabr.github.io/conflict-risk-prediction-study-site/"
+      "replicationpackage": "https://thaisabr.github.io/conflict-risk-prediction-study-site/",
+      "slides": "2023-Rocha-Using acceptance tests to predict merge conflict risk slides.pdf"
    },
    {
       "authors": [
