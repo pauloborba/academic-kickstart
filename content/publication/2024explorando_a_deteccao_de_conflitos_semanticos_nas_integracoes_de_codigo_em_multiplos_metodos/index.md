@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Semantic conflict detection with overriding assignment analysis"
-authors: ["Matheus Barbosa","Paulo Borba","Rodrigo Bonifacio","Galileu Santos de Jesus"]
-date: 2022-01-01
+title: "Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos"
+authors: ["Toni Maciel","Paulo Borba","Léuson Silva","Thaís Burity"]
+date: 2024-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-01-01
+publishDate: 2024-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2022-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SBES 2022: XXXVI Brazilian Symposium on Software Engineering"
+publication: "38th Brazilian Symposium on Software Engineering (SBES 2024)"
 publication_short: ""
 
 abstract: ""
@@ -32,12 +32,12 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
   - name: 'Replication package'
-    url: "https://spgroup.github.io/papers/semantic-conflicts-SBES2022.html"
+    url: "https://github.com/ToniMaciel/Syntetic-Mergesdataset"
     icon_pack: 
     icon: 
 
 
-url_pdf: "publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/2022-Barbosa-Semantic conflict detection with overriding assignment analysis.pdf"
+url_pdf: "publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos.pdf"
 url_code:
 url_dataset:
 url_poster: ""

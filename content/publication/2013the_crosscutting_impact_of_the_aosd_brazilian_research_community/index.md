@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The crosscutting impact of the AOSD Brazilian research community"
-authors: ["Uirá Kulesza","Vander Alves","Roberta Coelho","Eduardo Figueiredo","Paulo Pires","Flávia Delicato","Eduardo Piveta","Carla Silva","Valter Camargo","Rosana Braga","Julio Leite","Sérgio Soares","Otávio Lemos","Nabor Mendonça","Thaís Batista","Rodrigo Bonifácio","Nélio Cacho","Lyrene Silva","Arndt Staa","Fábio Silveira","Marco Valente","Fernanda Alencar","Christina Chavez","Jaelson Castro","Ricardo Ramos","Rosangela Penteado","Cecília Rubira","Fernando Castor","Paulo Borba","Carlos Lucena","Paulo Masiero","Claudio Sant'anna","Fabiano Ferrari"]
+authors: ["Uirá Kulesza","Vander Alves","Roberta Coelho","Eduardo Figueiredo","Paulo Pires","Flávia Delicato","Eduardo Piveta","Carla Silva","Valter Camargo","Rosana Braga","Julio Leite","Sérgio Soares","Christina Chavez","Fernando Castor","Paulo Borba","Carlos Lucena","Paulo Masiero","Claudio Sant'anna","Fabiano Ferrari"]
 date: 2013-01-01
 doi: ""
 

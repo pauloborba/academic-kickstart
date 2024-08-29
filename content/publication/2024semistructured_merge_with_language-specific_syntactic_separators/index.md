@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Semantic conflict detection with overriding assignment analysis"
-authors: ["Matheus Barbosa","Paulo Borba","Rodrigo Bonifacio","Galileu Santos de Jesus"]
-date: 2022-01-01
+title: "Semistructured Merge with Language-Specific Syntactic Separators"
+authors: ["Guilherme Cavalcanti","Paulo Borba","Leonardo dos Anjos","Jônatas Clementino"]
+date: 2024-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-01-01
+publishDate: 2024-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2022-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SBES 2022: XXXVI Brazilian Symposium on Software Engineering"
+publication: "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)"
 publication_short: ""
 
 abstract: ""
@@ -30,14 +30,14 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-  - name: 'Replication package'
-    url: "https://spgroup.github.io/papers/semantic-conflicts-SBES2022.html"
-    icon_pack: 
-    icon: 
+#links:
+#  - name: 'Replication package'
+#    url: ""
+#    icon_pack: 
+#    icon: 
 
 
-url_pdf: "publication/2022semantic_conflict_detection_with_overriding_assignment_analysis/2022-Barbosa-Semantic conflict detection with overriding assignment analysis.pdf"
+url_pdf: ""
 url_code:
 url_dataset:
 url_poster: ""
