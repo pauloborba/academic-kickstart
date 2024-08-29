@@ -1,38 +1,6 @@
 [
    {
       "authors": [
-         "Léuson Silva",
-         "Paulo Borba",
-         "Toni Maciel",
-         "Wardah Mahmood",
-         "Thorsten Berger",
-         "João Moisakis",
-         "Aldiberg Gomes",
-         "Vinícius Leite"
-      ],
-      "title": "Detecting semantic conflicts with unit tests",
-      "journal": "Journal of Systems and Software",
-      "pages": "",
-      "year": "2024",
-      "pdf": "2024-Leuson-Detecting-Semantic-Conflicts-with-Unit-Tests.pdf",
-      "replicationpackage": "https://spgroup.github.io/papers/sam-semantic-merge-tool.html"
-   },
-   {
-      "authors": [
-         "Galileu Santos de Jesus",
-         "Paulo Borba",
-         "Rodrigo Bonifácio",
-         "Matheus Barbosa"
-      ],
-      "title": "Lightweight Semantic Conflict Detection with Static Analysis",
-      "conference": "46th International Conference on Software Engineering (ICSE 2024), ICSE Companion",
-      "pages": "340-343",
-      "year": "2024",
-      "pdf": "2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf",
-      "poster": "2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
-   },
-   {
-      "authors": [
          "Uirá Kulesza",
          "Vander Alves",
          "Roberta Coelho",
@@ -45,21 +13,7 @@
          "Rosana Braga",
          "Julio Leite",
          "Sérgio Soares",
-         "Otávio Lemos",
-         "Nabor Mendonça",
-         "Thaís Batista",
-         "Rodrigo Bonifácio",
-         "Nélio Cacho",
-         "Lyrene Silva",
-         "Arndt Staa",
-         "Fábio Silveira",
-         "Marco Valente",
-         "Fernanda Alencar",
          "Christina Chavez",
-         "Jaelson Castro",
-         "Ricardo Ramos",
-         "Rosangela Penteado",
-         "Cecília Rubira",
          "Fernando Castor",
          "Paulo Borba",
          "Carlos Lucena",
@@ -275,6 +229,120 @@
    },
    {
       "authors": [
+         "Léuson Silva",
+         "Paulo Borba",
+         "Toni Maciel",
+         "Wardah Mahmood",
+         "Thorsten Berger",
+         "João Moisakis",
+         "Aldiberg Gomes",
+         "Vinícius Leite"
+      ],
+      "title": "Detecting semantic conflicts with unit tests",
+      "journal": "Journal of Systems and Software",
+      "pages": "",
+      "year": "2024",
+      "pdf": "2024-Leuson-Detecting-Semantic-Conflicts-with-Unit-Tests.pdf",
+      "replicationpackage": "https://spgroup.github.io/papers/sam-semantic-merge-tool.html"
+   },
+   {
+      "authors": [
+         "Fernando Castor",
+         "Kellen Oliveira",
+         "Adeline Souza",
+         "Gustavo Santos",
+         "Paulo Borba"
+      ],
+      "title": "JaTS: A Java transformation system",
+      "conference": "Tools session, 15th Brazilian Symposium on Software Engineering (SBES 2001)",
+      "pages": "374-379",
+      "country": "Brasil",
+      "year": "2001"
+   },
+   {
+      "authors": [
+         "Marcelo d'Amorim",
+         "Clóvis Nogueira",
+         "Gustavo Santos",
+         "Adeline Souza",
+         "Paulo Borba"
+      ],
+      "title": "Integrating code generation and refactoring",
+      "conference": "Workshop on Generative Programming, 16th European Conference on Object-Oriented Programming (ECOOP 2002)",
+      "pages": "1-11",
+      "country": "Espanha",
+      "year": "2002"
+   },
+   {
+      "authors": [
+         "Gustavo Santos",
+         "Paulo Borba",
+         "Adeline Souza"
+      ],
+      "title": "A General-purpose Transformation System for Java",
+      "conference": "Software Transformation Systems Workshop (STS 2004), 3rd ACM International Conference on Generative Programming and Component Engineering (GPCE 2004)",
+      "pages": "1-2",
+      "country": "Canadá",
+      "year": "2004"
+   },
+   {
+      "authors": [
+         "Vander Alves",
+         "Alberto Neto",
+         "Sérgio Soares",
+         "Gustavo Santos",
+         "Fernando Calheiros",
+         "Vilmar Nepomuceno",
+         "Davi Pires",
+         "Jorge Leal",
+         "Paulo Borba"
+      ],
+      "title": "From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration",
+      "conference": "1st Workshop on Aspect-Oriented Product Line Engineering, 5th ACM International Conference on Generative Programming and Component Engineering (GPCE 2006)",
+      "pages": "46-52",
+      "country": "Estados Unidos",
+      "year": "2006"
+   },
+   {
+      "authors": [
+         "Gustavo Santos",
+         "Paulo Borba"
+      ],
+      "title": "Suporte a Refatorações em um Sistema de Transformação de Propósito Geral",
+      "conference": "X Simpósio Brasileiro de Linguagens de Programação (SBLP 2006)",
+      "pages": "63-76",
+      "country": "Brasil",
+      "year": "2006"
+   },
+   {
+      "authors": [
+         "Gustavo Santos",
+         "Paulo Borba"
+      ],
+      "title": "Contextos de Primeira Classe em Transformações de Programas",
+      "conference": "X Simpósio Brasileiro de Linguagens de Programação (SBLP 2006)",
+      "pages": "77-90",
+      "country": "Brasil",
+      "year": "2006"
+   },
+   {
+      "authors": [
+         "Vander Alves",
+         "Gustavo Santos",
+         "Fernando Calheiros",
+         "Vilmar Nepomuceno",
+         "Davi Pires",
+         "Alberto Neto",
+         "Paulo Borba"
+      ],
+      "title": "Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines",
+      "conference": "Managing Variability for Software Product Lines: Working With Variability Mechanisms Workshop, 10th International Software Product Line Conference (SPLC 2006)",
+      "pages": "124-132",
+      "country": "Estados Unidos",
+      "year": "2006"
+   },
+   {
+      "authors": [
          "Christina Chavez",
          "Fernando Castor",
          "Roberta Coelho",
@@ -370,6 +438,20 @@
    },
    {
       "authors": [
+         "Guilherme Cavalcanti",
+         "Paulo Borba",
+         "Paola Accioly"
+      ],
+      "title": "Evaluating and Improving Semistructured Merge",
+      "conference": "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'17)",
+      "pages": "59:1-59:27",
+      "country": "Canadá",
+      "year": "2017",
+      "pdf": "2017OOPSLASemiVsUnstructuredMerge.pdf",
+      "video": "https://www.youtube.com/watch?v=T6yethISBlM"
+   },
+   {
+      "authors": [
          "Marco Couto",
          "Paulo Borba",
          "Jácome Cunha",
@@ -383,20 +465,6 @@
       "country": "Espanha",
       "year": "2017",
       "pdf": "2017SPLCWorstCaseEnergyConsumptionInSPLs.pdf"
-   },
-   {
-      "authors": [
-         "Guilherme Cavalcanti",
-         "Paulo Borba",
-         "Paola Accioly"
-      ],
-      "title": "Evaluating and Improving Semistructured Merge",
-      "conference": "ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA'17)",
-      "pages": "59:1-59:27",
-      "country": "Canadá",
-      "year": "2017",
-      "pdf": "2017OOPSLASemiVsUnstructuredMerge.pdf",
-      "video": "https://www.youtube.com/watch?v=T6yethISBlM"
    },
    {
       "authors": [
@@ -458,6 +526,19 @@
    },
    {
       "authors": [
+         "Leopoldo Teixeira",
+         "Rohit Gheyi",
+         "Paulo Borba"
+      ],
+      "title": "Safe Evolution of Product Lines Using Configuration Knowledge Laws",
+      "conference": "23rd Brazilian Symposium on Formal Methods (SBMF 2020)",
+      "pages": "210-227",
+      "country": "Brasil",
+      "year": "2020",
+      "pdf": "2020-Teixeira-Safe Evolution of Product Lines Using Conﬁguration Knowledge Laws.pdf"
+   },
+   {
+      "authors": [
          "Léuson Silva",
          "Paulo Borba",
          "Wardah Mahmood",
@@ -474,30 +555,16 @@
    },
    {
       "authors": [
-         "Leopoldo Teixeira",
-         "Rohit Gheyi",
+         "Mukelabai Mukelabai",
+         "Thorsten Berger",
          "Paulo Borba"
       ],
-      "title": "Safe Evolution of Product Lines Using Configuration Knowledge Laws",
-      "conference": "23rd Brazilian Symposium on Formal Methods (SBMF 2020)",
-      "pages": "210-227",
-      "country": "Brasil",
-      "year": "2020",
-      "pdf": "2020-Teixeira-Safe Evolution of Product Lines Using Conﬁguration Knowledge Laws.pdf"
-   },
-   {
-      "authors": [
-         "Jônatas Clementino",
-         "Paulo Borba",
-         "Guilherme Cavalcanti"
-      ],
-      "title": "Textual merge based on language-specific syntactic separators",
-      "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
-      "pages": "243-252",
-      "country": "Brasil",
+      "title": "Semi-Automated Test-Case Propagation in Fork Ecosystems",
+      "conference": "43rd International Conference on Software Engineering (ICSE 2021), New Ideas and Emerging Results track",
+      "pages": "46-50",
+      "country": "Espanha",
       "year": "2021",
-      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf",
-      "replicationpackage": "https://custom-separators-tool.github.io"
+      "pdf": "2021-Mukelabai-Semi-Automated Test-Case Propagation in Fork Ecosystems.pdf"
    },
    {
       "authors": [
@@ -516,16 +583,17 @@
    },
    {
       "authors": [
-         "Mukelabai Mukelabai",
-         "Thorsten Berger",
-         "Paulo Borba"
+         "Jônatas Clementino",
+         "Paulo Borba",
+         "Guilherme Cavalcanti"
       ],
-      "title": "Semi-Automated Test-Case Propagation in Fork Ecosystems",
-      "conference": "43rd International Conference on Software Engineering (ICSE 2021), New Ideas and Emerging Results track",
-      "pages": "46-50",
-      "country": "Espanha",
+      "title": "Textual merge based on language-specific syntactic separators",
+      "conference": "35th Brazilian Symposium on Software Engineering (SBES 2021)",
+      "pages": "243-252",
+      "country": "Brasil",
       "year": "2021",
-      "pdf": "2021-Mukelabai-Semi-Automated Test-Case Propagation in Fork Ecosystems.pdf"
+      "pdf": "2021-Clementino-Textual merge based on language-specific syntactic separatorsTextual merge based on language-specific syntactic separators.pdf",
+      "replicationpackage": "https://custom-separators-tool.github.io"
    },
    {
       "authors": [
@@ -546,7 +614,7 @@
          "Matheus Barbosa",
          "Paulo Borba",
          "Rodrigo Bonifacio",
-         "Galileu Santos"
+         "Galileu Santos de Jesus"
       ],
       "title": "Semantic conflict detection with overriding assignment analysis",
       "conference": "SBES 2022: XXXVI Brazilian Symposium on Software Engineering",
@@ -555,6 +623,75 @@
       "year": "2022",
       "pdf": "2022-Barbosa-Semantic conflict detection with overriding assignment analysis.pdf",
       "replicationpackage": "https://spgroup.github.io/papers/semantic-conflicts-SBES2022.html"
+   },
+   {
+      "authors": [
+         "Felipe Araújo",
+         "Paulo Borba",
+         "Guilherme Cavalcanti"
+      ],
+      "title": "Refinando a Precisão da Detecção de Conflitos: Uma Análise do CSDiff com Abordagem Focalizada",
+      "conference": "38th Brazilian Symposium on Software Engineering (SBES 2024)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2024",
+      "pdf": "2024-Felipe-CSDiff-Focalizado.pdf"
+   },
+   {
+      "authors": [
+         "Galileu Santos de Jesus",
+         "Paulo Borba",
+         "Rodrigo Bonifácio",
+         "Matheus Barbosa"
+      ],
+      "title": "Lightweight Semantic Conflict Detection with Static Analysis",
+      "conference": "46th International Conference on Software Engineering (ICSE 2024), ICSE Companion",
+      "pages": "340-343",
+      "country": "Portugal",
+      "year": "2024",
+      "pdf": "2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf",
+      "poster": "2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
+   },
+   {
+      "authors": [
+         "Amanda Moraes",
+         "Paulo Borba",
+         "Léuson Silva"
+      ],
+      "title": "Semantic conflict detection via dynamic analysis",
+      "conference": "28th Brazilian Symposium on Programming Languages (SBLP 2024)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2024",
+      "pdf": "2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis.pdf"
+   },
+   {
+      "authors": [
+         "Guilherme Cavalcanti",
+         "Paulo Borba",
+         "Leonardo dos Anjos",
+         "Jônatas Clementino"
+      ],
+      "title": "Semistructured Merge with Language-Specific Syntactic Separators",
+      "conference": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
+      "pages": "",
+      "country": "Estados Unidos",
+      "year": "2024"
+   },
+   {
+      "authors": [
+         "Toni Maciel",
+         "Paulo Borba",
+         "Léuson Silva",
+         "Thaís Burity"
+      ],
+      "title": "Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos",
+      "conference": "38th Brazilian Symposium on Software Engineering (SBES 2024)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2024",
+      "pdf": "2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos.pdf",
+      "replicationpackage": "https://github.com/ToniMaciel/Syntetic-Mergesdataset"
    },
    {
       "authors": [
@@ -1036,9 +1173,9 @@
       "authors": [
          "Paulo Borba"
       ],
-      "title": "A Refinement Theory for Concurrent Object Oriented Languages",
-      "conference": "X Brazilian Symposium on Software Engineering (SBES 1996)",
-      "pages": "39-55",
+      "title": "States as Specifications",
+      "conference": "I Simpósio Brasileiro de Linguagens de Programação (SBLP 1996)",
+      "pages": "223-236",
       "country": "Brasil",
       "year": "1996"
    },
@@ -1046,9 +1183,9 @@
       "authors": [
          "Paulo Borba"
       ],
-      "title": "States as Specifications",
-      "conference": "I Simpósio Brasileiro de Linguagens de Programação (SBLP 1996)",
-      "pages": "223-236",
+      "title": "A Refinement Theory for Concurrent Object Oriented Languages",
+      "conference": "X Brazilian Symposium on Software Engineering (SBES 1996)",
+      "pages": "39-55",
       "country": "Brasil",
       "year": "1996"
    },
@@ -1065,6 +1202,16 @@
    },
    {
       "authors": [
+         "Paulo Borba"
+      ],
+      "title": "Where are the Laws of Objet-Oriented Programming?",
+      "conference": "I Brazilian Workshop on Formal Methods (SBMF 1998)",
+      "pages": "59-70",
+      "country": "Brasil",
+      "year": "1998"
+   },
+   {
+      "authors": [
          "Márcio Cornélio",
          "Paulo Borba"
       ],
@@ -1076,13 +1223,14 @@
    },
    {
       "authors": [
+         "Euricélia Viana",
          "Paulo Borba"
       ],
-      "title": "Where are the Laws of Objet-Oriented Programming?",
-      "conference": "I Brazilian Workshop on Formal Methods (SBMF 1998)",
-      "pages": "59-70",
+      "title": "Integrando Java com Bancos de Dados Relacionais",
+      "conference": "III Simpósio Brasileiro de Linguagens de Programação (SBLP 1999)",
+      "pages": "77-91",
       "country": "Brasil",
-      "year": "1998"
+      "year": "1999"
    },
    {
       "authors": [
@@ -1100,17 +1248,6 @@
    },
    {
       "authors": [
-         "Euricélia Viana",
-         "Paulo Borba"
-      ],
-      "title": "Integrando Java com Bancos de Dados Relacionais",
-      "conference": "III Simpósio Brasileiro de Linguagens de Programação (SBLP 1999)",
-      "pages": "77-91",
-      "country": "Brasil",
-      "year": "1999"
-   },
-   {
-      "authors": [
          "Vander Alves",
          "Paulo Borba"
       ],
@@ -1118,17 +1255,6 @@
       "conference": "Tutorials, 14th Brazilian Symposium on Software Engineering (SBES 2000)",
       "pages": "191-219",
       "country": "Brasil",
-      "year": "2000"
-   },
-   {
-      "authors": [
-         "Márcio Cornélio",
-         "Paulo Borba"
-      ],
-      "title": "Structuring Mechanisms for an Object-Oriented Formal Specification Language",
-      "conference": "6th International Conference on Software Reuse (ICSR 2000)",
-      "pages": "402-419",
-      "country": "Austria",
       "year": "2000"
    },
    {
@@ -1144,26 +1270,14 @@
    },
    {
       "authors": [
-         "Tiago Massoni",
-         "Augusto Sampaio",
+         "Márcio Cornélio",
          "Paulo Borba"
       ],
-      "title": "Progressive implementation of aspects",
-      "conference": "Workshop on Advanced Separation of Concerns, 16th ACM Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA 2001)",
-      "pages": "1-6",
-      "country": "Estados Unidos",
-      "year": "2001"
-   },
-   {
-      "authors": [
-         "Fernando Castor",
-         "Paulo Borba"
-      ],
-      "title": "A language for specifying Java transformations",
-      "conference": "5th Brazilian Symposium on Programming Languages (SBLP 2001)",
-      "pages": "236-251",
-      "country": "Brasil",
-      "year": "2001"
+      "title": "Structuring Mechanisms for an Object-Oriented Formal Specification Language",
+      "conference": "6th International Conference on Software Reuse (ICSR 2000)",
+      "pages": "402-419",
+      "country": "Austria",
+      "year": "2000"
    },
    {
       "authors": [
@@ -1213,26 +1327,35 @@
    },
    {
       "authors": [
-         "Fernando Castor",
-         "Kellen Oliveira",
-         "Adeline Souza",
-         "Gustavo Santos",
-         "Paulo Borba"
-      ],
-      "title": "JaTS: A Java transformation system",
-      "conference": "Tools session, 15th Brazilian Symposium on Software Engineering (SBES 2001)",
-      "pages": "374-379",
-      "country": "Brasil",
-      "year": "2001"
-   },
-   {
-      "authors": [
          "Vander Alves",
          "Paulo Borba"
       ],
       "title": "Distributed adapters pattern: A design pattern for object-oriented distributed applications",
       "conference": "1st Latin American Conference on Pattern Languages of Programming (SugarloafPLoP 2001)",
       "pages": "132-142",
+      "country": "Brasil",
+      "year": "2001"
+   },
+   {
+      "authors": [
+         "Tiago Massoni",
+         "Augusto Sampaio",
+         "Paulo Borba"
+      ],
+      "title": "Progressive implementation of aspects",
+      "conference": "Workshop on Advanced Separation of Concerns, 16th ACM Conference on Object-Oriented Programming, Systems, Languages and Applications (OOPSLA 2001)",
+      "pages": "1-6",
+      "country": "Estados Unidos",
+      "year": "2001"
+   },
+   {
+      "authors": [
+         "Fernando Castor",
+         "Paulo Borba"
+      ],
+      "title": "A language for specifying Java transformations",
+      "conference": "5th Brazilian Symposium on Programming Languages (SBLP 2001)",
+      "pages": "236-251",
       "country": "Brasil",
       "year": "2001"
    },
@@ -1249,51 +1372,6 @@
    },
    {
       "authors": [
-         "Alexandre Mota",
-         "Paulo Borba",
-         "Augusto Sampaio"
-      ],
-      "title": "Mechanical abstraction of CSP-Z processes",
-      "conference": "11th Formal Methods Europe (FME 2002)",
-      "pages": "163-183",
-      "country": "Dinamarca",
-      "year": "2002"
-   },
-   {
-      "authors": [
-         "Klissiomara Dias",
-         "Paulo Borba"
-      ],
-      "title": "Padrões de projeto para estruturação de aplicações distribuídas Enterprise JavaBeans",
-      "conference": "Second Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2002)",
-      "pages": "55-86",
-      "country": "Brasil",
-      "year": "2002"
-   },
-   {
-      "authors": [
-         "Sérgio Soares",
-         "Paulo Borba"
-      ],
-      "title": "PIP: Progressive Implementation Pattern",
-      "conference": "1st Workshop on Software Development Patterns, 17th ACM Conference on Object-oriented Programming, Systems, Languages, and Applications (OOPSLA 2002)",
-      "pages": "1-6",
-      "country": "Estados Unidos",
-      "year": "2002"
-   },
-   {
-      "authors": [
-         "Sérgio Soares",
-         "Paulo Borba"
-      ],
-      "title": "PaDA: A Pattern for Distribution Aspects",
-      "conference": "2nd Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2002)",
-      "pages": "87-99",
-      "country": "Brasil",
-      "year": "2002"
-   },
-   {
-      "authors": [
          "Eduardo Aranha",
          "Paulo Borba"
       ],
@@ -1301,18 +1379,6 @@
       "conference": "XVI Simpósio Brasileiro de Engenharia de Software (SBES 2002)",
       "pages": "114-128",
       "country": "Brasil",
-      "year": "2002"
-   },
-   {
-      "authors": [
-         "Sergio Soares",
-         "Eduardo Laureano",
-         "Paulo Borba"
-      ],
-      "title": "Implementing distribution and persistence aspects with aspectJ",
-      "conference": "17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications (OOPSLA 2002)",
-      "pages": "174-190",
-      "country": "Estados Unidos",
       "year": "2002"
    },
    {
@@ -1328,26 +1394,24 @@
    },
    {
       "authors": [
+         "Alexandre Mota",
+         "Paulo Borba",
+         "Augusto Sampaio"
+      ],
+      "title": "Mechanical abstraction of CSP-Z processes",
+      "conference": "11th Formal Methods Europe (FME 2002)",
+      "pages": "163-183",
+      "country": "Dinamarca",
+      "year": "2002"
+   },
+   {
+      "authors": [
          "Sérgio Soares",
          "Paulo Borba"
       ],
       "title": "Progressive implementation with aspect-oriented programming",
       "conference": "The 12th Workshop for PhD Students in Object-Oriented Systems, at the 16th European Conference on Object-Oriented Programming (ECOOP 2002)",
       "pages": "44-54",
-      "country": "Espanha",
-      "year": "2002"
-   },
-   {
-      "authors": [
-         "Marcelo d'Amorim",
-         "Clóvis Nogueira",
-         "Gustavo Santos",
-         "Adeline Souza",
-         "Paulo Borba"
-      ],
-      "title": "Integrating code generation and refactoring",
-      "conference": "Workshop on Generative Programming, 16th European Conference on Object-Oriented Programming (ECOOP 2002)",
-      "pages": "1-11",
       "country": "Espanha",
       "year": "2002"
    },
@@ -1398,6 +1462,51 @@
    },
    {
       "authors": [
+         "Klissiomara Dias",
+         "Paulo Borba"
+      ],
+      "title": "Padrões de projeto para estruturação de aplicações distribuídas Enterprise JavaBeans",
+      "conference": "Second Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2002)",
+      "pages": "55-86",
+      "country": "Brasil",
+      "year": "2002"
+   },
+   {
+      "authors": [
+         "Sérgio Soares",
+         "Paulo Borba"
+      ],
+      "title": "PIP: Progressive Implementation Pattern",
+      "conference": "1st Workshop on Software Development Patterns, 17th ACM Conference on Object-oriented Programming, Systems, Languages, and Applications (OOPSLA 2002)",
+      "pages": "1-6",
+      "country": "Estados Unidos",
+      "year": "2002"
+   },
+   {
+      "authors": [
+         "Sérgio Soares",
+         "Paulo Borba"
+      ],
+      "title": "PaDA: A Pattern for Distribution Aspects",
+      "conference": "2nd Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2002)",
+      "pages": "87-99",
+      "country": "Brasil",
+      "year": "2002"
+   },
+   {
+      "authors": [
+         "Sergio Soares",
+         "Eduardo Laureano",
+         "Paulo Borba"
+      ],
+      "title": "Implementing distribution and persistence aspects with aspectJ",
+      "conference": "17th ACM SIGPLAN conference on Object-oriented programming, systems, languages, and applications (OOPSLA 2002)",
+      "pages": "174-190",
+      "country": "Estados Unidos",
+      "year": "2002"
+   },
+   {
+      "authors": [
          "Sérgio Soares",
          "Paulo Borba"
       ],
@@ -1405,29 +1514,6 @@
       "conference": "Doctoral Symposium, 18th ACM Conference on Object-Oriented Programming, Systems, Languages, Applications (OOPSLA 2003)",
       "pages": "128-129",
       "country": "Estados Unidos",
-      "year": "2003"
-   },
-   {
-      "authors": [
-         "Ayla Dantas",
-         "Paulo Borba",
-         "Vander Alves"
-      ],
-      "title": "Using aspects to structure small devices adaptive applications",
-      "conference": "1st Workshop on Reuse in Constrained Environments, 18th ACM Conference on Object-Oriented Programming, Systems, Languages, Applications (OOPSLA 2003)",
-      "pages": "1-3",
-      "country": "Estados Unidos",
-      "year": "2003"
-   },
-   {
-      "authors": [
-         "Ayla Dantas",
-         "Paulo Borba"
-      ],
-      "title": "AdapPE: An architectural pattern for structuring adaptive applications with aspects",
-      "conference": "Third Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2003)",
-      "pages": "49-64",
-      "country": "Brasil",
       "year": "2003"
    },
    {
@@ -1446,10 +1532,22 @@
          "Ayla Dantas",
          "Paulo Borba"
       ],
-      "title": "Developing adaptive J2ME applications using AspectJ",
-      "conference": "7th Brazilian Symposium on Programming Languages (SBLP 2003)",
-      "pages": "226-242",
+      "title": "AdapPE: An architectural pattern for structuring adaptive applications with aspects",
+      "conference": "Third Latin American Conference on Pattern Languages of Programming (SugarLoafPLoP 2003)",
+      "pages": "49-64",
       "country": "Brasil",
+      "year": "2003"
+   },
+   {
+      "authors": [
+         "Ayla Dantas",
+         "Paulo Borba",
+         "Vander Alves"
+      ],
+      "title": "Using aspects to structure small devices adaptive applications",
+      "conference": "1st Workshop on Reuse in Constrained Environments, 18th ACM Conference on Object-Oriented Programming, Systems, Languages, Applications (OOPSLA 2003)",
+      "pages": "1-3",
+      "country": "Estados Unidos",
       "year": "2003"
    },
    {
@@ -1466,6 +1564,43 @@
    },
    {
       "authors": [
+         "Ayla Dantas",
+         "Paulo Borba"
+      ],
+      "title": "Developing adaptive J2ME applications using AspectJ",
+      "conference": "7th Brazilian Symposium on Programming Languages (SBLP 2003)",
+      "pages": "226-242",
+      "country": "Brasil",
+      "year": "2003"
+   },
+   {
+      "authors": [
+         "Sérgio Soares",
+         "Paulo Borba"
+      ],
+      "title": "Towards Progressive and Non-progressive Implementation Approaches Evaluation",
+      "conference": "1st Experimental Software Engineering Latin American Workshop (ESELAW 2004),  18th Brazilian Symposium on Software Engineering (SBES 2004)",
+      "pages": "1-2",
+      "country": "Brasil",
+      "year": "2004"
+   },
+   {
+      "authors": [
+         "Pedro Sampaio",
+         "Alexandre Damasceno",
+         "Igor Sampaio",
+         "Vander Alves",
+         "Geber Ramalho",
+         "Paulo Borba"
+      ],
+      "title": "Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes",
+      "conference": "III Workshop Brasileiro de Jogos e Entretenimento Digital",
+      "pages": "1-7",
+      "country": "Brasil",
+      "year": "2004"
+   },
+   {
+      "authors": [
          "Sérgio Soares",
          "Paulo Borba"
       ],
@@ -1477,26 +1612,15 @@
    },
    {
       "authors": [
-         "Rohit Gheyi",
-         "Tiago Massoni",
-         "Paulo Borba"
+         "Ayla Dantas",
+         "Joseph Yoder",
+         "Paulo Borba",
+         "Ralph Johnson"
       ],
-      "title": "An Abstract Equivalence Notion for Object Models",
-      "conference": "1st Brazilian Symposium on Formal Methods (SBMF 2004)",
-      "pages": "1-14",
-      "country": "Brasil",
-      "year": "2004"
-   },
-   {
-      "authors": [
-         "Rohit Gheyi",
-         "Tiago Massoni",
-         "Paulo Borba"
-      ],
-      "title": "Basic Laws of Object Modeling",
-      "conference": "3rd Workshop on Specification and Verification of Component-Based Systems (SAVCBS 2004), 12th ACM Foundations of Software Engeneering (FSE 2004)",
-      "pages": "18-25",
-      "country": "Estados Unidos",
+      "title": "Using Aspects to Make Adaptive Object-Models Adaptable",
+      "conference": "Workshop on Reflection, AOP and Meta-Data for Software Evolution (RAM-SE 2004), 18th European Conference on Object-Oriented Programming (ECOOP 2004)",
+      "pages": "9-19",
+      "country": "Noruega",
       "year": "2004"
    },
    {
@@ -1513,12 +1637,49 @@
    },
    {
       "authors": [
-         "Sérgio Soares",
+         "Vander Alves",
+         "Pedro Matos",
          "Paulo Borba"
       ],
-      "title": "Towards Progressive and Non-progressive Implementation Approaches Evaluation",
-      "conference": "1st Experimental Software Engineering Latin American Workshop (ESELAW 2004),  18th Brazilian Symposium on Software Engineering (SBES 2004)",
+      "title": "An Incremental Aspect-Oriented Product Line Method for J2ME Game Development",
+      "conference": "Workshop on Managing Variability Consistently in Design and Code, 19th ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2004)",
       "pages": "1-2",
+      "country": "Canadá",
+      "year": "2004"
+   },
+   {
+      "authors": [
+         "Rohit Gheyi",
+         "Tiago Massoni",
+         "Paulo Borba"
+      ],
+      "title": "Basic Laws of Object Modeling",
+      "conference": "3rd Workshop on Specification and Verification of Component-Based Systems (SAVCBS 2004), 12th ACM Foundations of Software Engeneering (FSE 2004)",
+      "pages": "18-25",
+      "country": "Estados Unidos",
+      "year": "2004"
+   },
+   {
+      "authors": [
+         "Rohit Gheyi",
+         "Tiago Massoni",
+         "Paulo Borba"
+      ],
+      "title": "An Abstract Equivalence Notion for Object Models",
+      "conference": "1st Brazilian Symposium on Formal Methods (SBMF 2004)",
+      "pages": "1-14",
+      "country": "Brasil",
+      "year": "2004"
+   },
+   {
+      "authors": [
+         "Carlos Andrade",
+         "André Santos",
+         "Paulo Borba"
+      ],
+      "title": "AspectH: Uma Extensão Orientada a Aspectos de Haskell",
+      "conference": "I Workshop Brasileiro de Desenvolvimento de Software Orientado a Aspectos (WASP 2004), XVIII Simpósio Brasileiro de Engenharia de Software (SBES 2004)",
+      "pages": "21-31",
       "country": "Brasil",
       "year": "2004"
    },
@@ -1548,70 +1709,6 @@
    },
    {
       "authors": [
-         "Ayla Dantas",
-         "Joseph Yoder",
-         "Paulo Borba",
-         "Ralph Johnson"
-      ],
-      "title": "Using Aspects to Make Adaptive Object-Models Adaptable",
-      "conference": "Workshop on Reflection, AOP and Meta-Data for Software Evolution (RAM-SE 2004), 18th European Conference on Object-Oriented Programming (ECOOP 2004)",
-      "pages": "9-19",
-      "country": "Noruega",
-      "year": "2004"
-   },
-   {
-      "authors": [
-         "Vander Alves",
-         "Pedro Matos",
-         "Paulo Borba"
-      ],
-      "title": "An Incremental Aspect-Oriented Product Line Method for J2ME Game Development",
-      "conference": "Workshop on Managing Variability Consistently in Design and Code, 19th ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2004)",
-      "pages": "1-2",
-      "country": "Canadá",
-      "year": "2004"
-   },
-   {
-      "authors": [
-         "Gustavo Santos",
-         "Paulo Borba",
-         "Adeline Souza"
-      ],
-      "title": "A General-purpose Transformation System for Java",
-      "conference": "Software Transformation Systems Workshop (STS 2004), 3rd ACM International Conference on Generative Programming and Component Engineering (GPCE 2004)",
-      "pages": "1-2",
-      "country": "Canadá",
-      "year": "2004"
-   },
-   {
-      "authors": [
-         "Pedro Sampaio",
-         "Alexandre Damasceno",
-         "Igor Sampaio",
-         "Vander Alves",
-         "Geber Ramalho",
-         "Paulo Borba"
-      ],
-      "title": "Portando Jogos em J2ME: Desafios, Estudo de Caso, e Diretrizes",
-      "conference": "III Workshop Brasileiro de Jogos e Entretenimento Digital",
-      "pages": "1-7",
-      "country": "Brasil",
-      "year": "2004"
-   },
-   {
-      "authors": [
-         "Carlos Andrade",
-         "André Santos",
-         "Paulo Borba"
-      ],
-      "title": "AspectH: Uma Extensão Orientada a Aspectos de Haskell",
-      "conference": "I Workshop Brasileiro de Desenvolvimento de Software Orientado a Aspectos (WASP 2004), XVIII Simpósio Brasileiro de Engenharia de Software (SBES 2004)",
-      "pages": "21-31",
-      "country": "Brasil",
-      "year": "2004"
-   },
-   {
-      "authors": [
          "Leonardo Cole",
          "Paulo Borba"
       ],
@@ -1627,10 +1724,10 @@
          "Tiago Massoni",
          "Paulo Borba"
       ],
-      "title": "A Rigorous Approach for Proving Model Refactorings",
-      "conference": "Automated Software Engineering (ASE 2005)",
-      "pages": "372-375",
-      "country": "Estados Unidos",
+      "title": "Type-safe refactorings for Alloy",
+      "conference": "II Brazilian Symposium on Formal Methods (SBMF 2005)",
+      "pages": "174-190",
+      "country": "Brasil",
       "year": "2005"
    },
    {
@@ -1671,55 +1768,13 @@
    },
    {
       "authors": [
-         "Leonardo Cole",
-         "Alexandre Mota",
+         "Leonardo Neto",
          "Paulo Borba"
       ],
-      "title": "Proving aspect-oriented programming laws",
-      "conference": "4th Foundations of Aspect-Oriented Languages Workshop (FOAL 2005), 4th ACM International Conference on Aspect-Oriented Software Development (AOSD 2005)",
-      "pages": "1-9",
+      "title": "Deriving refactorings for AspectJ",
+      "conference": "4th ACM International Conference on Aspect-Oriented Software Development (AOSD 2005)",
+      "pages": "123-134",
       "country": "Estados Unidos",
-      "year": "2005"
-   },
-   {
-      "authors": [
-         "Paulo Borba",
-         "Sérgio Soares"
-      ],
-      "title": "Implementing Modular and Reusable Aspect-Oriented Concurrency Control with AspectJ",
-      "conference": "2nd Brazilian Workshop on Aspect-Oriented Software Develpment (WASP 2005), 19th Brazilian Symposium on Software Engineering (SBES 2005)",
-      "pages": "1-9",
-      "country": "Brasil",
-      "year": "2005"
-   },
-   {
-      "authors": [
-         "Vander Alves",
-         "Pedro Matos",
-         "Leonardo Neto",
-         "Paulo Borba",
-         "Geber Ramalho"
-      ],
-      "title": "Extracting and Evolving Mobile Games Product Lines",
-      "conference": "9th International Software Product Line Conference (SPLC 2005)",
-      "pages": "70-81",
-      "country": "França",
-      "year": "2005"
-   },
-   {
-      "authors": [
-         "Vander Alves",
-         "Ivan Cardim",
-         "Heitor Carmo",
-         "Pedro Sampaio",
-         "Alexandre Damasceno",
-         "Paulo Borba",
-         "Geber Ramalho"
-      ],
-      "title": "Comparative Analysis of Porting Strategies in Mobile Device Games",
-      "conference": "21st IEEE International Conference on Software Maintenance (ICSM 2005)",
-      "pages": "123-132",
-      "country": "Hungria",
       "year": "2005"
    },
    {
@@ -1746,13 +1801,55 @@
    },
    {
       "authors": [
-         "Leonardo Neto",
+         "Leonardo Cole",
+         "Alexandre Mota",
          "Paulo Borba"
       ],
-      "title": "Deriving refactorings for AspectJ",
-      "conference": "4th ACM International Conference on Aspect-Oriented Software Development (AOSD 2005)",
-      "pages": "123-134",
+      "title": "Proving aspect-oriented programming laws",
+      "conference": "4th Foundations of Aspect-Oriented Languages Workshop (FOAL 2005), 4th ACM International Conference on Aspect-Oriented Software Development (AOSD 2005)",
+      "pages": "1-9",
       "country": "Estados Unidos",
+      "year": "2005"
+   },
+   {
+      "authors": [
+         "Vander Alves",
+         "Ivan Cardim",
+         "Heitor Carmo",
+         "Pedro Sampaio",
+         "Alexandre Damasceno",
+         "Paulo Borba",
+         "Geber Ramalho"
+      ],
+      "title": "Comparative Analysis of Porting Strategies in Mobile Device Games",
+      "conference": "21st IEEE International Conference on Software Maintenance (ICSM 2005)",
+      "pages": "123-132",
+      "country": "Hungria",
+      "year": "2005"
+   },
+   {
+      "authors": [
+         "Vander Alves",
+         "Pedro Matos",
+         "Leonardo Neto",
+         "Paulo Borba",
+         "Geber Ramalho"
+      ],
+      "title": "Extracting and Evolving Mobile Games Product Lines",
+      "conference": "9th International Software Product Line Conference (SPLC 2005)",
+      "pages": "70-81",
+      "country": "França",
+      "year": "2005"
+   },
+   {
+      "authors": [
+         "Paulo Borba",
+         "Sérgio Soares"
+      ],
+      "title": "Implementing Modular and Reusable Aspect-Oriented Concurrency Control with AspectJ",
+      "conference": "2nd Brazilian Workshop on Aspect-Oriented Software Develpment (WASP 2005), 19th Brazilian Symposium on Software Engineering (SBES 2005)",
+      "pages": "1-9",
+      "country": "Brasil",
       "year": "2005"
    },
    {
@@ -1761,11 +1858,40 @@
          "Tiago Massoni",
          "Paulo Borba"
       ],
-      "title": "Type-safe refactorings for Alloy",
-      "conference": "II Brazilian Symposium on Formal Methods (SBMF 2005)",
-      "pages": "174-190",
-      "country": "Brasil",
+      "title": "A Rigorous Approach for Proving Model Refactorings",
+      "conference": "Automated Software Engineering (ASE 2005)",
+      "pages": "372-375",
+      "country": "Estados Unidos",
       "year": "2005"
+   },
+   {
+      "authors": [
+         "Vander Alves",
+         "Rohit Gheyi",
+         "Tiago Massoni",
+         "Uirá Kulesza",
+         "Paulo Borba",
+         "Carlos Lucena"
+      ],
+      "title": "Refactoring product lines",
+      "conference": "5th international conference on Generative programming and component engineering (GPCE 2006)",
+      "pages": "201-210",
+      "country": "Estados Unidos",
+      "year": "2006"
+   },
+   {
+      "authors": [
+         "Uirá Kulesza",
+         "Vander Alves",
+         "Alessandro Garcia",
+         "Carlos Lucena",
+         "Paulo Borba"
+      ],
+      "title": "Improving extensibility of object-oriented frameworks with aspect-oriented programming",
+      "conference": "9th International Conference on Software Reuse (ICSR 2006)",
+      "pages": "231-245",
+      "country": "Itália",
+      "year": "2006"
    },
    {
       "authors": [
@@ -1782,6 +1908,17 @@
       "conference": "20th Brazilian Symposium on Software Engineering (SBES 2006)",
       "pages": "177-192",
       "country": "Brasil",
+      "year": "2006"
+   },
+   {
+      "authors": [
+         "Rohit Gheyi",
+         "Paulo Borba"
+      ],
+      "title": "Sound Object Model Refactorings",
+      "conference": "Doctoral Symposium, afilliated with Formal Methods 2006",
+      "pages": "1-3",
+      "country": "Canadá",
       "year": "2006"
    },
    {
@@ -1822,58 +1959,6 @@
    },
    {
       "authors": [
-         "Vander Alves",
-         "Gustavo Santos",
-         "Fernando Calheiros",
-         "Vilmar Nepomuceno",
-         "Davi Pires",
-         "Alberto Neto",
-         "Paulo Borba"
-      ],
-      "title": "Beyond Code: Handling Variability in Art Artifacts in Mobile Game Product Lines",
-      "conference": "Managing Variability for Software Product Lines: Working With Variability Mechanisms Workshop, 10th International Software Product Line Conference (SPLC 2006)",
-      "pages": "124-132",
-      "country": "Estados Unidos",
-      "year": "2006"
-   },
-   {
-      "authors": [
-         "Gustavo Santos",
-         "Paulo Borba"
-      ],
-      "title": "Suporte a Refatorações em um Sistema de Transformação de Propósito Geral",
-      "conference": "X Simpósio Brasileiro de Linguagens de Programação (SBLP 2006)",
-      "pages": "63-76",
-      "country": "Brasil",
-      "year": "2006"
-   },
-   {
-      "authors": [
-         "Gustavo Santos",
-         "Paulo Borba"
-      ],
-      "title": "Contextos de Primeira Classe em Transformações de Programas",
-      "conference": "X Simpósio Brasileiro de Linguagens de Programação (SBLP 2006)",
-      "pages": "77-90",
-      "country": "Brasil",
-      "year": "2006"
-   },
-   {
-      "authors": [
-         "Uirá Kulesza",
-         "Vander Alves",
-         "Alessandro Garcia",
-         "Carlos Lucena",
-         "Paulo Borba"
-      ],
-      "title": "Improving extensibility of object-oriented frameworks with aspect-oriented programming",
-      "conference": "9th International Conference on Software Reuse (ICSR 2006)",
-      "pages": "231-245",
-      "country": "Itália",
-      "year": "2006"
-   },
-   {
-      "authors": [
          "Roberta Coelho",
          "Vander Alves",
          "Uirá Kulesza",
@@ -1903,146 +1988,12 @@
    },
    {
       "authors": [
-         "Vander Alves",
-         "Rohit Gheyi",
-         "Tiago Massoni",
-         "Uirá Kulesza",
-         "Paulo Borba",
-         "Carlos Lucena"
-      ],
-      "title": "Refactoring product lines",
-      "conference": "5th international conference on Generative programming and component engineering (GPCE 2006)",
-      "pages": "201-210",
-      "country": "Estados Unidos",
-      "year": "2006"
-   },
-   {
-      "authors": [
-         "Vander Alves",
-         "Alberto Neto",
-         "Sérgio Soares",
-         "Gustavo Santos",
-         "Fernando Calheiros",
-         "Vilmar Nepomuceno",
-         "Davi Pires",
-         "Jorge Leal",
-         "Paulo Borba"
-      ],
-      "title": "From Conditional Compilation to Aspects: A Case Study in Software Product Lines Migration",
-      "conference": "1st Workshop on Aspect-Oriented Product Line Engineering, 5th ACM International Conference on Generative Programming and Component Engineering (GPCE 2006)",
-      "pages": "46-52",
-      "country": "Estados Unidos",
-      "year": "2006"
-   },
-   {
-      "authors": [
-         "Rohit Gheyi",
-         "Paulo Borba"
-      ],
-      "title": "Sound Object Model Refactorings",
-      "conference": "Doctoral Symposium, afilliated with Formal Methods 2006",
-      "pages": "1-3",
-      "country": "Canadá",
-      "year": "2006"
-   },
-   {
-      "authors": [
          "Eduardo Aranha",
          "Paulo Borba"
       ],
-      "title": "Empirical Studies of Test Execution Effort Estimation Based on Test Characteristics and Risk Factors",
-      "conference": "2nd International Doctoral Symposium on Empirical Software Engineering (IDoESE 2007)",
+      "title": "Sizing system tests for estimating test execution effort",
+      "conference": "22nd International Annual Forum on COCOMO and System/Software Cost Modeling",
       "pages": "1-8",
-      "country": "Espanha",
-      "year": "2007"
-   },
-   {
-      "authors": [
-         "Philip Greenwood",
-         "Uirá Kulesza",
-         "Awais Rashid",
-         "Thiago Bartolomei",
-         "Eduardo Figueiredo",
-         "Marcos Dósea",
-         "Alessandro Garcia",
-         "Nélio Cacho",
-         "Claudio Santanna",
-         "Sérgio Soares",
-         "Paulo Borba"
-      ],
-      "title": "On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study",
-      "conference": "21st  European Conference on Object-Oriented Programming (ECOOP 2007)",
-      "pages": "176-200",
-      "country": "Alemanha",
-      "year": "2007"
-   },
-   {
-      "authors": [
-         "Sérgio Soares",
-         "Paulo Borba"
-      ],
-      "title": "Towards Reusable and Modular Aspect-Oriented Concurrency Control",
-      "conference": "22nd Annual ACM Symposium on Applied Computing",
-      "pages": "11-15",
-      "country": "Coréia do Sul",
-      "year": "2007"
-   },
-   {
-      "authors": [
-         "Eduardo Aranha",
-         "Paulo Borba"
-      ],
-      "title": "An Estimation Model for Test Execution Effort",
-      "conference": "1st International Symposium on Empirical Software Engineering and Measurement (ESEM 2007)",
-      "pages": "107-116",
-      "country": "Espanha",
-      "year": "2007"
-   },
-   {
-      "authors": [
-         "Philip Greenwood",
-         "Alessandro Garcia",
-         "Thiago Bartolomei",
-         "Sérgio Soares",
-         "Paulo Borba",
-         "Awais Rashid"
-      ],
-      "title": "On The Design of an End-to-End AOSD Testbed for Software Stability",
-      "conference": "1st Workshop on Assessement of Aspect-Oriented Technologies (ASAT 2007), 6th International Conference on Aspect-Oriented Software Development (AOSD 2007)",
-      "pages": "1-2",
-      "country": "Canadá",
-      "year": "2007"
-   },
-   {
-      "authors": [
-         "Philip Greenwood",
-         "Alessandro Garcia",
-         "Awais Rashid",
-         "Eduardo Figueiredo",
-         "Claudio Santanna",
-         "Nélio Cacho",
-         "Américo Sampaio",
-         "Sérgio Soares",
-         "Paulo Borba"
-      ],
-      "title": "On the Contributions of an End-to-End AOSD Testbed",
-      "conference": "Early Aspects: Workshop in Aspect-Oriented Requirements Engineering and Architecture Design, 29th ACM International Conference on Software Engineering (ICSE 2007)",
-      "pages": "1-8",
-      "country": "Estados Unidos",
-      "year": "2007"
-   },
-   {
-      "authors": [
-         "Alberto Neto",
-         "Márcio Ribeiro",
-         "Marcos Dósea",
-         "Rodrigo Almeida",
-         "Paulo Borba",
-         "Sérgio Soares"
-      ],
-      "title": "Semantic Dependencies and Modularity of Aspect-Oriented Software",
-      "conference": "Workshop on Assessment of Contemporary Modularization Techniques (ACoM 2007), 29th ACM International Conference on Software Engineering (ICSE 2007)",
-      "pages": "1-6",
       "country": "Estados Unidos",
       "year": "2007"
    },
@@ -2107,10 +2058,65 @@
          "Eduardo Aranha",
          "Paulo Borba"
       ],
+      "title": "Empirical Studies of Test Execution Effort Estimation Based on Test Characteristics and Risk Factors",
+      "conference": "2nd International Doctoral Symposium on Empirical Software Engineering (IDoESE 2007)",
+      "pages": "1-8",
+      "country": "Espanha",
+      "year": "2007"
+   },
+   {
+      "authors": [
+         "Eduardo Aranha",
+         "Paulo Borba"
+      ],
       "title": "Test Effort Estimation Models Based on Test Specifications",
       "conference": "Testing: Academic & Industrial Conference - Practice And Research Techniques (TAIC PART 2007)",
       "pages": "63-71",
       "country": "Grã-Bretanha",
+      "year": "2007"
+   },
+   {
+      "authors": [
+         "Philip Greenwood",
+         "Alessandro Garcia",
+         "Awais Rashid",
+         "Eduardo Figueiredo",
+         "Claudio Santanna",
+         "Nélio Cacho",
+         "Américo Sampaio",
+         "Sérgio Soares",
+         "Paulo Borba"
+      ],
+      "title": "On the Contributions of an End-to-End AOSD Testbed",
+      "conference": "Early Aspects: Workshop in Aspect-Oriented Requirements Engineering and Architecture Design, 29th ACM International Conference on Software Engineering (ICSE 2007)",
+      "pages": "1-8",
+      "country": "Estados Unidos",
+      "year": "2007"
+   },
+   {
+      "authors": [
+         "Philip Greenwood",
+         "Alessandro Garcia",
+         "Thiago Bartolomei",
+         "Sérgio Soares",
+         "Paulo Borba",
+         "Awais Rashid"
+      ],
+      "title": "On The Design of an End-to-End AOSD Testbed for Software Stability",
+      "conference": "1st Workshop on Assessement of Aspect-Oriented Technologies (ASAT 2007), 6th International Conference on Aspect-Oriented Software Development (AOSD 2007)",
+      "pages": "1-2",
+      "country": "Canadá",
+      "year": "2007"
+   },
+   {
+      "authors": [
+         "Eduardo Aranha",
+         "Paulo Borba"
+      ],
+      "title": "An Estimation Model for Test Execution Effort",
+      "conference": "1st International Symposium on Empirical Software Engineering and Measurement (ESEM 2007)",
+      "pages": "107-116",
+      "country": "Espanha",
       "year": "2007"
    },
    {
@@ -2212,12 +2218,47 @@
    },
    {
       "authors": [
-         "Eduardo Aranha",
+         "Sérgio Soares",
          "Paulo Borba"
       ],
-      "title": "Sizing system tests for estimating test execution effort",
-      "conference": "22nd International Annual Forum on COCOMO and System/Software Cost Modeling",
-      "pages": "1-8",
+      "title": "Towards Reusable and Modular Aspect-Oriented Concurrency Control",
+      "conference": "22nd Annual ACM Symposium on Applied Computing",
+      "pages": "11-15",
+      "country": "Coréia do Sul",
+      "year": "2007"
+   },
+   {
+      "authors": [
+         "Philip Greenwood",
+         "Uirá Kulesza",
+         "Awais Rashid",
+         "Thiago Bartolomei",
+         "Eduardo Figueiredo",
+         "Marcos Dósea",
+         "Alessandro Garcia",
+         "Nélio Cacho",
+         "Claudio Santanna",
+         "Sérgio Soares",
+         "Paulo Borba"
+      ],
+      "title": "On the Impact of Aspectual Decompositions on Design Stability: An Empirical Study",
+      "conference": "21st  European Conference on Object-Oriented Programming (ECOOP 2007)",
+      "pages": "176-200",
+      "country": "Alemanha",
+      "year": "2007"
+   },
+   {
+      "authors": [
+         "Alberto Neto",
+         "Márcio Ribeiro",
+         "Marcos Dósea",
+         "Rodrigo Almeida",
+         "Paulo Borba",
+         "Sérgio Soares"
+      ],
+      "title": "Semantic Dependencies and Modularity of Aspect-Oriented Software",
+      "conference": "Workshop on Assessment of Contemporary Modularization Techniques (ACoM 2007), 29th ACM International Conference on Software Engineering (ICSE 2007)",
+      "pages": "1-6",
       "country": "Estados Unidos",
       "year": "2007"
    },
@@ -2238,18 +2279,6 @@
    },
    {
       "authors": [
-         "Rohit Gheyi",
-         "Tiago Massoni",
-         "Paulo Borba"
-      ],
-      "title": "A complete and minimal set of algebraic laws for feature models",
-      "conference": "12th Simpósio Brasileiro de Linguages de Programação (SBLP 2008)",
-      "pages": "129-143",
-      "country": "Brasil",
-      "year": "2008"
-   },
-   {
-      "authors": [
          "Sérgio Soares",
          "Fernando Calheiros",
          "Vilmar Nepomuceno",
@@ -2260,103 +2289,6 @@
       "title": "Supporting Software Product Lines Development: FLiP - Product Line Derivation Tool",
       "conference": "Tools session, 23rd ACM Conference on Object-Oriented Programming Systems, Languages and Applications (OOPSLA 2008)",
       "pages": "737-738",
-      "country": "Estados Unidos",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Rodrigo Almeida",
-         "Paulo Borba",
-         "Sérgio Soares"
-      ],
-      "title": "On the benefits of variability management as crosscutting",
-      "conference": "Internacional Workshop On Early Aspects, 7th ACM International Conference on Aspect-Oriented Software Development (AOSD 2008)",
-      "pages": "1-8",
-      "country": "Bélgica",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Márcio Ribeiro",
-         "Pedro Matos",
-         "Paulo Borba"
-      ],
-      "title": "A decision model for implementing product lines variabilities",
-      "conference": "23rd Annual ACM Symposium on Applied Computing (SAC 2008)",
-      "pages": "276-277",
-      "country": "Brasil",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Eduardo Aranha",
-         "Paulo Borba"
-      ],
-      "title": "Manualtest: Improving collection of manual test execution data in empirical studies",
-      "conference": "5th Experimental Software Engineering Latin America Workshop (ESELAW 2008)",
-      "pages": "1-10",
-      "country": "Brasil",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Márcio Ribeiro",
-         "Paulo Borba"
-      ],
-      "title": "Recommending refactorings when restructuring variabilities in software product lines",
-      "conference": "2nd Workshop on Refactoring Tools (WRT '08), 23rd ACM Conference on Object-Oriented Programming Systems, Languages and Applications (OOPSLA 2008)",
-      "pages": "1-4",
-      "country": "Estados Unidos",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Eduardo Aranha",
-         "Filipe Almeida",
-         "Thiago Diniz",
-         "Vitor Fontes",
-         "Paulo Borba"
-      ],
-      "title": "Automated Test Execution Effort Estimation based on Functional Test Specifications",
-      "conference": "Tool session, 22st Brazilian Symposium on Software Engineering (SBES 2008)",
-      "pages": "1-6",
-      "country": "Brasil",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Eduardo Aranha",
-         "Paulo Borba"
-      ],
-      "title": "Using Process Simulation to Assess the Test Design Effort Reduction of a Model-Based Testing Approach",
-      "conference": "International Conference on Software Process (ICSP 2008)",
-      "pages": "282-293",
-      "country": "Alemanha",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Tiago Massoni",
-         "Rohit Gheyi",
-         "Paulo Borba"
-      ],
-      "title": "Formal Model-Driven Program Refactoring",
-      "conference": "Fundamental Approaches to Software Engineering (FASE 2008), member conference of the European Joint Conferences on Theory and Practice of Software (ETAPS 2008)",
-      "pages": "362-376",
-      "country": "Hungria",
-      "year": "2008"
-   },
-   {
-      "authors": [
-         "Henrique Rebelo",
-         "Sérgio Soares",
-         "Ricardo Lima",
-         "Paulo Borba",
-         "Márcio Cornélio"
-      ],
-      "title": "JML and Aspects: The benefits of instrumenting JML features with AspectJ",
-      "conference": "7th Workshop on Specification and Verification of Component-Based Systems (SAVCBS 2008), 16th ACM/SIGSOFT Symposium on the Foundations of Software Engeneering (FSE 2008)",
-      "pages": "11-18",
       "country": "Estados Unidos",
       "year": "2008"
    },
@@ -2377,15 +2309,121 @@
    },
    {
       "authors": [
-         "Carlos Pontual",
-         "Rodrigo Almeida",
+         "Márcio Ribeiro",
+         "Pedro Matos",
+         "Paulo Borba"
+      ],
+      "title": "A decision model for implementing product lines variabilities",
+      "conference": "23rd Annual ACM Symposium on Applied Computing (SAC 2008)",
+      "pages": "276-277",
+      "country": "Brasil",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Rohit Gheyi",
+         "Tiago Massoni",
+         "Paulo Borba"
+      ],
+      "title": "A complete and minimal set of algebraic laws for feature models",
+      "conference": "12th Simpósio Brasileiro de Linguages de Programação (SBLP 2008)",
+      "pages": "129-143",
+      "country": "Brasil",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Eduardo Aranha",
+         "Paulo Borba"
+      ],
+      "title": "Manualtest: Improving collection of manual test execution data in empirical studies",
+      "conference": "5th Experimental Software Engineering Latin America Workshop (ESELAW 2008)",
+      "pages": "1-10",
+      "country": "Brasil",
+      "year": "2008"
+   },
+   {
+      "authors": [
          "Henrique Rebelo",
+         "Sérgio Soares",
+         "Ricardo Lima",
+         "Paulo Borba",
+         "Márcio Cornélio"
+      ],
+      "title": "JML and Aspects: The benefits of instrumenting JML features with AspectJ",
+      "conference": "7th Workshop on Specification and Verification of Component-Based Systems (SAVCBS 2008), 16th ACM/SIGSOFT Symposium on the Foundations of Software Engeneering (FSE 2008)",
+      "pages": "11-18",
+      "country": "Estados Unidos",
+      "year": "2008"
+   },
+   {
+      "authors": [
          "Márcio Ribeiro",
          "Paulo Borba"
       ],
-      "title": "Modularizing variabilities with CaesarJ collaboration interfaces",
-      "conference": "3rd Workshop on Assessment of Contemporary Modularization Techniques (ACoM'09), affiliated with 24th ACM Conference on Object-Oriented Programming Systems, Languages and Applications (OOPSLA 2009)",
-      "pages": "1-2",
+      "title": "Recommending refactorings when restructuring variabilities in software product lines",
+      "conference": "2nd Workshop on Refactoring Tools (WRT '08), 23rd ACM Conference on Object-Oriented Programming Systems, Languages and Applications (OOPSLA 2008)",
+      "pages": "1-4",
+      "country": "Estados Unidos",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Rodrigo Almeida",
+         "Paulo Borba",
+         "Sérgio Soares"
+      ],
+      "title": "On the benefits of variability management as crosscutting",
+      "conference": "Internacional Workshop On Early Aspects, 7th ACM International Conference on Aspect-Oriented Software Development (AOSD 2008)",
+      "pages": "1-8",
+      "country": "Bélgica",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Tiago Massoni",
+         "Rohit Gheyi",
+         "Paulo Borba"
+      ],
+      "title": "Formal Model-Driven Program Refactoring",
+      "conference": "Fundamental Approaches to Software Engineering (FASE 2008), member conference of the European Joint Conferences on Theory and Practice of Software (ETAPS 2008)",
+      "pages": "362-376",
+      "country": "Hungria",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Eduardo Aranha",
+         "Paulo Borba"
+      ],
+      "title": "Using Process Simulation to Assess the Test Design Effort Reduction of a Model-Based Testing Approach",
+      "conference": "International Conference on Software Process (ICSP 2008)",
+      "pages": "282-293",
+      "country": "Alemanha",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Eduardo Aranha",
+         "Filipe Almeida",
+         "Thiago Diniz",
+         "Vitor Fontes",
+         "Paulo Borba"
+      ],
+      "title": "Automated Test Execution Effort Estimation based on Functional Test Specifications",
+      "conference": "Tool session, 22st Brazilian Symposium on Software Engineering (SBES 2008)",
+      "pages": "1-6",
+      "country": "Brasil",
+      "year": "2008"
+   },
+   {
+      "authors": [
+         "Rodrigo Almeida",
+         "Paulo Borba"
+      ],
+      "title": "Modeling scenario variability as crosscutting mechanisms",
+      "conference": "8th ACM international conference on Aspect-oriented software development (AOSD 2009)",
+      "pages": "125-136",
       "country": "Estados Unidos",
       "year": "2009"
    },
@@ -2404,13 +2442,15 @@
    },
    {
       "authors": [
-         "Rodrigo Almeida",
-         "Leopoldo Teixeira",
-         "Paulo Borba"
+         "Alberto Neto",
+         "Arthur Marques",
+         "Rohit Gheyi",
+         "Paulo Borba",
+         "Fernando Castor"
       ],
-      "title": "Hephaestus: A tool for managing SPL variabilities",
-      "conference": "Sessão de ferramentas, Terceiro Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2009)",
-      "pages": "1-9",
+      "title": "A design rule language for aspect-oriented programming",
+      "conference": "13rd Brazilian Symposium on Programming Languages (SBLP 2009)",
+      "pages": "131-144",
       "country": "Brasil",
       "year": "2009"
    },
@@ -2423,17 +2463,6 @@
       "conference": "13th European Conference on Software Maintenance and Reengineering (CSMR 2009)",
       "pages": "79-88",
       "country": "Alemanha",
-      "year": "2009"
-   },
-   {
-      "authors": [
-         "Rodrigo Almeida",
-         "Paulo Borba"
-      ],
-      "title": "Modeling scenario variability as crosscutting mechanisms",
-      "conference": "8th ACM international conference on Aspect-oriented software development (AOSD 2009)",
-      "pages": "125-136",
-      "country": "Estados Unidos",
       "year": "2009"
    },
    {
@@ -2452,6 +2481,20 @@
    },
    {
       "authors": [
+         "Carlos Pontual",
+         "Rodrigo Almeida",
+         "Henrique Rebelo",
+         "Márcio Ribeiro",
+         "Paulo Borba"
+      ],
+      "title": "Modularizing variabilities with CaesarJ collaboration interfaces",
+      "conference": "3rd Workshop on Assessment of Contemporary Modularization Techniques (ACoM'09), affiliated with 24th ACM Conference on Object-Oriented Programming Systems, Languages and Applications (OOPSLA 2009)",
+      "pages": "1-2",
+      "country": "Estados Unidos",
+      "year": "2009"
+   },
+   {
+      "authors": [
          "Fernanda d'Amorim",
          "Paulo Borba"
       ],
@@ -2463,53 +2506,15 @@
    },
    {
       "authors": [
-         "Alberto Neto",
-         "Arthur Marques",
-         "Rohit Gheyi",
-         "Paulo Borba",
-         "Fernando Castor"
+         "Rodrigo Almeida",
+         "Leopoldo Teixeira",
+         "Paulo Borba"
       ],
-      "title": "A design rule language for aspect-oriented programming",
-      "conference": "13rd Brazilian Symposium on Programming Languages (SBLP 2009)",
-      "pages": "131-144",
+      "title": "Hephaestus: A tool for managing SPL variabilities",
+      "conference": "Sessão de ferramentas, Terceiro Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2009)",
+      "pages": "1-9",
       "country": "Brasil",
       "year": "2009"
-   },
-   {
-      "authors": [
-         "Fernanda d'Amorim",
-         "Paulo Borba"
-      ],
-      "title": "Modularity Analysis of Use Case Implementations",
-      "conference": "Quarto Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2010)",
-      "pages": "1-8",
-      "country": "Brasil",
-      "year": "2010"
-   },
-   {
-      "authors": [
-         "Márcio Ribeiro",
-         "Humberto Pacheco",
-         "Leopoldo Teixeira",
-         "Paulo Borba"
-      ],
-      "title": "Emergent Feature Modularization",
-      "conference": "Onward! 2010, ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH 2010)",
-      "pages": "11-18",
-      "country": "Estados Unidos",
-      "year": "2010"
-   },
-   {
-      "authors": [
-         "Paulo Borba",
-         "Leopoldo Teixeira",
-         "Rohit Gheyi"
-      ],
-      "title": "A Theory of Software Product Line Refinement",
-      "conference": "7th International Colloquium on Theoretical Aspects of Computing (ICTAC 2010)",
-      "pages": "15-43",
-      "country": "Alemanha",
-      "year": "2010"
    },
    {
       "authors": [
@@ -2531,18 +2536,6 @@
    },
    {
       "authors": [
-         "Tiago Massoni",
-         "Rohit Gheyi",
-         "Paulo Borba"
-      ],
-      "title": "Synchronizing Model and Program Refactoring",
-      "conference": "13th Brazilian Symposium on Formal Methods (SBMF 2010)",
-      "pages": "1-10",
-      "country": "Brasil",
-      "year": "2010"
-   },
-   {
-      "authors": [
          "Mário Torres",
          "Carlos Lucena",
          "Leopoldo Teixeira",
@@ -2558,6 +2551,19 @@
       "conference": "2nd International Workshop on Feature-Oriented Software Development (FOSD 2010), 9th International Conference on Generative Programming and Component Engineering (GPCE 2010)",
       "pages": "1-8",
       "country": "Holanda",
+      "year": "2010"
+   },
+   {
+      "authors": [
+         "Márcio Ribeiro",
+         "Humberto Pacheco",
+         "Leopoldo Teixeira",
+         "Paulo Borba"
+      ],
+      "title": "Emergent Feature Modularization",
+      "conference": "Onward! 2010, ACM SIGPLAN International Conference on Systems, Programming, Languages and Applications: Software for Humanity (SPLASH 2010)",
+      "pages": "11-18",
+      "country": "Estados Unidos",
       "year": "2010"
    },
    {
@@ -2586,16 +2592,38 @@
    },
    {
       "authors": [
-         "Caliane Figuerêdo",
-         "Simone Santos",
-         "Paulo Borba",
-         "Gustavo Alexandre"
+         "Fernanda d'Amorim",
+         "Paulo Borba"
       ],
-      "title": "Using PBL to Develop Software Test Engineers",
-      "conference": "Computers and Advanced Technology in Education (CATE 2011)",
-      "pages": "29-35",
-      "country": "Inglaterra",
-      "year": "2011"
+      "title": "Modularity Analysis of Use Case Implementations",
+      "conference": "Quarto Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2010)",
+      "pages": "1-8",
+      "country": "Brasil",
+      "year": "2010"
+   },
+   {
+      "authors": [
+         "Paulo Borba",
+         "Leopoldo Teixeira",
+         "Rohit Gheyi"
+      ],
+      "title": "A Theory of Software Product Line Refinement",
+      "conference": "7th International Colloquium on Theoretical Aspects of Computing (ICTAC 2010)",
+      "pages": "15-43",
+      "country": "Alemanha",
+      "year": "2010"
+   },
+   {
+      "authors": [
+         "Tiago Massoni",
+         "Rohit Gheyi",
+         "Paulo Borba"
+      ],
+      "title": "Synchronizing Model and Program Refactoring",
+      "conference": "13th Brazilian Symposium on Formal Methods (SBMF 2010)",
+      "pages": "1-10",
+      "country": "Brasil",
+      "year": "2010"
    },
    {
       "authors": [
@@ -2607,18 +2635,6 @@
       "title": "A tool for improving maintainabiliy of preprocessor-based product lines",
       "conference": "2nd Brazilian Congress on Software (CBSoft 2011), Tools Session",
       "pages": "",
-      "country": "Brasil",
-      "year": "2011"
-   },
-   {
-      "authors": [
-         "Leopoldo Teixeira",
-         "Rohit Gheyi",
-         "Paulo Borba"
-      ],
-      "title": "Safe composition of configuration knowledge-based software product lines",
-      "conference": "25th Brazilian Symposium on Software Engineering (SBES 2011)",
-      "pages": "263-272",
       "country": "Brasil",
       "year": "2011"
    },
@@ -2637,17 +2653,20 @@
    },
    {
       "authors": [
-         "Rodrigo Andrade",
-         "Márcio Ribeiro",
-         "Vaidas Gasiunas",
-         "Lucas Satabin",
-         "Henrique Rebelo",
-         "Paulo Borba"
+         "Élder Cirilo",
+         "Demóstenes Sena",
+         "Uirá Kulesza",
+         "Leopoldo Teixeira",
+         "Sérgio Soares",
+         "Paulo Borba",
+         "Rohit Gheyi",
+         "Laís Neves",
+         "Carlos Lucena"
       ],
-      "title": "Assessing Idioms for Implementing Features with Flexible Binding Times",
-      "conference": "15th European Conference on Software Maintenance and Reengineering (CSMR 2011)",
-      "pages": "231-240",
-      "country": "Alemanha",
+      "title": "Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions",
+      "conference": "Product LinE Approaches in Software Engineering (PLEASE 2011), workshop of the 33rd International Conference on Software Engineering (ICSE 2011)",
+      "pages": "22-23",
+      "country": "Estados Unidos",
       "year": "2011"
    },
    {
@@ -2663,6 +2682,19 @@
       "conference": "10th ACM international conference on Generative programming and component engineering (GPCE 2011)",
       "pages": "23-32",
       "country": "Estados Unidos",
+      "year": "2011"
+   },
+   {
+      "authors": [
+         "Caliane Figuerêdo",
+         "Simone Santos",
+         "Paulo Borba",
+         "Gustavo Alexandre"
+      ],
+      "title": "Using PBL to Develop Software Test Engineers",
+      "conference": "Computers and Advanced Technology in Education (CATE 2011)",
+      "pages": "29-35",
+      "country": "Inglaterra",
       "year": "2011"
    },
    {
@@ -2694,20 +2726,29 @@
    },
    {
       "authors": [
-         "Élder Cirilo",
-         "Demóstenes Sena",
-         "Uirá Kulesza",
-         "Leopoldo Teixeira",
-         "Sérgio Soares",
-         "Paulo Borba",
-         "Rohit Gheyi",
-         "Laís Neves",
-         "Carlos Lucena"
+         "Rodrigo Andrade",
+         "Márcio Ribeiro",
+         "Vaidas Gasiunas",
+         "Lucas Satabin",
+         "Henrique Rebelo",
+         "Paulo Borba"
       ],
-      "title": "Integrating Product Line Refactoring and Derivation Tools: Challenges and Potential Solutions",
-      "conference": "Product LinE Approaches in Software Engineering (PLEASE 2011), workshop of the 33rd International Conference on Software Engineering (ICSE 2011)",
-      "pages": "22-23",
-      "country": "Estados Unidos",
+      "title": "Assessing Idioms for Implementing Features with Flexible Binding Times",
+      "conference": "15th European Conference on Software Maintenance and Reengineering (CSMR 2011)",
+      "pages": "231-240",
+      "country": "Alemanha",
+      "year": "2011"
+   },
+   {
+      "authors": [
+         "Leopoldo Teixeira",
+         "Rohit Gheyi",
+         "Paulo Borba"
+      ],
+      "title": "Safe composition of configuration knowledge-based software product lines",
+      "conference": "25th Brazilian Symposium on Software Engineering (SBES 2011)",
+      "pages": "263-272",
+      "country": "Brasil",
       "year": "2011"
    },
    {
@@ -2777,6 +2818,45 @@
    },
    {
       "authors": [
+         "Rodrigo Andrade",
+         "Henrique Rebelo",
+         "Márcio Ribeiro",
+         "Paulo Borba"
+      ],
+      "title": "AspectJ-based Idioms for Flexible Feature Binding",
+      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
+      "pages": "59-68",
+      "country": "Brasil",
+      "year": "2013"
+   },
+   {
+      "authors": [
+         "Eric Bodden",
+         "Társis Toledo",
+         "Márcio Ribeiro",
+         "Claus Brabrand",
+         "Paulo Borba",
+         "Mira Mezini"
+      ],
+      "title": "SPLlift ? Transparent and Efficient Reuse of IFDS-based Static Program Analyses for Software Product Lines",
+      "conference": "34th annual ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI 2013)",
+      "pages": "355-364",
+      "country": "Estados Unidos",
+      "year": "2013"
+   },
+   {
+      "authors": [
+         "Jean Melo",
+         "Paulo Borba"
+      ],
+      "title": "Improving modular reasoning on preprocessor-based systems",
+      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
+      "pages": "11-19",
+      "country": "Brasil",
+      "year": "2013"
+   },
+   {
+      "authors": [
          "Henrique Rebelo",
          "Gary Leavens",
          "Ricardo Lima",
@@ -2807,19 +2887,6 @@
    },
    {
       "authors": [
-         "Rodrigo Andrade",
-         "Henrique Rebelo",
-         "Márcio Ribeiro",
-         "Paulo Borba"
-      ],
-      "title": "AspectJ-based Idioms for Flexible Feature Binding",
-      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
-      "pages": "59-68",
-      "country": "Brasil",
-      "year": "2013"
-   },
-   {
-      "authors": [
          "Leonardo Passos",
          "Jianmei Guo",
          "Leopoldo Teixeira",
@@ -2835,32 +2902,6 @@
    },
    {
       "authors": [
-         "Jean Melo",
-         "Paulo Borba"
-      ],
-      "title": "Improving modular reasoning on preprocessor-based systems",
-      "conference": "VII Simpósio Brasileiro de Componentes, Arquitetura e Reutilização de Software (SBCARS 2013)",
-      "pages": "11-19",
-      "country": "Brasil",
-      "year": "2013"
-   },
-   {
-      "authors": [
-         "Eric Bodden",
-         "Társis Toledo",
-         "Márcio Ribeiro",
-         "Claus Brabrand",
-         "Paulo Borba",
-         "Mira Mezini"
-      ],
-      "title": "SPLlift ? Transparent and Efficient Reuse of IFDS-based Static Program Analyses for Software Product Lines",
-      "conference": "34th annual ACM SIGPLAN conference on Programming Language Design and Implementation (PLDI 2013)",
-      "pages": "355-364",
-      "country": "Estados Unidos",
-      "year": "2013"
-   },
-   {
-      "authors": [
          "Guilherme Cavalcanti",
          "Paola Accioly",
          "Paulo Borba"
@@ -2869,6 +2910,18 @@
       "conference": "11th Workshop on Software Modularity (WMod 2014)",
       "pages": "122-125",
       "country": "Brasil",
+      "year": "2014"
+   },
+   {
+      "authors": [
+         "Márcio Ribeiro",
+         "Paulo Borba",
+         "Christian Kästner"
+      ],
+      "title": "Feature Maintenance with Emergent Interfaces",
+      "conference": "36th International Conference on Software Engineering (ICSE 2014)",
+      "pages": "989-1000",
+      "country": "Índia",
       "year": "2014"
    },
    {
@@ -2888,30 +2941,6 @@
    },
    {
       "authors": [
-         "Márcio Ribeiro",
-         "Paulo Borba",
-         "Christian Kästner"
-      ],
-      "title": "Feature Maintenance with Emergent Interfaces",
-      "conference": "36th International Conference on Software Engineering (ICSE 2014)",
-      "pages": "989-1000",
-      "country": "Índia",
-      "year": "2014"
-   },
-   {
-      "authors": [
-         "Leopoldo Teixeira",
-         "Paulo Borba",
-         "Rohit Gheyi"
-      ],
-      "title": "Safe Evolution of Product Populations and Multi Product Lines",
-      "conference": "19th International Software Product Line Conference (SPLC 2015)",
-      "pages": "171-175",
-      "country": "Estados Unidos",
-      "year": "2015"
-   },
-   {
-      "authors": [
          "Guilherme Cavalcanti",
          "Paulo Borba",
          "Paola Accioly"
@@ -2920,6 +2949,19 @@
       "conference": "9th International Symposium on Empirical Software Engineering and Measurement (ESEM 2015)",
       "pages": "267-276",
       "country": "China",
+      "year": "2015"
+   },
+   {
+      "authors": [
+         "Leopoldo Teixeira",
+         "Vander Alves",
+         "Paulo Borba",
+         "Rohit Gheyi"
+      ],
+      "title": "A Product Line of Theories for Reasoning about Safe Evolution of Product Lines",
+      "conference": "19th International Software Product Line Conference (SPLC 2015)",
+      "pages": "161-170",
+      "country": "Estados Unidos",
       "year": "2015"
    },
    {
@@ -2938,13 +2980,12 @@
    {
       "authors": [
          "Leopoldo Teixeira",
-         "Vander Alves",
          "Paulo Borba",
          "Rohit Gheyi"
       ],
-      "title": "A Product Line of Theories for Reasoning about Safe Evolution of Product Lines",
+      "title": "Safe Evolution of Product Populations and Multi Product Lines",
       "conference": "19th International Software Product Line Conference (SPLC 2015)",
-      "pages": "161-170",
+      "pages": "171-175",
       "country": "Estados Unidos",
       "year": "2015"
    }
