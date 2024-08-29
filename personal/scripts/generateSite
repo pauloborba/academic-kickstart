@@ -31,7 +31,7 @@
 # Update variable anos in personal/scripts/lattesXml2Json/lattes2json.rb. 
 
 #
-# generating JSON from Lattes XML
+# generating JSON from Lattes XML, in personal/scripts
 #
 cd lattesXml2Json
 mv ../files/curriculo.xml vitaeCNPq.xml
