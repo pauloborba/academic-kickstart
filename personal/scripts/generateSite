@@ -59,7 +59,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # If there are new author and journal name issues (like due to accents ou uppercase), 
 #    assess if it's better 
 #    to solve them directly at Lattes GUI or adapting the script in lattesXml2Json 
-#    (in this case should download or rename the XML file and run this script again!)
+#    (in this case should download or rename the XML file and run the lattes2Json.rb script again!)
 #
 # After that, clean the jsonToSite/output directory and call the jsonToSite script.
 #
