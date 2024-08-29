@@ -17,8 +17,6 @@
 // só criar novos diretórios correspondente ao dif em relação ao último JSON
 // refatorar!
 
-
-
 import * as fs from "fs"; // https://nodejs.org/dist/latest-v10.x/docs/api/fs.html#fs_file_system
 
 const articlesFilePath = '../../files/curriculoAtual.json';
@@ -38,12 +36,17 @@ function createPublicationDirectory(article) {
   const titleWithoutSpaces = title.replace(/ /gi,'_');
   const titleWithoutQuestionMarks = titleWithoutSpaces.replace(/\?/gi,'_');
   const titleWithoutColon = titleWithoutQuestionMarks.replace(/\:/gi,'_');
-  let directoryName = year.concat(titleWithoutColon.toLowerCase());
+  const titleWithoutAccents = removeAccents(titleWithoutColon);
+  let directoryName = year.concat(titleWithoutAccents.toLowerCase());
   if (fs.existsSync(directoryName)) {
     directoryName = directoryName + "_double_entry"
   }
   fs.mkdirSync(directoryName);
   return directoryName;
+}
+
+function removeAccents(str: string): string {
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
 function addFilesToDirectory(directory, article) {
