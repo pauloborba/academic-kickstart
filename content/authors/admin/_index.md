@@ -94,7 +94,7 @@ I investigate and develop tools and techniques for improving software developmen
 
 My main research interests are in the following topics and their integration: advanced (semi-structured, structured, semantic) code merging tools, code integration conflicts, continuous integration and deployment, software modularity, software product lines, and refactoring.
 
-I am a member of the ACM and of the Brazilian Computer Society.
+I am Associate Editor of [IEEE Transactions on Software Engineering](https://www.computer.org/csdl/journal/ts). I am a member of the ACM and of the Brazilian Computer Society.
 
 I co-founded [Qualiti Software Processes](http://www.qualiti.com.br), a spin-off of the Informatics Center and [C.E.S.A.R.](http://www.cesar.org.br), specialized on software development tools and processes. This was one of the first companies to join [Porto Digital](https://www.portodigital.org), now one of the major information technology hubs in Brazil. 
 
