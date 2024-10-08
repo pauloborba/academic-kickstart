@@ -663,7 +663,8 @@
       "pages": "",
       "country": "Brasil",
       "year": "2024",
-      "pdf": "2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis.pdf"
+      "pdf": "2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis.pdf",
+      "slides": "2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis-slides.pdf"
    },
    {
       "authors": [
@@ -691,6 +692,7 @@
       "country": "Brasil",
       "year": "2024",
       "pdf": "2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos.pdf",
+      "slides": "2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos-slides.pdf",
       "replicationpackage": "https://github.com/ToniMaciel/Syntetic-Mergesdataset"
    },
    {

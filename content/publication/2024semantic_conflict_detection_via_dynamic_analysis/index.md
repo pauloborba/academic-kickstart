@@ -42,7 +42,7 @@ url_code:
 url_dataset:
 url_poster: ""
 url_project:
-url_slides: ""
+url_slides: "publication/2024semantic_conflict_detection_via_dynamic_analysis/2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis-slides.pdf"
 url_source:
 url_video: ""
 

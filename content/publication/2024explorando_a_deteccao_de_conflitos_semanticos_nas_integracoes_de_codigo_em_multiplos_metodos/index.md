@@ -42,7 +42,7 @@ url_code:
 url_dataset:
 url_poster: ""
 url_project:
-url_slides: ""
+url_slides: "publication/2024explorando_a_deteccao_de_conflitos_semanticos_nas_integracoes_de_codigo_em_multiplos_metodos/2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos-slides.pdf"
 url_source:
 url_video: ""
 
