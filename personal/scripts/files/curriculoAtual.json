@@ -635,7 +635,8 @@
       "pages": "",
       "country": "Brasil",
       "year": "2024",
-      "pdf": "2024-Felipe-CSDiff-Focalizado.pdf"
+      "pdf": "2024-Felipe-CSDiff-Focalizado.pdf",
+      "slides": "2024-Felipe-CSDiff-Focalizado-slides.pdf"
    },
    {
       "authors": [
@@ -677,7 +678,9 @@
       "conference": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
       "pages": "",
       "country": "Estados Unidos",
-      "year": "2024"
+      "year": "2024",
+      "pdf": "2024-Anjos-Semistructured-Merge-With-Language-Specific-Separators.pdf",
+      "replicationpackage": "https://zenodo.org/records/13368253"
    },
    {
       "authors": [

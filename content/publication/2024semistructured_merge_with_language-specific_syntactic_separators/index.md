@@ -30,14 +30,14 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://zenodo.org/records/13368253"
+    icon_pack: 
+    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2024semistructured_merge_with_language-specific_syntactic_separators/2024-Anjos-Semistructured-Merge-With-Language-Specific-Separators.pdf"
 url_code:
 url_dataset:
 url_poster: ""

@@ -42,7 +42,7 @@ url_code:
 url_dataset:
 url_poster: ""
 url_project:
-url_slides: ""
+url_slides: "publication/2024refinando_a_precisao_da_deteccao_de_conflitos__uma_analise_do_csdiff_com_abordagem_focalizada/2024-Felipe-CSDiff-Focalizado-slides.pdf"
 url_source:
 url_video: ""
 
