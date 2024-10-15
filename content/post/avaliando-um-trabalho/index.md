@@ -50,3 +50,4 @@ Leia [How to constructively review a research paper](https://freedom-to-tinker.c
 - "<i>Above all, be supportive of authors. If you rated a paper low on impact or novelty, do your best to explain why.</i>"
 
 Considere também que pode haver [diferenças significativas](https://andreas-zeller.info/2021/07/27/Reviewing-across-fields-ICSE-PLDI-CCS.html) nos processos de avaliação de diferentes áreas de pesquisa. 
+
