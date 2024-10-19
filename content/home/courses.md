@@ -40,7 +40,7 @@ An advanced undergraduate, basic graduate level course covering a larger range o
 
 You can find here the playlists (with videos in Portuguese) for each of the topics covered in the course: 
 
-- [Requirements](https://www.youtube.com/watch?v=0zYgtcUgXtM&list=PLE-5PZOOoVUgQmHHn-bXzr5AyDWkl3n1Ghttps://www.youtube.com/watch?v=0zYgtcUgXtM&list=PLE-5PZOOoVUgQmHHn-bXzr5AyDWkl3n1G)
+- [Requirements](https://www.youtube.com/watch?v=0zYgtcUgXtM&list=PLE-5PZOOoVUgQmHHn-bXzr5AyDWkl3n1G)
 - [Design and Implementation](https://www.youtube.com/watch?v=yGO5wxtV0Vs&list=PLE-5PZOOoVUhMxgzBxkAPaij4KF77kftq)
 - [Testing](https://www.youtube.com/watch?v=nOQnAkC0Yt4&list=PLE-5PZOOoVUiEVKU4PrgpESddSlrhYZ7x)
 - [Evolution and Refactoring](https://www.youtube.com/watch?v=Mn-YkY7BYA8&list=PLE-5PZOOoVUhFoRtBfsOkhT5-x5DzrLRV)
