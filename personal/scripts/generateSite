@@ -88,7 +88,7 @@ mv novoCurriculoIntegrado.json curriculoAtual.json
 # hugo
 #
 # And commit new website version and upload it to github.io
-# The public folder is the generated website content mapped to pauloborba.github.io
+# The public folder is the generated (compiled code) website content mapped to pauloborba.github.io
 #
 # cd public
 # git add .
