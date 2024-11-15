@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "O fim da programação, de novo!"
-event: Seminário de Pesquisa do CIn-UFPE  
+event: Seminário de Pesquisa do CIn-UFPE (semanas antes ministrado para Motorola Mobility Brasil, e depois ministrado na UFCA, UFAL, IFPE-Belo Jardim, Rec'n'Play 2023, Secomp UFPE 2023, ERES 2024)  
 event_url: https://www.youtube.com/playlist?list=PLA7ATVrEHleQW_6ftjOXrJb0ylfOdVw1x
 location:
 address:

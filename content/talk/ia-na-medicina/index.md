@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Desmistificando a IA na Medicina"
-event: XXIII Jornada Pernambucana de Dermatologia
+event: XXIII Jornada Pernambucana de Dermatologia (depois ministrado no Rec'n'Play 2024)
 event_url:
 location:
 address:
