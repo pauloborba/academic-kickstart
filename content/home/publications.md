@@ -68,6 +68,6 @@ subtitle = ""
 
 Here I list my latest publications. 
 The full list is available [here]({{< ref "/publication/_index.md" >}}).
-You can also check my publication lists at [DBLP](http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo), [Google Scholar](https://scholar.google.com.br/citations?hl=en&view_op=list_works&gmla=AJsN-F5mUBqaWHkc_zcDiTPftyojsxa-Z9O8F9sehSwZmAxzR_OeiwoQIPQdgxFeG-bdh1XuHZ7ibOQlgePGyxPRl6iWLDkQ_Q&user=PpRDLgcAAAAJ), and [Semantic Scholar](https://www.semanticscholar.org/author/Paulo-Borba/144505000).
+You can also check my publication lists at [DBLP](http://dblp.uni-trier.de/pers/hd/b/Borba:Paulo), [Google Scholar](https://scholar.google.com.br/citations?hl=en&view_op=list_works&gmla=AJsN-F5mUBqaWHkc_zcDiTPftyojsxa-Z9O8F9sehSwZmAxzR_OeiwoQIPQdgxFeG-bdh1XuHZ7ibOQlgePGyxPRl6iWLDkQ_Q&user=PpRDLgcAAAAJ), [Semantic Scholar](https://www.semanticscholar.org/author/Paulo-Borba/144505000), [ORCID](https://orcid.org/0000-0002-0381-2843), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6603640441) and [Web of Science](https://www.webofscience.com/wos/author/record/C-5617-2013). 
 
 
