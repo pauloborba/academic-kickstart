@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:phmb@cin.ufpe.br"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/pauloborba
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/pauloborba
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.br/citations?user=PpRDLgcAAAAJ&hl=en
@@ -63,9 +63,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/paulo-borba
-- icon: facebook
-  icon_pack: fab
-  link: https://www.facebook.com/paulohmborba
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://www.facebook.com/paulohmborba
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0381-2843"
