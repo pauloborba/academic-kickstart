@@ -94,9 +94,9 @@ Os servidores são normalmente configurados para serem acessados com as inicias 
 
 ##### Servidores com isolamento
 
-Temos alguns servidores menos potentes mas que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. 
+Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período.
 
-Os servidores são chamados inesserver1.cin.ufpe.br, inesserver2.cin.ufpe.br, e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.  
+Os servidores são chamados inesserver1.cin.ufpe.br, inesserver2.cin.ufpe.br, inesserver3.cin.ufpe.br e gpu01.cin.ufpe.br. Temos também toritama, que é usado apenas para a wiki do grupo.  
 
 Seguem dicas de Toni Maciel:
 
@@ -107,7 +107,7 @@ Seguem dicas de Toni Maciel:
 
 ##### Cluster RAM
 
-Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória; o hostname dela é cluster-node11.cin.ufpe.br. 
+Se o seu experimento precisa de muita memória RAM, temos uma máquina com bastante memória (2 TB); o hostname dela é cluster-node11.cin.ufpe.br. 
 
 Ela só tem o docker instalado, então todo o seu experimento tem que ser configurado para executar num container docker. 
 
