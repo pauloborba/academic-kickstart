@@ -68,7 +68,7 @@ social:
 #  link: https://www.facebook.com/paulohmborba
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-0381-2843"
+  link: https://orcid.org/0000-0002-0381-2843
 
 
 
