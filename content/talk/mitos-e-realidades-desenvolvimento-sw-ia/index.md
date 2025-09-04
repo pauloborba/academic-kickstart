@@ -3,7 +3,7 @@
 
 title: "Mitos e Realidades no Desenvolvimento de Software com IA"
 event: Fronteiras da Engenharia de Software, Esquenta SE4FP do CBSoft 2025 (uma semana antes ministrado na UnB)
-event_url: https://open.spotify.com/episode/5smkC91ZvvAYL8YIM6YVY6
+event_url: 
 location:
 address:
   street:
@@ -44,6 +44,9 @@ image:
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: Audio
+  url: https://open.spotify.com/episode/5smkC91ZvvAYL8YIM6YVY6
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 202510MitosERealidadesDoDesenvolvimentoDeSwComIA.pdf
