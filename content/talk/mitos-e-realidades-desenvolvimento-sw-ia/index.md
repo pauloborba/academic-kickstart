@@ -47,6 +47,8 @@ image:
 links:
 - name: Audio
   url: https://open.spotify.com/episode/5smkC91ZvvAYL8YIM6YVY6
+- name: Edited Video 
+  url: https://www.youtube.com/watch?v=DEj3c7SxNkI
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 202510MitosERealidadesDoDesenvolvimentoDeSwComIA.pdf
