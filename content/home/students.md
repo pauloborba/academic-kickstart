@@ -30,6 +30,7 @@ Here are the students I currently supervise, with their expected graduation date
 * Victor Lira (Postdoc 2024)
 * Victoria Figueiredo (BSc 2026)
 * Ykaro dos Santos (BSc 2027)
+* [Letícia Lopes](https://www.cin.ufpe.br/~lrsl/) (MSc 2027) 
 
 I often have opportunities for supervising dedicated students and software developers interested in the topics I study. Please [contact](#contact) me for further detail. 
 
