@@ -53,7 +53,7 @@ Me envie um email indicando o seu usuário no GitHub, e solicitando inserção n
 
 Para ter acesso ao laboratório do INES com o seu crachá, envie email para o helpdesk do CIn, me copiando para eu dar o OK. Se você ainda não sabe o que é o helpdesk do CIn, veja a seguir!
 
-Crie um <i>site</i> pessoal minimamente organizado no domínio do CIn, e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
+Crie um <i>site</i> pessoal minimamente organizado [no domínio do CIn](https://helpdesk.cin.ufpe.br/servicos/dados-e-hospedagem), e me passe o endereço, por favor. Pode ser bem básico, mas, pelo menos na área de computação, é essencial que autores de artigos tenham essa presença. Como você certamente estará envolvido na autoria de artigos, melhor já ter logo o seu.
 
 Ouça [Quero mesmo ser Pesquisador?]({{< relref "/talk/quero-ser-pesquisador" >}})
 
