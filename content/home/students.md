@@ -37,7 +37,7 @@ Here are former students with whom I currently more closely collaborate:
 * Guilherme Cavalcanti (IFPE)
 * Klissiomara Dias (UFRA)
 * Léuson da Silva (Polytechnique Montreal)
-* Paola Accioly (UFCA)
+* Paola Accioly (UFPE)
 * Rodrigo Bonifácio (UnB)
 * Thaís Burity (UFAPE)
 
