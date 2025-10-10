@@ -16,9 +16,9 @@ Here are the students I currently supervise, with their expected graduation date
 
 * Amanda Moraes (MSc 2026)
 * Davi de Barros Fernandes Câmara (MSc 2026)
-* [Galileu Santos de Jesus](https://www.cin.ufpe.br/~gsj) (PhD 2025)
-* Guilherme Cavalcanti (Postdoc 2024)
-* [Heitor Sammuel Carvalho](https://www.cin.ufpe.br/~hscs)
+* [Galileu Santos de Jesus](https://www.cin.ufpe.br/~gsj) (PhD 2026)
+* Guilherme Cavalcanti (Postdoc 2026)
+* [Heitor Sammuel Carvalho](https://www.cin.ufpe.br/~hscs) (MSc 2027)
 * [João Pedro Henrique Santos Duarte](https://jpedroh.dev/) (MSc 2025)
 * [Letícia Lopes](https://www.cin.ufpe.br/~lrsl/) (MSc 2027) 
 * [Matheus Barbosa](https://barbosamaatheus.github.io) (PhD 2026)
@@ -26,7 +26,7 @@ Here are the students I currently supervise, with their expected graduation date
 * [Pedro Henrique Lopes dos Santos](https://www.cin.ufpe.br/~phls2/) (MSc 2026)
 * Toni Maciel (BSc 2024)
 * Vinicius Barbosa (BSc 2025)
-* Victor Lira (Postdoc 2024)
+* Victor Lira (Postdoc 2026)
 * Ykaro dos Santos (BSc 2027)
 
 I often have opportunities for supervising dedicated students and software developers interested in the topics I study. Please [contact](#contact) me for further detail. 
