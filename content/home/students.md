@@ -24,6 +24,7 @@ Here are the students I currently supervise, with their expected graduation date
 * [Matheus Barbosa](https://barbosamaatheus.github.io) (PhD 2026)
 * [Nathalia Barbosa](https://www.cin.ufpe.br/~nfab/) (BSc 2025)
 * [Pedro Henrique Lopes dos Santos](https://www.cin.ufpe.br/~phls2/) (MSc 2026)
+* [Ricardo Pereira Lins](https://www.cin.ufpe.br/~rpl3/) (MSc 2027)
 * Toni Maciel (BSc 2024)
 * Vinicius Barbosa (BSc 2025)
 * Victor Lira (Postdoc 2026)
