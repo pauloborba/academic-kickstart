@@ -65,6 +65,8 @@ Faça um PR para [este repositório](https://github.com/pauloborba/academic-kick
 
 Assumindo que você já se familiarizou com os sites do CIn e do SPG (ver acima!), é bom também saber os [sites dos vários setores do CIn](https://diretoria.cin.ufpe.br/perguntas-frequentes#h.14rqvo9yjppo), já que eles vão trazer informações mais operacionais e internas (incluindo FAQs) para quem estuda ou trabalha no CIn, e que podem ser difíceis de encontrar pelo site principal externo. Você vai precisar com mais frequência das FAQs dos setores de [sistemas](http://helpdesk.cin.ufpe.br/) e [infraestrutura](http://infraestrutura.cin.ufpe.br/).
 
+Veja também o [infográfico](https://diretoria.cin.ufpe.br/ecossistema-cin) clicável com links para os vários setores e iniciativas do CIn.
+
 
 ### Planejando disciplinas da pós-graduação
 
