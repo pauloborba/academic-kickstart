@@ -69,11 +69,11 @@ Consulte sites de notícias como [Reddit](https://www.reddit.com/), e sites de p
 
 #### Comunicação é quase tudo
 
-Mantenha comunicação frequente com o orientador, em reuniões (presenciais ou remotas) ou via chat, para tirar dúvidas, relatar atividades, e tomar decisões de projeto. Isso deve ser feito no mínimo uma vez por dia, para pelo menos dizer o que fez naquele dia e o que pretende fazer no próximo.
+Mantenha comunicação frequente com o orientador, em reuniões (presenciais ou remotas) ou via chat, para tirar dúvidas, relatar atividades, e tomar decisões de projeto. Isso deve ser feito no mínimo uma vez por dia, para pelo menos dizer o que fez naquele dia e o que pretende fazer no próximo. Isso é muito importante para evitar retrabalho. Só não faça isso se não conseguiu fazer nada naquela dia; não precisa explicar porque não fez.
 
-Durante as reuniões com o seu orientador, anote as atividades sugerida por ele, idealmente no chat (no canal do projeto, ou no seu chat com o seu orientador, se não houver um canal do projeto). Prepare slides para cada reunião, indicando o que você fez desde a reunião passada, o que você pretende fazer até a próxima reunião, e mencionando dificuldades que você esteja tendo.
+Durante as reuniões com o seu orientador, anote as atividades sugerida por ele, idealmente no chat (no canal do projeto, ou no seu chat com o seu orientador, se não houver um canal do projeto). Prepare slides para cada reunião. Comece cada reunião mostrando rapidamente slides com o visual abstract e o mind map relativos ao seu trabalho, para dar contexto; depois passe a apresentar slides indicando o que você fez desde a reunião passada, o que você pretende fazer até a próxima reunião, e mencionando dificuldades que você esteja tendo.
 
-Sempre que seu orientador, ou qualquer outra pessoa, passar uma tarefa para você, é importante dar o retorno logo após a conclusão da tarefa, ou avisar caso tenha tido alguma dificuldade na realização da mesma.
+Sempre que seu orientador, ou qualquer outra pessoa, passar uma tarefa para você, é importante dar o retorno logo após a conclusão da tarefa, ou avisar caso tenha tido alguma dificuldade ou mudança na realização da mesma. Se necessário, pergunte detalhes sobre a tarefa via chat, ou marque uma reunião.  
 
 Participe regularmente da reunião semanal do seu grupo de pesquisa. Os seminários do seu grupo de pesquisa, em particular, têm tanto uma utilidade técnica (aprender ou explicar novidades, dar e receber feedback, entender pontos que precisam ser melhor esclarecidos ou explorados no seu trabalho, etc.) e educacional (o aluno aprende a se expor, explicar ideias para pessoas que trabalham em áreas um pouco diferentes, etc.) quanto social (os alunos e professores se conhecem melhor, identificam possíveis pontos de colaboração, estabelecem conexões, ficam sabendo de novidades, etc.).
 
