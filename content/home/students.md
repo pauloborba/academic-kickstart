@@ -20,6 +20,7 @@ Here are the students I currently supervise, with their expected graduation date
 * Guilherme Cavalcanti (Postdoc 2026)
 * [Heitor Sammuel Carvalho](https://www.cin.ufpe.br/~hscs) (MSc 2027)
 * [João Pedro Henrique Santos Duarte](https://jpedroh.dev/) (MSc 2025)
+* [José Arthur Soares Bezerra](https://www.cin.ufpe.br/~jasb/) (MSc 2027)
 * [Letícia Lopes](https://www.cin.ufpe.br/~lrsl/) (MSc 2027) 
 * [Matheus Barbosa](https://barbosamaatheus.github.io) (PhD 2026)
 * [Nathalia Barbosa](https://www.cin.ufpe.br/~nfab/) (BSc 2025)
