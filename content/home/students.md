@@ -18,6 +18,7 @@ Here are the students I currently supervise, with their expected graduation date
 * Davi de Barros Fernandes Câmara (MSc 2026)
 * [Galileu Santos de Jesus](https://www.cin.ufpe.br/~gsj) (PhD 2026)
 * Guilherme Cavalcanti (Postdoc 2026)
+* [Guilherme Moreira](https://www.cin.ufpe.br/~grm2/) (MSc 2027)
 * [Heitor Sammuel Carvalho](https://www.cin.ufpe.br/~hscs) (MSc 2027)
 * [João Pedro Henrique Santos Duarte](https://jpedroh.dev/) (MSc 2025)
 * [Letícia Lopes](https://www.cin.ufpe.br/~lrsl/) (MSc 2027) 
