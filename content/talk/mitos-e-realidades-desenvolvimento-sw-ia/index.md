@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mitos e Realidades no Desenvolvimento de Software com IA"
-event: Fronteiras da Engenharia de Software, Esquenta SE4FP do CBSoft 2025 (uma semana antes ministrada na UnB, depois ministrada no Rec'n'Play 2025, na [Semana da Computação](https://www.youtube.com/watch?v=7f7jFSd1_q0) do IME-USP, e para o Banco do Brasil)
+event: Fronteiras da Engenharia de Software, Esquenta SE4FP do CBSoft 2025 (uma semana antes ministrada na UnB, depois ministrada no Rec'n'Play 2025, na [Semana da Computação](https://www.youtube.com/watch?v=7f7jFSd1_q0) do IME-USP, para o Banco do Brasil, e no Dev Fest Pernambuco 2025)
 event_url: 
 location:
 address:
