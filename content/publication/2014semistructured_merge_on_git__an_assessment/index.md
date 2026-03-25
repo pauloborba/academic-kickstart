@@ -37,7 +37,7 @@ featured: false
 #    icon: 
 
 
-url_pdf: ""
+url_pdf: "publication/2014semistructured_merge_on_git__an_assessment/2014-Guilherme-SemistructuredMergeonGitAnAssessment.pdf"
 url_code:
 url_dataset:
 url_poster: ""
