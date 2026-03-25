@@ -88,7 +88,7 @@ Escreva no presente: in Section X we present (instead of will present); we first
 
 Use maiúsculas para referenciar uma seção ou figura numerada (in Section X, in Figure Y), e minúsculas caso contrário (in this section, in the previously mentioned figure).
 
-Leia dicas de escrita ([de Claire Le Goues](https://clairelegoues.com/2016/08/23/things-i-keep-repeating-about-writing/), de [
+Leia dicas de escrita ([de Claire Le Goues](https://clairelegoues.com/posts/clg-writing-rules.html), de [
 Philipp Leitner](https://philippleitner.medium.com/some-frequent-writing-tips-i-give-software-engineering-thesis-students-da2acab30381), e [do grupo de pesquisa Capra](https://capra.cs.cornell.edu/styleguide)) que casam bastante com o meu estilo (exceto a sugestão de usar "e.g." e "i.e."; por favor, evite).
 
 Veja dicas para formatação de [tabelas](guide-tables.pdf) e [gráficos](https://johnwickerson.wordpress.com/2019/11/01/graphs-in-pl-papers/). Sobre essa referência de gráficos, o resumo é o seguinte: "<i>normalised data should usually be plotted on a logarithmic scale, and scatter plots can be easier to understand than bar charts</i>". Use [<i>raincloud plots</i>](https://wellcomeopenresearch.org/articles/4-63) ao invés de <i>box plots</i>, <i>bean plots</i> ou <i>violin plots</i>. Os [diagramas de Sankey](https://en.wikipedia.org/wiki/Sankey_diagram) podem ser uma boa opção para ilustrar como uma dada medida (por exemplo, falsos positivos) são quebradas em categorias. Alternativamente, ilustre como a Figura 4 [neste artigo]({{< relref "/publication/2020detecting_semantic_conflicts_via_automated_behavior_change_detection" >}}).
