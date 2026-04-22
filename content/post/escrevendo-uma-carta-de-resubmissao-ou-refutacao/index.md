@@ -30,7 +30,7 @@ projects: []
 
 ### Resubmissão
 
-Antes de tudo, leia [How to Revise a Research Paper](https://dl.acm.org/citation.cfm?id=2904683) e [How to Write an Effective “Response to Reviewers” Letter](http://cs.gmu.edu/~offutt/stvr/26-3-May2016.html). 
+Antes de tudo, leia [How to Revise a Research Paper](https://dl.acm.org/citation.cfm?id=2904683) e [How to Write an Effective “Response to Reviewers” Letter](https://doi.org/10.1002%2Fstvr.1604). 
 
 É essencial ter empatia e facilitar a vida do revisor. Ele já leu o artigo uma vez, e provavelmente não vai ter tempo de ler o artigo todo de novo. Mesmo que ele tenha tempo, ele vai querer facilmente verificar se as mudanças solicitadas por ele foram realmente feitas. Assim é importante destacar todas as mudanças realizadas utilizando um comando como \newcommand{\rev}[1]{\textcolor{blue}{#1}} (ver [Marking Changed Text in Journal Revisions](https://medium.com/@xLeitix/marking-changed-text-in-journal-revisions-8583136a4738), que também sugere um comando para marcar figuras modificadas).
 
@@ -49,6 +49,10 @@ Para cada resposta escrita na carta, referencie de forma precisa (por exemplo, "
 Inclua na carta as respostas logo após a pergunta ou comentário feito pelo revisor. Ou seja, para escrever a carta, simplesmente cole as revisões e adicione as suas respostas com uma cor diferente entre as perguntas ou comentários feitos pelo revisor.
 
 Os comentários mais simples indicando erros de escrita, etc. não precisam ser respondidos individualmente. Podem ser respondidos em conjunto, assim: "We have fixed all typos and minor issues pointed out by the reviewer".
+
+O texto inicial da carta pode ser neste estilo, com uma formatação adequada, logo do CIn, etc.: 
+
+> Dear X, We would like to submit a new revised version of our paper "Y" for the Z journal. In this response letter we detail the changes we made to address the requested minor revision. In the detailed response, the text in red and italic corresponds to reviewers' comments, whereas the text in green is our response. The grayed out text refers to a quote from the paper or from the previous version of this letter. We once again thank the reviewers for their thorough and insightful reviews. Sincerely, W
 
 Leia também as dicas para refutação a seguir!
 
