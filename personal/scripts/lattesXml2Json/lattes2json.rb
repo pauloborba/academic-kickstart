@@ -45,13 +45,13 @@ def processaListaNomes(autores)
 	else 
     if autores[0] != nil 
       autor = autores[0]
+      if autores.size == 1 then
+		    "\"" + autor + "\""
+	    else
+		    ("\"" + autor + "\"") << ", " << processaListaNomes(autores - [autor])
+      end
     else 
-      autor = ""
-    end
-    if autores.size == 1 then
-		  "\"" + autor + "\""
-	  else
-		  ("\"" + autor + "\"") << ", " << processaListaNomes(autores - [autores[0]])
+      processaListaNomes(autores - [autores[0]])
     end
   end
 end
