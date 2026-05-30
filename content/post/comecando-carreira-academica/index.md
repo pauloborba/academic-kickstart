@@ -36,9 +36,9 @@ Leia [How to live in paradise](https://www.cs.virginia.edu/~evans/paradise/), de
 
 são as que eu acho mais importantes e procurei fazer (e me arrependo de quando não fiz! como ter pulado algumas férias...) ao longo da minha carreira. 
 
-Sobre a última, em particular, a ideia não é deixar de fazer as outras tarefas necessárias e que você tem menos interesse (no meu caso corrigir provas, ajudar na gestão, etc.) mas fazê-las com a dedicação mínima necessária que a tarefa requer. Procurar chegar perto da perfeição nessas tarefas vai lhe impossibilitar de chegar perto da perfeição nas tarefas que lhe interessam mais (no meu caso preparar aulas, pesquisar, etc.)!
+Sobre a última, em particular, a ideia não é deixar de fazer as outras tarefas necessárias e que você tem menos interesse (no meu caso corrigir provas, ajudar na gestão, etc.) mas fazê-las com a dedicação mínima necessária que a tarefa requer. Procurar chegar perto da perfeição nessas tarefas vai lhe impossibilitar de chegar perto da perfeição nas tarefas que lhe interessam mais (no meu caso preparar e ministrar aulas, pesquisar, colaborar em projetos de inovação, etc.)!
 
-Leia [Everything I did wrong as a professor](http://matt-welsh.blogspot.com/2016/03/everything-i-did-wrong-as-professor.html), de Matt Welsh, para evitar algumas armadilhas da vida acadêmica. Eu sempre tentei reduzir viagens, dizer não (sempre que você diz sim para uma atividade está dizendo não para outra!), e reduzir o número de projetos e alunos, mas nunca parece suficiente!
+Leia [Everything I did wrong as a professor](http://matt-welsh.blogspot.com/2016/03/everything-i-did-wrong-as-professor.html), de Matt Welsh, para evitar algumas armadilhas da vida acadêmica. Eu sempre tentei reduzir viagens, com mais frequência dizer "não" (sempre que você diz "sim" para uma atividade está dizendo "não" para outra!), e reduzir o número de projetos e alunos (mas isso nunca parece suficiente!).
 
 Como orientador, sempre tento
 
@@ -49,3 +49,6 @@ Como orientador, sempre tento
 - fazer perguntas difíceis
 
 Pense e defina a sua [estratégia de publicação]({{< relref "/talk/estrategias-para-publicacoes" >}}).
+
+Para ter uma visão das vantagens e desvantagens da vida acadêmica, leia [On Choosing an Academic Career… what it takes, what it offers, and what it demands](https://profserious.substack.com/p/on-choosing-an-academic-career?utm_source=substack&publication_id=328471&post_id=198538368&utm_medium=email&utm_content=share&utm_campaign=email-share&triggerShare=true&isFreemail=true&r=5w67x&triedRedirect=true), de Anthony Finkelstein. Segue o resumo: "Academic careers suit a particular kind of person. You need intellectual stamina and tolerance for ambiguity. You should possess the skills and readiness to be part of a complex institution with all that entails. Success will require flexibility and an entrepreneurial edge. If you value the purposes of universities, and are committed to furthering them, it can be a very good career. If not, there are certainly easier ones." 
+
