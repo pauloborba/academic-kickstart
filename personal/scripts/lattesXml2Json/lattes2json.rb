@@ -40,18 +40,14 @@ def includeFile(fileName)
 end
 
 def processaListaNomes(autores)	
-  if autores.size == 0 then
+  # retira nil e strings vazias, e tira espaços em branco no início e fim de cada nome
+  autoresLimpos = Array(autores).compact.map { |a| a.to_s.strip }.reject { |a| a.empty? }
+  if autoresLimpos.size == 0 then
 		"\"\""
-	else 
-    if autores[0] != nil 
-      autor = autores[0]
-      if autores.size == 1 then
-		    "\"" + autor + "\""
-	    else
-		    ("\"" + autor + "\"") << ", " << processaListaNomes(autores - [autor])
-      end
-    else 
-      processaListaNomes(autores - [autores[0]])
+	elseif autoresLimpos.size == 1 then
+	  	"\"" + autoresLimpos[0] + "\""
+  	else
+		  ("\"" + autoresLimpos[0] + "\"") << ", " << processaListaNomes(autores - [autoresLimpos[0]])
     end
   end
 end
@@ -94,14 +90,25 @@ def processaNomeAutor(autor)
   else 
     matchNameSurname = /(\S+)\s*(\S*)\s*(\S*)\s+(\S+)\z/.match(autor)
     if matchNameSurname then
-      surname = splitIfPossible(matchNameSurname[4])
+      preposition2 = extractPreposition(matchNameSurname[2])
+      preposition3 = extractPreposition(matchNameSurname[3])
+      surname = preposition2 + preposition3 + splitIfPossible(matchNameSurname[4])
       firstname = splitIfPossible(matchNameSurname[1])
       fixName(firstname,surname)
-    elsif 
+    elseif
       autor
     end
   end
 end 
+
+def extractPreposition(name)   
+  match = /(de|da|do|dos|das|De|Da|Do|Dos|Das)/.match(name)
+  if match then
+    match[1] + " "
+  else
+    ""
+  end
+end
 
 def fixName(firstname,surname) 
     surname = surname.gsub(/CORNÉLIO/,'Cornélio')
