@@ -53,14 +53,6 @@ def processaListaNomes(autores)
   end
 end
 
-def splitIfPossible(string)
-      if (string.split != [])
-        string.split[0]
-      else
-        string
-      end
-end
-
 # Fixes names obtained from Lattes XML, properly capitalizing and cleaning details forced by Lattes default journal names 
 def processaNomePeriodico(periodico)
   periodico = periodico.gsub(/ \(Print\)/,'')
@@ -83,27 +75,30 @@ end
 # Fixes names obtained from Lattes XML, avoiding abbreviations and issues with capitalization of names with accents (could maybe be fixed by setting encoding, or building layer on top of the default capitalize) 
 #
 def processaNomeAutor(autor)
-	matchSurnameName = /([^ \t\r\n\f,;]+\s*), ([^ \t\r\n\f,;]+\s*)/.match(autor)  
+  # tries to match the first name following ",", and up to three surname parts before ",". Won't work for names with more than three surname parts. Fix this.
+	matchSurnameName = /\A\s*(?:([^,\s;]+)\s+)?(?:([^,\s;]+)\s+)?([^,\s;]+)\s*,\s*([^,\s;]+)/.match(autor)  
 	if matchSurnameName then
-	  surname = splitIfPossible(matchSurnameName[1])
-    firstname = splitIfPossible(matchSurnameName[2])
+    preposition2 = extractPreposition(matchSurnameName[1])
+    preposition3 = extractPreposition(matchSurnameName[2])
+    surname = preposition2 + preposition3 + matchSurnameName[3]
+    firstname = matchSurnameName[4]
     fixName(firstname,surname)
   else 
-    matchNameSurname = /(\S+)\s*(\S*)\s*(\S*)\s+(\S+)\z/.match(autor)
+    matchNameSurname = /\A(\S+)\s*(\S*)\s*(\S*)\s+(\S+)\z/.match(autor)
     if matchNameSurname then
       preposition2 = extractPreposition(matchNameSurname[2])
       preposition3 = extractPreposition(matchNameSurname[3])
-      surname = preposition2 + preposition3 + splitIfPossible(matchNameSurname[4])
-      firstname = splitIfPossible(matchNameSurname[1])
+      surname = preposition2 + preposition3 + matchNameSurname[4]
+      firstname = matchNameSurname[1]
       fixName(firstname,surname)
     else
-      autor
+      nil
     end
   end
 end 
 
 def extractPreposition(name)   
-  match = /(de|da|do|dos|das|De|Da|Do|Dos|Das)/.match(name)
+  match = /\A(de|da|do|dos|das|De|Da|Do|Dos|Das)\z/.match(name)
   if match then
     match[1] + " "
   else
@@ -261,7 +256,11 @@ def fixName(firstname,surname)
     elsif (surname == "VALENTE" || surname == "Valente") 
       firstname = firstname.gsub(/M\./,'Marco')
     end
-    if (surname != 'd\'Amorim') then surname = surname.capitalize end
+    if (surname != 'd\'Amorim') then 
+      parts = surname.split
+      parts[-1] = parts[-1].capitalize if parts.any?
+      surname = parts.join(' ') 
+    end
     firstname.capitalize << " " << surname
 end
 
