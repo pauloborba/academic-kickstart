@@ -44,7 +44,8 @@ def processaListaNomes(autores)
   autoresLimpos = Array(autores).compact.map { |a| a.to_s.strip }.reject { |a| a.empty? }
   if autoresLimpos.size == 0 then
 		"\"\""
-	elseif autoresLimpos.size == 1 then
+	else 
+    if autoresLimpos.size == 1 then
 	  	"\"" + autoresLimpos[0] + "\""
   	else
 		  ("\"" + autoresLimpos[0] + "\"") << ", " << processaListaNomes(autores - [autoresLimpos[0]])
@@ -95,7 +96,7 @@ def processaNomeAutor(autor)
       surname = preposition2 + preposition3 + splitIfPossible(matchNameSurname[4])
       firstname = splitIfPossible(matchNameSurname[1])
       fixName(firstname,surname)
-    elseif
+    else
       autor
     end
   end
