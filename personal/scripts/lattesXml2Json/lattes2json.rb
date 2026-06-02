@@ -393,7 +393,7 @@ def extraiElemento(elemento, estrutura)
 end
 
 def ordenaAutores(autores)
-  ordenado = autores.sort {|x,y| x[1] <=> y[1]}
+  ordenado = autores.sort {|x,y| x[1].to_s.to_i <=> y[1].to_s.to_i}
   ordenado.collect{|noa| processaNomeAutor(noa[0])}
 end
 
