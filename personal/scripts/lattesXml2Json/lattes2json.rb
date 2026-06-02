@@ -98,9 +98,13 @@ def processaNomeAutor(autor)
 end 
 
 def extractPreposition(name)   
-  match = /\A(de|da|do|dos|das|De|Da|Do|Dos|Das)\z/.match(name)
+  match = /\A(de|da|do|dos|das)\z/i.match(name)
   if match then
-    match[1] + " "
+    if match[1].upcase == match[1] then
+      match[1].downcase + " "
+    else
+      match[1] + " "
+    end
   else
     ""
   end
