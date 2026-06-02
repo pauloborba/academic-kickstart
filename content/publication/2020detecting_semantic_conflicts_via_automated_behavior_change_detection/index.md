@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detecting Semantic Conflicts via Automated Behavior Change Detection"
-authors: ["Léuson Silva","Paulo Borba","Wardah Mahmood","Thorsten Berger","João Moisakis"]
+authors: ["Léuson da Silva","Paulo Borba","Wardah Mahmood","Thorsten Berger","João Moisakis"]
 date: 2020-01-01
 doi: ""
 

@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lightweight Semantic Conflict Detection with Static Analysis"
-authors: ["Galileu de Jesus","Paulo Borba","Rodrigo Bonifácio","Matheus Barbosa"]
-date: 2024-01-01
+title: "Comparing static analyses for improved semantic conflict detection"
+authors: ["Galileu de Jesus","Paulo Borba","Rodrigo Bonifácio","Matheus de Oliveira"]
+date: 2026-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-01
+publishDate: 2026-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "46th International Conference on Software Engineering (ICSE 2024), ICSE Companion"
+publication: "Automated Software Engineering"
 publication_short: ""
 
 abstract: ""
@@ -30,17 +30,17 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://spgroup.github.io/papers/interference-static-analyses-comparison.html"
+    icon_pack: 
+    icon: 
 
 
-url_pdf: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf"
+url_pdf: "publication/2026comparing_static_analyses_for_improved_semantic_conflict_detection/2026-Galileu-Comparing-static-analyses-for-improved-semantic-conflict-detection.pdf"
 url_code:
 url_dataset:
-url_poster: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

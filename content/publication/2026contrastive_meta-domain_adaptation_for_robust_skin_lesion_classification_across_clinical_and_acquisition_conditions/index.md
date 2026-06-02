@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lightweight Semantic Conflict Detection with Static Analysis"
-authors: ["Galileu de Jesus","Paulo Borba","Rodrigo Bonifácio","Matheus Barbosa"]
-date: 2024-01-01
+title: "Contrastive Meta-Domain Adaptation for Robust Skin Lesion Classification Across Clinical and Acquisition Conditions"
+authors: ["Rodrigo Mota","Kelvin Cunha","Emanoel dos Santos","Fábio Papais","Francisco Filho","Thales Bezerra","Erico Medeiros","Paulo Borba","Tsang Ren"]
+date: 2026-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-01
+publishDate: 2026-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "46th International Conference on Software Engineering (ICSE 2024), ICSE Companion"
+publication: "2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)"
 publication_short: ""
 
 abstract: ""
@@ -37,10 +37,10 @@ featured: false
 #    icon: 
 
 
-url_pdf: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf"
+url_pdf: "publication/2026contrastive_meta-domain_adaptation_for_robust_skin_lesion_classification_across_clinical_and_acquisition_conditions/2026-Lux-Contrastive_Meta-Domain_Adaptation_for_Robust_Skin_Lesion_Classification_Across_Clinical_and_Acquisition_Conditions.pdf"
 url_code:
 url_dataset:
-url_poster: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:

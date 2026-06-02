@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Build conflicts in the wild"
-authors: ["Léuson Silva","Paulo Borba","Arthur Pires"]
+authors: ["Léuson da Silva","Paulo Borba","Arthur Pires"]
 date: 2022-01-01
 doi: ""
 

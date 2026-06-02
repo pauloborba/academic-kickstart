@@ -1,56 +1,6 @@
 [
    {
       "authors": [
-         "Guilherme Cavalcanti",
-         "Paulo Borba",
-         "Leonardo dos Anjos",
-         "Jônatas Clementino"
-      ],
-      "title": "Semistructured Merge with Language-Specific Syntactic Separators",
-      "conference": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
-      "pages": "",
-      "country": "Estados Unidos",
-      "year": "2024"
-   },
-   {
-      "authors": [
-         "Felipe Araújo",
-         "Paulo Borba",
-         "Guilherme Cavalcanti"
-      ],
-      "title": "Refinando a Precisão da Detecção de Conflitos: Uma Análise do CSDiff com Abordagem Focalizada",
-      "conference": "38th Brazilian Symposium on Software Engineering (SBES 2024)",
-      "pages": "",
-      "country": "Brasil",
-      "year": "2024"
-   },
-   {
-      "authors": [
-         "Amanda Moraes",
-         "Paulo Borba",
-         "Léuson Silva"
-      ],
-      "title": "Semantic conflict detection via dynamic analysis",
-      "conference": "28th Brazilian Symposium on Programming Languages (SBLP 2024)",
-      "pages": "",
-      "country": "Brasil",
-      "year": "2024"
-   },
-   {
-      "authors": [
-         "Toni Maciel",
-         "Paulo Borba",
-         "Léuson Silva",
-         "Thaís Burity"
-      ],
-      "title": "Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos",
-      "conference": "38th Brazilian Symposium on Software Engineering (SBES 2024)",
-      "pages": "",
-      "country": "Brasil",
-      "year": "2024"
-   },
-   {
-      "authors": [
          "Uirá Kulesza",
          "Vander Alves",
          "Roberta Coelho",
@@ -63,21 +13,7 @@
          "Rosana Braga",
          "Julio Leite",
          "Sérgio Soares",
-         "Otávio Lemos",
-         "Nabor Mendonça",
-         "Thaís Batista",
-         "Rodrigo Bonifácio",
-         "Nélio Cacho",
-         "Lyrene Silva",
-         "Arndt Staa",
-         "Fábio Silveira",
-         "Marco Valente",
-         "Fernanda Alencar",
          "Christina Chavez",
-         "Jaelson Castro",
-         "Ricardo Ramos",
-         "Rosangela Penteado",
-         "Cecília Rubira",
          "Fernando Castor",
          "Paulo Borba",
          "Carlos Lucena",
@@ -690,6 +626,20 @@
    },
    {
       "authors": [
+         "Felipe Araújo",
+         "Paulo Borba",
+         "Guilherme Cavalcanti"
+      ],
+      "title": "Refinando a Precisão da Detecção de Conflitos: Uma Análise do CSDiff com Abordagem Focalizada",
+      "conference": "38th Brazilian Symposium on Software Engineering (SBES 2024)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2024",
+      "pdf": "2024-Felipe-CSDiff-Focalizado.pdf",
+      "slides": "2024-Felipe-CSDiff-Focalizado-slides.pdf"
+   },
+   {
+      "authors": [
          "Galileu Santos de Jesus",
          "Paulo Borba",
          "Rodrigo Bonifácio",
@@ -702,6 +652,51 @@
       "year": "2024",
       "pdf": "2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf",
       "poster": "2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
+   },
+   {
+      "authors": [
+         "Amanda Moraes",
+         "Paulo Borba",
+         "Léuson Silva"
+      ],
+      "title": "Semantic conflict detection via dynamic analysis",
+      "conference": "28th Brazilian Symposium on Programming Languages (SBLP 2024)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2024",
+      "pdf": "2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis.pdf",
+      "slides": "2024-Amanda-Semantic-Conflict-Detection-via-dynamic-analysis-slides.pdf"
+   },
+   {
+      "authors": [
+         "Guilherme Cavalcanti",
+         "Paulo Borba",
+         "Leonardo dos Anjos",
+         "Jônatas Clementino"
+      ],
+      "title": "Semistructured Merge with Language-Specific Syntactic Separators",
+      "conference": "39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)",
+      "pages": "",
+      "country": "Estados Unidos",
+      "year": "2024",
+      "pdf": "2024-Anjos-Semistructured-Merge-With-Language-Specific-Separators.pdf",
+      "replicationpackage": "https://zenodo.org/records/13368253"
+   },
+   {
+      "authors": [
+         "Toni Maciel",
+         "Paulo Borba",
+         "Léuson Silva",
+         "Thaís Burity"
+      ],
+      "title": "Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos",
+      "conference": "38th Brazilian Symposium on Software Engineering (SBES 2024)",
+      "pages": "",
+      "country": "Brasil",
+      "year": "2024",
+      "pdf": "2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos.pdf",
+      "slides": "2024-Toni-Deteccao-de-conflitos-com-multiplos-metodos-slides.pdf",
+      "replicationpackage": "https://github.com/ToniMaciel/Syntetic-Mergesdataset"
    },
    {
       "authors": [
@@ -2920,7 +2915,8 @@
       "conference": "11th Workshop on Software Modularity (WMod 2014)",
       "pages": "122-125",
       "country": "Brasil",
-      "year": "2014"
+      "year": "2014",
+      "pdf": "2014-Guilherme-SemistructuredMergeonGitAnAssessment.pdf"
    },
    {
       "authors": [

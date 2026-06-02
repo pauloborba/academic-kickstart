@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semantic conflict detection with overriding assignment analysis"
-authors: ["Matheus Barbosa","Paulo Borba","Rodrigo Bonifacio","Galileu Santos de Jesus"]
+authors: ["Matheus Barbosa","Paulo Borba","Rodrigo Bonifacio","Galileu Santos"]
 date: 2022-01-01
 doi: ""
 

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detecting semantic conflicts with unit tests"
-authors: ["Léuson Silva","Paulo Borba","Toni Maciel","Wardah Mahmood","Thorsten Berger","João Moisakis","Aldiberg Gomes","Vinícius Leite"]
+authors: ["Léuson da Silva","Paulo Borba","Toni Maciel","Wardah Mahmood","Thorsten Berger","João Moisakis","Aldiberg Gomes","Vinícius Leite"]
 date: 2024-01-01
 doi: ""
 

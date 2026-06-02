@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semantic conflict detection via dynamic analysis"
-authors: ["Amanda Moraes","Paulo Borba","Léuson Silva"]
+authors: ["Amanda Moraes","Paulo Borba","Léuson da Silva"]
 date: 2024-01-01
 doi: ""
 

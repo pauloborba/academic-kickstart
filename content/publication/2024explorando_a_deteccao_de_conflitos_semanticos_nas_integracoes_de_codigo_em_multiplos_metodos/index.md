@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Explorando a detecção de conflitos semânticos nas integrações de código em múltiplos métodos"
-authors: ["Toni Maciel","Paulo Borba","Léuson Silva","Thaís Burity"]
+authors: ["Toni Maciel","Paulo Borba","Léuson da Silva","Thaís Burity"]
 date: 2024-01-01
 doi: ""
 

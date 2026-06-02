@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lightweight Semantic Conflict Detection with Static Analysis"
-authors: ["Galileu de Jesus","Paulo Borba","Rodrigo Bonifácio","Matheus Barbosa"]
-date: 2024-01-01
+title: "Detecção de Conflitos Semânticos com Testes Gerados por LLM"
+authors: ["Nathalia Barbosa","Paulo Borba","Léuson Silva"]
+date: 2025-01-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2024-01-01
+publishDate: 2025-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2024-01-01
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "46th International Conference on Software Engineering (ICSE 2024), ICSE Companion"
+publication: "Simpósio Brasileiro de Testes de Software Sistemático e Automatizado"
 publication_short: ""
 
 abstract: ""
@@ -30,17 +30,17 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-#  - name: 'Replication package'
-#    url: ""
-#    icon_pack: 
-#    icon: 
+links:
+  - name: 'Replication package'
+    url: "https://github.com/nathaliafab/smat-codellama-artifacts"
+    icon_pack: 
+    icon: 
 
 
-url_pdf: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis.pdf"
+url_pdf: "publication/2025deteccao_de_conflitos_semanticos_com_testes_gerados_por_llm/2025-Nathalia-Deteccao-de-Conflitos-Semanticos-com-Testes-Gerados-por-LLM.pdf"
 url_code:
 url_dataset:
-url_poster: "publication/2024lightweight_semantic_conflict_detection_with_static_analysis/2024-Galileu-Lightweight-Semantic-Conflict_Detection_with_Static_Analysis-Poster.pdf"
+url_poster: ""
 url_project:
 url_slides: ""
 url_source:
