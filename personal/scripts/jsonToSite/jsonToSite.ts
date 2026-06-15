@@ -29,14 +29,16 @@ for (let article of articles) {
   addFilesToDirectory(directory, article);
 }
 
-// As hugo removes question marks from generated directories, we have to remove here too, otherwise link to article PDF will break
+// As hugo removes question marks, colons, and commas from generated directories, we have to remove here too, otherwise link to article PDF will break
 function createPublicationDirectory(article) {
   const title = article.title;
   const year = article.year;
   const titleWithoutSpaces = title.replace(/ /gi,'_');
   const titleWithoutQuestionMarks = titleWithoutSpaces.replace(/\?/gi,'_');
-  const titleWithoutColon = titleWithoutQuestionMarks.replace(/\:/gi,'_');
-  const titleWithoutAccents = removeAccents(titleWithoutColon);
+  const titleWithoutColons = titleWithoutQuestionMarks.replace(/\:/gi, '_');
+  const titleWithoutSemiColons = titleWithoutColons.replace(/\;/gi, '_');
+  const titleWithoutCommas = titleWithoutSemiColons.replace(/\,/gi, '_');
+  const titleWithoutAccents = removeAccents(titleWithoutCommas);
   let directoryName = year.concat(titleWithoutAccents.toLowerCase());
   if (fs.existsSync(directoryName)) {
     directoryName = directoryName + "_double_entry"
