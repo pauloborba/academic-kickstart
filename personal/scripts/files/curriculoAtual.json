@@ -114,7 +114,9 @@
       "conference": "42nd International Conference on Software Maintenance and Evolution (ICSME 2026)",
       "pages": "",
       "country": "Itália",
-      "year": "2026"
+      "year": "2026",
+      "pdf": "2026-Leuson-Github-Template-Repos-Served-Domains-Maint-Pract-Guidelines.pdf",
+      "replicationpackage": "https://github.com/leusonmario/template-repository-analysis"
    },
    {
       "authors": [
