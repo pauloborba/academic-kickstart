@@ -38,7 +38,7 @@ Os servidores só têm o docker instalado, então todo o seu experimento tem que
 
 Temos alguns servidores (uns mais novos e potentes, outros mais antigos) que são úteis para realização de experimentos com isolamento de outros usos da máquina, o que é essencial para medir tempo de execução, por exemplo. 
 
-É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período. Em particular, é necessário reservar o experimento na [agenda dos servidores](https://calendar.google.com/calendar/u/5?cid=Y180MzY5Njg5YTdkNDRjMmQ3Y2RjOTVhZTM0MzAwODUxNTdlMDFmMGYxZWM5MmE5ZDg1ZGJmN2IwZDBlZWY1ZDZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). Veja mais informações abaixo.
+É preciso combinar com outros usuários se precisarmos de exclusividade de uso da máquina por um período. Em particular, é necessário reservar o experimento na [agenda dos servidores](https://calendar.google.com/calendar/embed?src=c_39787dd5697b747a51c757c0011d3acc9d97782e4dd2716f9986773df592eb06%40group.calendar.google.com&ctz=America%2FRecife). Veja mais informações abaixo.
 
 Os servidores são chamados 
 
@@ -58,7 +58,7 @@ Para uso intenso de GPUs, temos o cluster Apuana (ver como usa na página de [si
 
 ### Uso compartilhado dos servidores
 
-Antes de iniciar a execução de qualquer experimento nos servidores, consulte a [agenda de uso do servidor](https://calendar.google.com/calendar/u/5?cid=Y180MzY5Njg5YTdkNDRjMmQ3Y2RjOTVhZTM0MzAwODUxNTdlMDFmMGYxZWM5MmE5ZDg1ZGJmN2IwZDBlZWY1ZDZjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) para verificar se há algum agendamento de experimento para o mesmo período em que você pretende rodar o seu experimento.  
+Antes de iniciar a execução de qualquer experimento nos servidores, consulte a [agenda de uso do servidor](https://calendar.google.com/calendar/embed?src=c_39787dd5697b747a51c757c0011d3acc9d97782e4dd2716f9986773df592eb06%40group.calendar.google.com&ctz=America%2FRecife) para verificar se há algum agendamento de experimento para o mesmo período em que você pretende rodar o seu experimento.  
 
 Mesmo que não tenha nenhum agendamento no período de interesse, após logar no servidor, verifique se há outros pesquisadores rodando experimentos. Use ferramentas como as seguintes:
 
