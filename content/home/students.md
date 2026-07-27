@@ -15,7 +15,7 @@ subtitle = ""
 Here are the students I currently supervise, with their expected graduation dates:
 
 * [Pedro Henrique Lopes dos Santos](https://www.cin.ufpe.br/~phls2/) (MSc 2026)
-* Amanda Moraes (MSc 2026)
+* [Amanda Moraes](https://amandascm.github.io) (MSc 2026)
 * Victor Lira (Postdoc 2026)
 * [Matheus Barbosa](https://barbosamaatheus.github.io) (PhD 2027)
 * [Heitor Sammuel Carvalho](https://www.cin.ufpe.br/~hscs) (MSc 2027)
@@ -24,9 +24,9 @@ Here are the students I currently supervise, with their expected graduation date
 * [Ricardo Pereira Lins](https://www.cin.ufpe.br/~rpl3/) (MSc 2027)
 * [Jóison Oliveira Pereira](https://www.cin.ufpe.br/~jop/) (MSc 2027)
 * [José Arthur Soares Bezerra](https://www.cin.ufpe.br/~jasb/) (MSc 2027)
-* Ykaro dos Santos (BSc 2027)
+* [Ykaro dos Santos](https://ykarocin.github.io/Personal-website) (BSc 2027)
 * Guilherme Cavalcanti (Postdoc 2027)
-* Leonardo dos Anjos (MSc 2028)
+* [Leonardo dos Anjos](https://leonardoanjos16.github.io) (MSc 2028)
 * [Nathalia Barbosa](https://www.cin.ufpe.br/~nfab/) (MSc 2028)
 * Vinicius Barbosa (MSc 2028)
 * Diogo Dias (BSc 2029)
