@@ -28,7 +28,7 @@ Here are the students I currently supervise, with their expected graduation date
 * Guilherme Cavalcanti (Postdoc 2027)
 * [Leonardo dos Anjos](https://leonardoanjos16.github.io) (MSc 2028)
 * [Nathalia Barbosa](https://www.cin.ufpe.br/~nfab/) (MSc 2028)
-* Vinicius Barbosa (MSc 2028)
+* [Vinicius Barbosa](https://vinicius-resende-cin.github.io/) (MSc 2028)
 * Diogo Dias (BSc 2029)
 * [João Pedro Henrique Santos Duarte](https://jpedroh.dev/) (PhD 2030)
 
