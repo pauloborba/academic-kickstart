@@ -71,7 +71,7 @@ Mesmo que não tenha nenhum agendamento no período de interesse, após logar no
 
 Se alguém estiver utilizando a máquina, entre em contato com a pessoa antes para evitar interferências no experimento da pessoa, e pergunte se ela necessita de isolamento (como em experimentos com medição de tempo, curto prazo para a execução do experimento, etc.).
 Caso ela precise de isolamento, confirme qual a previsão de término do experimento dela, e então decida se prefere esperar ou tentar outra máquina do grupo.
-Ao ter certeza que a máquina está liberada para uso, e caso precise de isolamento, reserve o período do seu experimento na agenda do servidor. O título do evento deve conter o nome do servidor que será usado. 
+Ao ter certeza que a máquina está liberada para uso, e caso precise de isolamento, reserve o período do seu experimento na agenda do servidor (você precisa fazer parte da lista [labes-l](https://groups.google.com/a/cin.ufpe.br/g/labes-l) para reservar). O título do evento deve conter o nome do servidor que será usado. 
 
 *Ao criar containers e imagens do Docker para executar o seu experimento, use um nome identificável baseado no seu login do CIn.* Por exemplo: ldc_nomeDoContainer, ldc_nomeDaImagem. Isso reduz o risco de exclusões acidentais e facilita identificar quem está usando o quê. Containers e imagens que não seguirem essa recomendação podem ser eliminados sem aviso. 
 
