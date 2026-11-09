@@ -1,0 +1,4 @@
+{{- /* Reproduces Blackfriday's `hrefTargetBlank = true` (removed with Blackfriday in Hugo v0.100):
+       absolute links open in a new tab, as on the site built with the old Hugo. */ -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* chomp trailing newline */ -}}

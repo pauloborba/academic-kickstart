@@ -96,6 +96,7 @@ Veja dicas para formatação de [tabelas](guide-tables.pdf) e [gráficos](https:
 Use um <i>spell checker</i>! Considere usar uma ferramenta (como [Grammarly](https://www.grammarly.com) ou [ChatGPT](https://openai.com/blog/chatgpt/)) para revisar o seu texto. Considere usar uma ferramenta (como [Stanford Agentic Reviewer](https://paperreview.ai)) para gerar uma revisão de artigo; não assuma que tudo que ela relata é verdade! Não usando uma ferramenta dessas, use [scripts para melhorar a qualidade de textos em inglês](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates):
 <ul>
 <li>script para detecção de Weasel Words
+
 ```bash
 #!/bin/bash
  
@@ -138,6 +139,7 @@ egrep -i -n --color "\\b($weasels)\\b" $*
 exit $?
 ```
 <li>script para deteção de Voz Passiva
+
 ```bash
 #!/bin/bash
  
@@ -206,6 +208,7 @@ egrep -n -i --color \
 exit $?
 ```
 <li>script para detecção de Palavras Duplicadas
+
 ```perl
 #!/usr/bin/env perl
  

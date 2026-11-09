@@ -1,0 +1,5 @@
+{{/* Hugo >= 0.123 compatibility: returns the page's content directory (e.g. "authors/admin/"),
+     which is what `(path.Split .Path).Dir` returned before Hugo changed `.Path`. Empty if the page has no file. */}}
+{{- $dir := "" -}}
+{{- with .File }}{{ $dir = .Dir }}{{ end -}}
+{{- return $dir -}}

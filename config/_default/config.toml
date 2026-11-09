@@ -31,10 +31,14 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-paginate = 10  # Number of items per page in paginated lists.
+titleCaseStyle = "firstupper"  # Automatic section/term titles: only the first letter is upper-cased ("Courses", "Emanoel dos Santos"), matching the site built with the old Hugo.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+# Number of items per page in paginated lists (was `paginate = 10`, deprecated in Hugo v0.128).
+[pagination]
+  pagerSize = 10
 
 [outputs]
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
@@ -45,20 +49,38 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [outputFormats.WebAppManifest]
   mediaType = "application/manifest+json"
+  baseName = "index"  # Newer Hugo defaults to "manifest"; the theme links to /index.webmanifest.
   rel = "manifest"
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
+  # Blackfriday was removed in Hugo v0.100; these settings are kept for reference only.
+  # Their equivalents are in [markup] below and in layouts/_default/_markup/render-link.html (hrefTargetBlank).
   hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
 	angledQuotes = false
 	latexDashes = true
   extensions = ["backslashLineBreak"]
 
+# Markdown renderer (Goldmark). `unsafe = true` keeps the raw HTML used inside posts,
+# as Blackfriday did when the published site was built.
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  # Leave code blocks as <code class="language-xxx"> for the theme's client-side highlight.js,
+  # as on the published site (Hugo's built-in Chroma highlighting is on by default now).
+  [markup.highlight]
+    codeFences = false
+
 [imaging]
   resampleFilter = "lanczos"
-  quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+  # `imaging.quality` was deprecated in Hugo v0.163; quality is now set per format.
+  [imaging.jpeg]
+    quality = 90
+  [imaging.webp]
+    quality = 90
 
 # Taxonomies.
 [taxonomies]

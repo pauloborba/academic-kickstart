@@ -1,0 +1,33 @@
+{{/* List of all authors. */}}
+
+{{- define "main" -}}
+
+{{ partial "page_header.html" . }}
+
+<div class="universal-wrapper">
+  {{ with .Content }}
+  <div class="article-style">{{ . }}</div>
+  {{ end }}
+
+  <ul>
+    {{/* Hugo >= 0.123 lists each spelling of an author name as a separate term even when they share a URL
+         (e.g. "Marcio Ribeiro" and "Márcio Ribeiro"). Keep one entry per URL, as older Hugo did. */}}
+    {{ $seen := dict }}
+    {{ $uniq := slice }}
+    {{ range .Data.Pages }}
+      {{ if not (index $seen .RelPermalink) }}
+        {{ $seen = merge $seen (dict .RelPermalink true) }}
+        {{ $uniq = $uniq | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $paginator := .Paginate $uniq }}
+    {{ range $k, $v := $paginator.Pages }}
+      {{ $name := $v.Params.name | default ($v.Title|plainify) }}
+      <li><a href="{{$v.Permalink}}">{{$name}}</a></li>
+    {{ end }}
+  </ul>
+
+  {{ partial "pagination" . }}
+</div>
+
+{{- end -}}
