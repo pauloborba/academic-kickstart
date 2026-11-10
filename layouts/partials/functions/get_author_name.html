@@ -19,7 +19,9 @@
 {{ $profile_page := site.GetPage (printf "/%s/%s" $taxonomy $author_username) }}
 {{- if and (not $profile_page) $author }}{{ $profile_page = partial "compat/term_page.html" (dict "taxonomy" $taxonomy "term" $author) }}{{ end }}
 {{ with $profile_page }}
-  {{ $author = .Params.name | default .Title }}
+  {{/* Prefer a profile's `name`, else the name as written in the page's front matter: newer Hugo keeps a
+       separate term page per spelling, so the term title may be another spelling (e.g. "Sergio" for "Sérgio"). */}}
+  {{ $author = .Params.name | default $author | default .Title }}
 {{ else }}
   {{ $author = $author | default $publisher }}
 {{ end }}
