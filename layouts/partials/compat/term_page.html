@@ -1,0 +1,12 @@
+{{- /* Find a taxonomy term page (e.g. an author) from the name used in front matter.
+       Newer Hugo stores term pages under the name as written, lowercased with spaces as hyphens
+       (e.g. /authors/joão-santos), and removePathAccents only changes the published URL
+       (/authors/joao-santos/). Older Hugo found them by the urlized name, which now fails for
+       names with accents or apostrophes. Try the urlized name first, then the stored forms.
+       Usage: partial "compat/term_page.html" (dict "taxonomy" "authors" "term" "João Santos") */ -}}
+{{- $tax := .taxonomy -}}
+{{- $term := .term -}}
+{{- $p := site.GetPage (printf "/%s/%s" $tax (urlize $term)) -}}
+{{- if not $p }}{{ $p = site.GetPage (printf "/%s/%s" $tax (replace (lower $term) " " "-")) }}{{ end -}}
+{{- if not $p }}{{ $p = site.GetPage (printf "/%s/%s" $tax (anchorize $term)) }}{{ end -}}
+{{- return $p -}}
