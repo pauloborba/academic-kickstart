@@ -22,14 +22,15 @@
     {{/* Hugo >= 0.123 keeps only one spelling per author term (e.g. "Flávia Delicato" vs "Flavia Delicato"),
          so `.Pages` would miss pages that use another spelling of the same name. Older Hugo merged them by URL;
          reproduce that by collecting every regular page whose `authors` entry maps to this term's URL. */}}
-    {{ $slug := path.Base .RelPermalink }}
-    {{ $query := slice }}
-    {{ range site.RegularPages }}
-      {{ $p := . }}
-      {{ $match := false }}
-      {{ range $p.Params.authors }}{{ if eq (urlize .) $slug }}{{ $match = true }}{{ end }}{{ end }}
-      {{ if $match }}{{ $query = $query | append $p }}{{ end }}
-    {{ end }}
+    {{- /* Whitespace-trimmed ({{- -}}) so the loop over all pages adds no blank lines to the HTML. */}}
+    {{- $slug := path.Base .RelPermalink }}
+    {{- $query := slice }}
+    {{- range site.RegularPages }}
+      {{- $p := . }}
+      {{- $match := false }}
+      {{- range $p.Params.authors }}{{ if eq (urlize .) $slug }}{{ $match = true }}{{ end }}{{ end }}
+      {{- if $match }}{{ $query = $query | append $p }}{{ end }}
+    {{- end }}
     {{ $count := len $query }}
     {{ if $count }}
     <div class="article-widget content-widget-hr">
