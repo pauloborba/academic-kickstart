@@ -295,6 +295,8 @@ Nos artigos, colocar algo como "For partially supporting this work, we would lik
 
 Agradecer aos membros do Software Productivity Group e, especificamente, a quem lhe ajudou (revisou seu artigo, implementou algo para você, indicou referências, fez perguntas importantes, deu uma idéia mesmo que você já tenha tido-a) ou deu dicas e sugestões para a melhoria do seu trabalho.
  
-#### Adicione parágrafo sobre questões éticas de pesquisa
+#### Adicione parágrafo sobre questões éticas de pesquisa e IA
 
 Inclua no seu artigo um parágrafo explicando como a pesquisa relatada no artigo lidou com questões éticas relacionadas aos experimentos realizados ou dados utilizados. Descreva com precisão os procedimentos adotados: se houve submissão ao CEP (informando o CAAE correspondente) ou se o estudo se enquadra em alguma das dispensas previstas na legislação vigente; como foram tratados o consentimento dos participantes, a anonimização ou pseudonimização dos dados, o controle de acesso e o armazenamento seguro; e, se dados públicos foram utilizados, porque isso não dispensa cuidados éticos e como a compatibilidade do reuso respeita a LGPD. 
+
+Verifique as regras vigentes (MEC, UFPE, evento e periódico) sobre a necessidade de informar para que e como você usou LLMs e agentes. Atualmente, o MEC exige que seja informado; se formos publicar num veículo internacional que dispensa a informação sobre uso de IA, devemos colocar apenas no [apêndice online]({{<relref "/post/divulgando-resultados-de-pesquisa/">}}) (que deve conter o material necessário para replicar o estudo) do artigo.

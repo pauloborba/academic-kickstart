@@ -52,8 +52,7 @@ No mundo acadêmico, esse e outros usos não responsáveis da IA podem levar a s
 
 Assim, usem com ética e muito cuidado! Na dúvida, consulte seu orientador. 
 
-
-Por fim, em toda reunião, apresentação, entrega, etc. informe explicitamente ao seu orientador para que e como você usou LLMs e agentes.
+Por fim, em toda reunião, apresentação, entrega, etc. informe explicitamente ao seu orientador para que e como você usou LLMs e agentes. Para os artigos, teses, e conjuntos de slides verifique as regras vigentes (MEC, UFPE, evento e periódico) sobre a necessidade de informar para que e como você usou LLMs e agentes. Atualmente, o MEC exige que seja informado; se formos publicar num veículo internacional que dispensa a informação sobre uso de IA, devemos colocar apenas no [apêndice online]({{<relref "/post/divulgando-resultados-de-pesquisa/">}}) (que deve conter o material necessário para replicar o estudo) do artigo.
 
 Seguem alguns problemas que eu já tive com o uso de IA e que podem lhe ajudar a entender melhor as recomendações acima: 
 
